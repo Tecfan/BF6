@@ -999,7 +999,7 @@ Inflict damage beyond 75m with DMRs. (3,000)",SVDM,,,,0
 1015,Dog Tags,Dog Tags,Killer Rhythm,Other,,Reverb Strike (Store),,,x,,1
 1016,Dog Tags,Dog Tags,Lead Rain,Other,,Rogue Ops pack (Store),,,x,,1
 1017,Dog Tags,Dog Tags,On Call,Other,,Rogue Rivalry (Store),,,x,,1
-1018,Dog Tags,Dog Tags,Restructured,Other,,"REMOVED SEASON 2 - Season 1 Portal Creators who met ""the challenge"" - unknown what this means",,x,,,
+1018,Dog Tags,Dog Tags,Restructured,Other,,"Unknown - REMOVED SEASON 2 - Season 1 Portal Creators who met ""the challenge""",,x,,,
 1019,Dog Tags,Dog Tags,Tropical Storm,Other,,Season 1 Starter pack (Store),,,x,,1
 1020,Dog Tags,Dog Tags,Preserving Peace,Other,,Serve and Sacrifice (Store),,,x,,1
 1021,Dog Tags,Dog Tags,Last Laugh,Other,,Shadow Assault (Store),,,x,,1
@@ -1608,7 +1608,6 @@ Vanguard Redeploy (Store)",1
 1649,Vehicle Customizations,ATP Customizations,Mounted Weapon,Left Gunner,,Default,,,,,1
 1650,Vehicle Customizations,ATP Customizations,Mounted Weapon,Right Gunner,,Default,,,,,1
 1651,Vehicle Customizations,ATP Skins,Crash Override,,Pax Armata,ATP Mastery 50,,,,,1
-1652,Vehicle Customizations,ATP Skins,Riot Wrecker,,Pax Armata,ATP Mastery 50 (removevd April 2026),,x,,,1
 1653,Vehicle Customizations,ATP Skins,Factory Default,,NATO,Default,,,,,1
 1654,Vehicle Customizations,ATP Skins,Factory Default,,Pax Armata,Default,,,,,1
 1655,Vehicle Customizations,Attack Heli Customizations,Improved Armor,Upgrade,,Attack Heli Mastery 15,,,,,0
@@ -1619,7 +1618,7 @@ Vanguard Redeploy (Store)",1
 1660,Vehicle Customizations,Attack Heli Customizations,Aim-Guided,Ammo 2,,Attack Heli Mastery 8,,,,,0
 1661,Vehicle Customizations,Attack Heli Customizations,Interference,Upgrade,,Attack Heli Mastery 8,,,,,0
 1662,Vehicle Customizations,Attack Heli Customizations,Aim-Guided,Ammo 1,,Default,,,,,0
-1663,Vehicle Customizations,Attack Heli Customizations,Anti -Air,Ammo 2,,Default,,,,,0
+1663,Vehicle Customizations,Attack Heli Customizations,Anti-Air,Ammo 2,,Default,,,,,0
 1664,Vehicle Customizations,Attack Heli Customizations,Flares,Equipment 1,,Default,,,,,0
 1665,Vehicle Customizations,Attack Heli Customizations,Emergency Repair,Equipment 2,,Default,,,,,0
 1666,Vehicle Customizations,Attack Heli Customizations,Radar System,Upgrade,,Default,,,,,0
@@ -1632,7 +1631,6 @@ Vanguard Redeploy (Store)",1
 1673,Vehicle Customizations,Attack Heli Skins,Factory Default,,Pax Armata,Default,,,,,0
 1674,Vehicle Customizations,Attack Heli Skins,Trust Equation,,NATO,Season 1 Battle Pass Rogue Operators Tier 15,,,x,,1
 1675,Vehicle Customizations,Attack Heli Skins,Desert Fire,,NATO,Unknown (promo),,x,,,
-1676,Vehicle Customizations,Attack Heli Skins,Deluge,,Pax Armata,Unknown,,x,,,
 1677,Vehicle Customizations,Attack Heli Skins,Blackbeard,,Pax Armata,Unknown,,x,,,
 1678,Vehicle Customizations,Attack Jet Customizations,Autocannon,Ammo 1,,Default,,,,,0
 1679,Vehicle Customizations,Attack Jet Customizations,Guided,Ammo 2,,Default,,,,,0
@@ -1663,11 +1661,11 @@ Vanguard Redeploy (Store)",1
 1704,Vehicle Customizations,IFV Customizations,Threat Detector,Driver Equipment 2,,Default,,,,,0
 1705,Vehicle Customizations,IFV Customizations,Field Maintenance,Upgrade,,Default,,,,,0
 1706,Vehicle Customizations,IFV Customizations,Light Machine Gun,Remote Weapon 1,,Default,,,,,0
-1707,Vehicle Customizations,IFV Customizations,Target Designator,Remote Weapon 2,,Default,,,,,0
+1707,Vehicle Customizations,IFV Customizations,Target Designator,Gunner Equipment,,Default,,,,,0
 1708,Vehicle Customizations,IFV Customizations,Smoke Wall,Gunner Equipment,,Default,,,,,0
 1709,Vehicle Customizations,IFV Customizations,Emergency Repair,Driver Equipment 1,,IFV Mastery 11,,,,,0
 1710,Vehicle Customizations,IFV Customizations,Anti-Personell,Ammo 1,,IFV Mastery 12,,,,,0
-1711,Vehicle Customizations,IFV Customizations,Reinforced Plating,Upgrade,,IFV Mastery 12,,,,,0
+1711,Vehicle Customizations,IFV Customizations,Emergency Countermeasures,Upgrade,,IFV Mastery 12,,,,,0
 1712,Vehicle Customizations,IFV Customizations,Systems Upgrade,Upgrade,,IFV Mastery 15,,,,,0
 1713,Vehicle Customizations,IFV Customizations,Counter-Fire Radar,Driver Equipment 2,,IFV Mastery 2,,,,,0
 1714,Vehicle Customizations,IFV Customizations,Lock-Guided,Ammo 2,,IFV Mastery 3,,,,,0
@@ -1712,7 +1710,7 @@ Vanguard Redeploy (Store)",1
 1753,Vehicle Customizations,MBT Customizations,Projectile Intercept,Driver Equipment,,MBT Mastery 3,,,,,0
 1754,Vehicle Customizations,MBT Customizations,Countermeasures,Gunner Equipment,,MBT Mastery 3,,,,,0
 1755,Vehicle Customizations,MBT Customizations,Anti-Personell,Ammo,,MBT Mastery 4,,,,,0
-1756,Vehicle Customizations,MBT Customizations,Reinforced Plating,Upgrade,,MBT Mastery 4,,,,,0
+1756,Vehicle Customizations,MBT Customizations,Emergency Countermeasures,Upgrade,,MBT Mastery 4,,,,,0
 1757,Vehicle Customizations,MBT Customizations,Coaxial HMG,Secondary,,MBT Mastery 6,,,,,0
 1758,Vehicle Customizations,MBT Customizations,Grenade Launcher,Remote Weapon,,MBT Mastery 7,,,,,0
 1759,Vehicle Customizations,MBT Customizations,High Explosive,Ammo,,MBT Mastery 8,,,,,0
@@ -3090,7 +3088,7 @@ Vanguard Redeploy (Store)",1
 3131,Weapon Packages,M2010 ESR Packages,Unstoppable Force,Sniper Rifle,,M2010 ESR Mastery 50,,,,,0
 3132,Weapon Packages,M2010 ESR Packages,Drop Shadow,Sniper Rifle,,Phantom Edition,,,x,,0
 3133,Weapon Packages,M2010 ESR Packages,Interspace,Sniper Rifle,,Season 1 Battle Pass Rogue Operators Tier 6,,,,,1
-3134,Weapon Packages,M2010 ESR Packages,Lethal Force,Sniper Rifle,,"Inbox gift for the playing the game this month, November 2025",,,,,1
+3134,Weapon Packages,M2010 ESR Packages,Lethal Force [sometimes unnamed in-game],Sniper Rifle,,"Inbox gift for the playing the game this month, November 2025",,,,,1
 3135,Weapon Packages,M2010 ESR Packages,Deadlock,Sniper Rifle,,Unknown (tournament reward),,x,,,
 3136,Weapon Attachments,M240L Attachments,SU-230 LPVO,Scopes,,Challenge SEASON 1 HARDWARE 1,,,,,1
 3137,Weapon Attachments,M240L Attachments,Rail Cover,Ergonomics,,Challenge SEASON 1 HARDWARE 2,,,,,1
@@ -4390,7 +4388,7 @@ Vanguard Redeploy (Store)",1
 4432,Weapon Attachments,SCW-10 Attachments,"6.8"" Fluted",Barrels,,SCW-10 Mastery 14,,,,,0
 4433,Weapon Attachments,SCW-10 Attachments,RO-S 1.25x,Scopes,,SCW-10 Mastery 15,,,,,0
 4434,Weapon Attachments,SCW-10 Attachments,Double-Port Brake,Muzzles,,SCW-10 Mastery 15,,,,,0
-4435,Weapon Attachments,SCW-10 Attachments,Compensated Brake,Muzzles,,SCW-10 Mastery 16,,,,,0
+4435,Weapon Attachments,SCW-10 Attachments,Compensated Brake,Muzzles,,SCW-10 Mastery 30,,,,,0
 4436,Weapon Attachments,SCW-10 Attachments,6H64 Vertical,Underbarrels,,SCW-10 Mastery 16,,,,,0
 4437,Weapon Attachments,SCW-10 Attachments,OSA-7 1.00x,Scopes,,SCW-10 Mastery 17,,,,,0
 4438,Weapon Attachments,SCW-10 Attachments,Frangible,Ammunition,,SCW-10 Mastery 17,,,,,0
@@ -5852,7 +5850,7 @@ Ready Reserves (Store)",1
 5907,Dog Tags (taken),Dog Tags (taken),Preserving Peace,Other,,,,,,,1
 5908,Dog Tags (taken),Dog Tags (taken),Reckoning,Other,,,,,,,1
 5909,Dog Tags (taken),Dog Tags (taken),Reloading,Other,,,,x,,,
-5910,Dog Tags (taken),Dog Tags (taken),Restructured,Other,,REMOVED SEASON 2,,x,,,
+5910,Dog Tags (taken),Dog Tags (taken),Restructured,Other,,,,x,,,
 5911,Dog Tags (taken),Dog Tags (taken),Ripple Effect Dev,Other,,,,,,,0
 5912,Dog Tags (taken),Dog Tags (taken),Rise Up [323],Other,,,,,,,1
 5913,Dog Tags (taken),Dog Tags (taken),Seeing Red [Red Bull],Other,,,,,,,1
@@ -5991,7 +5989,7 @@ Get Shotgun kills in a life. (4)",DB-12,,,,1
 6052,Appearance,Espada Engineer,Sudden Death,,Pax Armata,Freezing Point (Store),,,x,,1
 6053,Appearance,Kahina Unité Recon,Hornet,,Pax Armata,Unknown (Tournament Play),,x,,,
 6054,Universal Weapon Customization,Weapon Charms,Winter Devil,,,Snowstrike (Store),,,x,,1
-6055,Universal Weapon Customization,Weapon Charms,Paratrooper,,,Unknown,,x,,,
+6055,Universal Weapon Customization,Weapon Charms,Paratrooper,,,Unknown (tournament reward),,x,,,
 6056,Universal Weapon Customization,Weapon Charms,In Control,,,Unknown (tournament reward),,x,,,
 6057,Universal Weapon Customization,Weapon Charms,Well-Rounded,,,Phase Shift (Store),,,x,,1
 6058,Universal Weapon Customization,Weapon Charms,Hellish Horror,,,Preternatural (Store),,,x,,1
@@ -6002,7 +6000,7 @@ Get Shotgun kills in a life. (4)",DB-12,,,,1
 6063,Universal Weapon Customization,Weapon Charms,Lay Odds,,,Unknown,,x,,,
 6064,Universal Weapon Customization,Weapon Charms,Death Watches,,,Challenge REVIVE TEAMMATES WHILE FREEZING. [Winter Offensive 2025],,,,,1
 6065,Universal Weapon Customization,Weapon Charms,Death Smiles,,,Battlefield REDSEC Elite Series Match Day #1 Twitch Drops (watch 3 hours),,,,,1
-6066,Universal Weapon Customization,Weapon Charms,Trencher,,,Unknown,,x,,,
+6066,Universal Weapon Customization,Weapon Charms,Trencher,,,Unknown (tournament reward),,x,,,
 6067,Universal Weapon Customization,Weapon Charms,Tormenting Talon,,,Battle Eagle (Store),,,x,,1
 6068,Universal Weapon Customization,Weapon Charms,Wildwood,,,Season 1 Battle Pass Winter Offensive Tier 4,,,x,,1
 6069,Universal Weapon Customization,Weapon Charms,Predator's Summit,,,Iron Claw (Store),,,x,,1
@@ -6220,7 +6218,7 @@ Get headshot hits. (30)",SOR-300SC,,,,2
 6294,Challenges and Assignments,BF Pro Challenges,Battle Pass S2 Challenge 1,Challenge,,Complete matches in any mode. (40),Care Package player card background,,x,,2
 6295,Vehicle Customizations,Scout Helicopter Skins,Factory Default,,NATO,Default,,,,,2
 6296,Vehicle Customizations,Scout Helicopter Skins,Factory Default,,Pax Armata,Default,,,,,2
-6297,Vehicle Customizations,Scout Helicopter Customizations,Emergency Stabilizer,Upgrade 1,,Default,,,,,2
+6297,Vehicle Customizations,Scout Helicopter Customizations,Stabilizer,Upgrade 1,,Default,,,,,2
 6298,Vehicle Customizations,Scout Helicopter Customizations,Flares,Equipment 1,,Default,,,,,2
 6299,Vehicle Customizations,Scout Helicopter Customizations,Light Rockets,Secondary,,Default,,,,,2
 6300,Vehicle Customizations,Scout Helicopter Customizations,Minigun,Primary,,Default,,,,,2
@@ -6457,14 +6455,14 @@ Spot enemies. (200)",One in the Chamber player card icon,,x,,2
 6530,Appearance,Task Force Vector Jensen,Standard Issue,,Pax Armata,Season 2 Battle Pass Death Stalkers Tier 11,,,x,,2
 6531,Units,Pax Armata Units,Task Force Vector Jensen,Assault,Pax Armata,Season 2 Battle Pass Death Stalkers Tier 11,,,x,,2
 6532,Weapon Packages,SG 553R Packages,Necrosis,Carbine,,Season 2 Battle Pass Death Stalkers Tier 13,,,x,,2
-6533,Weapon Attachments,GRT-CPS Attachments,"20"" Factory",Barrels,,Season 2 Battle Pass Death Stalkers Tier 14,,,,,2
-6534,Weapon Attachments,GRT-CPS Attachments,20RND Magazine,Magazines,,Season 2 Battle Pass Death Stalkers Tier 14,,,,,2
-6535,Weapon Attachments,GRT-CPS Attachments,BAKER 3.00x,Scopes,,Season 2 Battle Pass Death Stalkers Tier 14,,,,,2
-6536,Weapon Attachments,GRT-CPS Attachments,Flash Hider,Muzzles,,Season 2 Battle Pass Death Stalkers Tier 14,,,,,2
-6537,Weapon Attachments,GRT-CPS Attachments,Hollow Point,Ammunition,,Season 2 Battle Pass Death Stalkers Tier 14,,,,,2
-6538,Weapon Attachments,GRT-CPS Attachments,Iron Sights,Scopes,,Season 2 Battle Pass Death Stalkers Tier 14,,,,,2
-6539,Weapon Packages,GRT-CPS Packages,Factory,DMR,,Season 2 Battle Pass Death Stalkers Tier 14,,,,,2
-6540,Weapons and Gadgets,Weapons,GRT-CPS,DMR,,Season 2 Battle Pass Death Stalkers Tier 14,,,,Season 2 Battle Pass Recruit Tier 0,2
+6533,Weapon Attachments,GRT-CPS Attachments,"20"" Factory",Barrels,,Season 2 Battle Pass Death Stalkers Tier 14,,,,Challenge Season 2 Catch-Up Hardware 4,2
+6534,Weapon Attachments,GRT-CPS Attachments,20RND Magazine,Magazines,,Season 2 Battle Pass Death Stalkers Tier 14,,,,Challenge Season 2 Catch-Up Hardware 4,2
+6535,Weapon Attachments,GRT-CPS Attachments,BAKER 3.00x,Scopes,,Season 2 Battle Pass Death Stalkers Tier 14,,,,Challenge Season 2 Catch-Up Hardware 4,2
+6536,Weapon Attachments,GRT-CPS Attachments,Flash Hider,Muzzles,,Season 2 Battle Pass Death Stalkers Tier 14,,,,Challenge Season 2 Catch-Up Hardware 4,2
+6537,Weapon Attachments,GRT-CPS Attachments,Hollow Point,Ammunition,,Season 2 Battle Pass Death Stalkers Tier 14,,,,Challenge Season 2 Catch-Up Hardware 4,2
+6538,Weapon Attachments,GRT-CPS Attachments,Iron Sights,Scopes,,Season 2 Battle Pass Death Stalkers Tier 14,,,,Challenge Season 2 Catch-Up Hardware 4,2
+6539,Weapon Packages,GRT-CPS Packages,Factory,DMR,,Season 2 Battle Pass Death Stalkers Tier 14,,,,Challenge Season 2 Catch-Up Hardware 4,2
+6540,Weapons and Gadgets,Weapons,GRT-CPS,DMR,,Season 2 Battle Pass Death Stalkers Tier 14,,,,Challenge Season 2 Catch-Up Hardware 4,2
 6541,Vehicle Customizations,Fighter Jet Skins,Carrion King,,NATO,Season 2 Battle Pass Death Stalkers Tier 16,,,x,,2
 6542,Universal Weapon Customization,Weapon Charms,Spore Shot,,,Season 2 Battle Pass Death Stalkers Tier 17,,,x,,2
 6543,Appearance,The 323 Lin,Woodland Militia,,NATO,Season 2 Battle Pass Death Stalkers Tier 18,,,,,2
@@ -6489,7 +6487,7 @@ Spot enemies. (200)",One in the Chamber player card icon,,x,,2
 6562,Gadget Skins,Combat Knife Skins,Virulent Slice,Melee,,Season 2 Battle Pass Hazardous Front Tier 18,,,x,,2
 6563,Vehicle Customizations,Attack Heli Skins,Miasma,,Pax Armata,Season 2 Battle Pass Hazardous Front Tier 19,,,x,,2
 6564,Weapon Packages,SOR-556 MK2 Packages,Toxic Force,Assault Rifle,,Season 2 Battle Pass Hazardous Front Tier 20,,,x,,2
-6565,Weapons and Gadgets,Gadgets,Hardware Suppression System,Recon,,Season 2 Battle Pass Hazardous Front Tier 21,,,,,2
+6565,Weapons and Gadgets,Gadgets,Hardware Suppression System,Recon,,Season 2 Battle Pass Hazardous Front Tier 21,,,,Challenge Season 2 Catch-Up Hardware 3,2
 6566,Appearance,United Albion Recon,Exclusion Zone,,NATO,Season 2 Battle Pass Hazardous Front Tier 22,,,x,,2
 6567,Gadget Skins,SLM-93A Skins,Incubation Period,Engineer,,Season 2 Battle Pass Hazardous Front Tier 3,,,x,,2
 6568,Weapon Packages,DB-12 Packages,Contagion,Shotgun,,Season 2 Battle Pass Hazardous Front Tier 4,,,x,,2
@@ -6508,7 +6506,7 @@ Spot enemies. (200)",One in the Chamber player card icon,,x,,2
 6581,Units,Pax Armata Units,Task Force Vector Lang,Support,Pax Armata,Season 2 Battle Pass Recruit Tier 0,,,x,,2
 6582,Weapon Packages,GRT-CPS Packages,Chemical Spectre,DMR,,Season 2 Battle Pass Recruit Tier 0,,,x,,2
 6583,Player Card,Player Card Icons,Vulpes Vulpes,,,Season 2 Battle Pass Recruit Tier 1,,,,,2
-6584,Weapons and Gadgets,Gadgets,IGLA,Engineer,,Season 2 Battle Pass Recruit Tier 5,,,,,2
+6584,Weapons and Gadgets,Gadgets,IGLA,Engineer,,Season 2 Battle Pass Recruit Tier 5,,,,Challenge Season 2 Catch-Up Hardware 1,2
 6585,Vehicle Customizations,Attack Jet Skins,Night Hawk,,Pax Armata,Season 2 Battle Pass Steel Talon Tier 1,,,x,,2
 6586,Appearance,Task Force Vector Atlas,Standard Issue,,Pax Armata,Season 2 Battle Pass Steel Talon Tier 11,,,x,,2
 6587,Units,Pax Armata Units,Task Force Vector Atlas,Engineer,Pax Armata,Season 2 Battle Pass Steel Talon Tier 11,,,x,,2
@@ -6517,15 +6515,15 @@ Spot enemies. (200)",One in the Chamber player card icon,,x,,2
 6590,Appearance,Fireteam Vedmak Support,Tempered Bulwark,,Pax Armata,Season 2 Battle Pass Steel Talon Tier 14,,,,,2
 6591,Vehicle Customizations,MBT Skins,Armoured Dawn,,Pax Armata,Season 2 Battle Pass Steel Talon Tier 15,,,x,,2
 6592,Weapon Packages,M121 A2 Packages,Sundown Salvo,LMG,,Season 2 Battle Pass Steel Talon Tier 16,,,x,,2
-6593,Weapon Attachments,M121 A2 Attachments,460mm Factory,Barrels,,Season 2 Battle Pass Steel Talon Tier 17,,,,,2
-6594,Weapon Attachments,M121 A2 Attachments,50RND Drum,Magazines,,Season 2 Battle Pass Steel Talon Tier 17,,,,,2
-6595,Weapon Attachments,M121 A2 Attachments,Bipod,Underbarrels,,Season 2 Battle Pass Steel Talon Tier 17,,,,,2
-6596,Weapon Attachments,M121 A2 Attachments,Flash Hider,Muzzles,,Season 2 Battle Pass Steel Talon Tier 17,,,,,2
-6597,Weapon Attachments,M121 A2 Attachments,FMJ,Ammunition,,Season 2 Battle Pass Steel Talon Tier 17,,,,,2
-6598,Weapon Attachments,M121 A2 Attachments,Iron Sights,Scopes,,Season 2 Battle Pass Steel Talon Tier 17,,,,,2
-6599,Weapon Attachments,M121 A2 Attachments,SU-231 1.50x,Scopes,,Season 2 Battle Pass Steel Talon Tier 17,,,,,2
-6600,Weapon Packages,M121 A2 Packages,Factory,LMG,,Season 2 Battle Pass Steel Talon Tier 17,,,,,2
-6601,Weapons and Gadgets,Weapons,M121 A2,LMG,,Season 2 Battle Pass Steel Talon Tier 17,,,,,2
+6593,Weapon Attachments,M121 A2 Attachments,460mm Factory,Barrels,,Season 2 Battle Pass Steel Talon Tier 17,,,,Challenge Season 2 Catch-Up Hardware 5,2
+6594,Weapon Attachments,M121 A2 Attachments,50RND Drum,Magazines,,Season 2 Battle Pass Steel Talon Tier 17,,,,Challenge Season 2 Catch-Up Hardware 5,2
+6595,Weapon Attachments,M121 A2 Attachments,Bipod,Underbarrels,,Season 2 Battle Pass Steel Talon Tier 17,,,,Challenge Season 2 Catch-Up Hardware 5,2
+6596,Weapon Attachments,M121 A2 Attachments,Flash Hider,Muzzles,,Season 2 Battle Pass Steel Talon Tier 17,,,,Challenge Season 2 Catch-Up Hardware 5,2
+6597,Weapon Attachments,M121 A2 Attachments,FMJ,Ammunition,,Season 2 Battle Pass Steel Talon Tier 17,,,,Challenge Season 2 Catch-Up Hardware 5,2
+6598,Weapon Attachments,M121 A2 Attachments,Iron Sights,Scopes,,Season 2 Battle Pass Steel Talon Tier 17,,,,Challenge Season 2 Catch-Up Hardware 5,2
+6599,Weapon Attachments,M121 A2 Attachments,SU-231 1.50x,Scopes,,Season 2 Battle Pass Steel Talon Tier 17,,,,Challenge Season 2 Catch-Up Hardware 5,2
+6600,Weapon Packages,M121 A2 Packages,Factory,LMG,,Season 2 Battle Pass Steel Talon Tier 17,,,,Challenge Season 2 Catch-Up Hardware 5,2
+6601,Weapons and Gadgets,Weapons,M121 A2,LMG,,Season 2 Battle Pass Steel Talon Tier 17,,,,Challenge Season 2 Catch-Up Hardware 5,2
 6602,Player Card,Player Card Backgrounds,Strength in Steel,,,Season 2 Battle Pass Steel Talon Tier 19,,,x,,2
 6603,Universal Soldier Customization,Parachute Skins,Steel Rain,,,Season 2 Battle Pass Steel Talon Tier 2,,,x,,2
 6604,Weapon Packages,M/60 Packages,Alloyed Assault,LMG,,Season 2 Battle Pass Steel Talon Tier 20,,,x,,2
@@ -6560,14 +6558,14 @@ Spot enemies. (200)",One in the Chamber player card icon,,x,,2
 6633,Universal Weapon Customization,Weapon Stickers,Private Land,,,Season 2 Battle Pass Woodland Rangers Tier 2,,,x,,2
 6634,Appearance,Espada Assault,Backwoods Battler,,Pax Armata,Season 2 Battle Pass Woodland Rangers Tier 20,,,x,,2
 6635,Universal Soldier Customization,Parachute Skins,Autumn Canopy,,,Season 2 Battle Pass Woodland Rangers Tier 21,,,x,,2
-6636,Weapon Attachments,VCR-2 Attachments,"16"" Factory",Barrels,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,,2
-6637,Weapon Attachments,VCR-2 Attachments,2PRO 1.25x,Scopes,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,,2
-6638,Weapon Attachments,VCR-2 Attachments,30RND Magazine,Magazines,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,,2
-6639,Weapon Attachments,VCR-2 Attachments,Flash Hider,Muzzles,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,,2
-6640,Weapon Attachments,VCR-2 Attachments,FMJ,Ammunition,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,,2
-6641,Weapon Attachments,VCR-2 Attachments,Iron Sights,Scopes,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,,2
-6642,Weapon Packages,VCR-2 Packages,Factory,Assault Rifle,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,,2
-6643,Weapons and Gadgets,Weapons,VCR-2,Assault Rifle,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,,2
+6636,Weapon Attachments,VCR-2 Attachments,"16"" Factory",Barrels,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,Challenge Season 2 Catch-Up Hardware 2,2
+6637,Weapon Attachments,VCR-2 Attachments,2PRO 1.25x,Scopes,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,Challenge Season 2 Catch-Up Hardware 2,2
+6638,Weapon Attachments,VCR-2 Attachments,30RND Magazine,Magazines,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,Challenge Season 2 Catch-Up Hardware 2,2
+6639,Weapon Attachments,VCR-2 Attachments,Flash Hider,Muzzles,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,Challenge Season 2 Catch-Up Hardware 2,2
+6640,Weapon Attachments,VCR-2 Attachments,FMJ,Ammunition,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,Challenge Season 2 Catch-Up Hardware 2,2
+6641,Weapon Attachments,VCR-2 Attachments,Iron Sights,Scopes,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,Challenge Season 2 Catch-Up Hardware 2,2
+6642,Weapon Packages,VCR-2 Packages,Factory,Assault Rifle,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,Challenge Season 2 Catch-Up Hardware 2,2
+6643,Weapons and Gadgets,Weapons,VCR-2,Assault Rifle,,Season 2 Battle Pass Woodland Rangers Tier 22,,,,Challenge Season 2 Catch-Up Hardware 2,2
 6644,Weapon Packages,M123K Packages,Copse Cutter / Corpse Cutter,LMG,,Season 2 Battle Pass Woodland Rangers Tier 3,,,,,2
 6645,Player Card,Player Card Stickers,Bear Country,,,Season 2 Battle Pass Woodland Rangers Tier 4,,,x,,2
 6646,Vehicle Customizations,Transport Heli Skins,Cottonwood,,NATO,Season 2 Battle Pass Woodland Rangers Tier 6,,,x,,2
@@ -6615,7 +6613,7 @@ Spot enemies. (200)",One in the Chamber player card icon,,x,,2
 6689,Dog Tags,Dog Tags,Truth Sayer,Other,,King's Legion (Store),,,x,,2
 6690,Gadget Skins,RPG-7V2 Skins,Brush Fire,Engineer,,Unknown (removed from the game),,x,,,
 6691,Gadget Skins,RPG-7V2 Skins,Gray Wolf,Engineer,,"Free Store Gift (Season 2, Week 3)",,,,,2
-6692,Gadget Skins,Defibrillator Skins,Headstrong  Kicker,Support,,Unknown (removed from the game),,x,,,
+6692,Gadget Skins,Defibrillator Skins,Headstrong Kicker,Support,,Unknown (removed from the game),,x,,,
 6693,Gadget Skins,Ice Axe Skins,Prickly Business,Melee,,Unknown,,x,,,
 6694,Gadget Skins,M320A1 HE Skins,Scarlet Adder,Assault,,Constrictor (Store),,,x,,2
 6695,Gadget Skins,Sledgehammer Skins,Union Smack,Melee,,King's Legion (Store),,,x,,2
@@ -6636,8 +6634,8 @@ Spot enemies. (200)",One in the Chamber player card icon,,x,,2
 6710,Player Card,Player Card Backgrounds,Sonic Boom,,,Unknown,,x,,,
 6711,Player Card,Player Card Backgrounds,Under the Mask,,,Hard Luck (Store),,,x,,2
 6712,Universal Soldier Customization,Parachute Skins,Collectors Canopy,,,Collector (Store),,,x,,2
-6713,Universal Soldier Customization,Uniform Patches,Duty Calls,,,5.11 Tactical (Store),,,x,,2
-6714,Universal Soldier Customization,Uniform Patches,Eternal Vigilance,,,5.11 Tactical (Store),,,x,,2
+6713,Universal Soldier Customization,Uniform Patches,Duty Calls [5.11],,,5.11 Tactical (Store),,,x,,2
+6714,Universal Soldier Customization,Uniform Patches,Eternal Vigilance [5.11],,,5.11 Tactical (Store),,,x,,2
 6715,Universal Soldier Customization,Uniform Patches,La Sombra Roja,,,Constrictor (Store),,,x,,2
 6716,Universal Soldier Customization,Parachute Skins,Neon Demise,,,Lights Out (Store),,,x,,2
 6717,Universal Soldier Customization,Parachute Skins,Nightfall,,,"Free Store Gift (Season 2, Week 6)",,,,,2
@@ -6648,7 +6646,7 @@ Spot enemies. (200)",One in the Chamber player card icon,,x,,2
 6722,Universal Soldier Customization,Uniform Patches,Slasher,,,Hard Luck (Store),,,x,,2
 6723,Universal Vehicle Customization,Vehicle Decals,Claim the Crown,,,Unknown,,x,,,
 6724,Universal Vehicle Customization,Vehicle Decals,Jolly Ranger,,,Unknown,,x,,,
-6725,Universal Vehicle Customization,Vehicle Decals,King of Beasts,,,King's Legion (Store),,,x,,2
+6725,Universal Vehicle Customization,Vehicle Decals,King of Beasts [Lion with crown],,,King's Legion (Store),,,x,,2
 6726,Universal Vehicle Customization,Vehicle Decals,None Left Behind,,,Unknown,,x,,,
 6727,Universal Vehicle Customization,Vehicle Decals,Relentless Trample,,,"Year of the Horse Inbox Gifts, day 5",,,,,2
 6728,Universal Weapon Customization,Weapon Charms,Chaos Controller,,,Unknown,,x,,,
@@ -7370,7 +7368,7 @@ Earn score in any mode. (5,000)",CZ3A1,,,,2
 7440,Dog Tags (taken),Dog Tags (taken),Man and Beast,Other,,,,,,,2
 7441,Gadget Skins,Ice Axe Skins,Eviscerated,Melee,,Accelerator pack: Eviscerated (Store),,,x,,2
 7442,Gadget Skins,IGLA Skins,Bursting Clovers,Engineer,,Unknown,,x,,,
-7443,Gadget Skins,IGLA Skins,Factory Default,Engineer,,Season 2 Battle Pass Recruit Tier 5,,,,,2
+7443,Gadget Skins,IGLA Skins,Factory Default,Engineer,,Season 2 Battle Pass Recruit Tier 5,,,,Challenge Season 2 Catch-Up Hardware 1,2
 7444,Gadget Skins,IGLA Skins,Lethal Bite,Engineer,,Hostile Fauna (Store),,,x,,2
 7445,Gadget Skins,IGLA Skins,Tree Feller,Engineer,,Jungle Thunder (Store),,,x,,2
 7446,Gadget Skins,M320A1 THRM Skins,Amber Blast,Assault,,Swarming Assault (Store),,,x,,2
@@ -7381,7 +7379,7 @@ Earn score in any mode. (5,000)",CZ3A1,,,,2
 7451,Gadget Skins,Serrated Blade Skins,Standard Issue,Melee,,Season 2 Battle Pass Hunter/Prey Tier 11,,,,,2
 7452,Gadget Skins,Serrated Blade Skins,Swiping Claw,Melee,,Survival of the Fittest (Store),,,x,,2
 7453,Gadget Skins,SS26 Skins,Grazer,Assault,,Unknown,,x,,,
-7454,Gadget Skins,Hardware Suppression System Skins,Factory Default,Recon,,Season 2 Battle Pass Hazardous Front Tier 21,,,,,2
+7454,Gadget Skins,Hardware Suppression System Skins,Factory Default,Recon,,Season 2 Battle Pass Hazardous Front Tier 21,,,,Challenge Season 2 Catch-Up Hardware 3,2
 7455,Gadget Skins,Hardware Suppression System Skins,Amphibious,Recon,,Season 2 Battle Pass Hunter/Prey Tier 3,,,,,2
 7456,Gadget Skins,Tracer Dart Skins,Blooming Death,Recon,,Tropical Advance (Store),,,x,,2
 7457,Player Card,Player Card Backgrounds,Lurking Wilds,,,Season 2 Battle Pass Hunter/Prey Tier 1,,,,,2
@@ -7470,7 +7468,7 @@ Earn score in any mode. (5,000)",CZ3A1,,,,2
 7540,Player Card,Player Card Icons,Hopper,,,Toxin Patrol (Store),,,x,,2
 7541,Player Card,Player Card Icons,Navigation,,,Jungle Thunder (Store),,,x,,2
 7542,Player Card,Player Card Icons,Hive Guard,,,Swarming Assault (Store),,,x,,2
-7543,Player Card,Player Card Stickers,Champion,,,Accelerator Pack: Champion,,,x,,2
+7543,Player Card,Player Card Stickers,Champion,,,Accelerator Pack: Champion (Store),,,x,,2
 7544,Player Card,Player Card Stickers,Fatal Façade,,,Poised Strike (Store),,,x,,2
 7545,Player Card,Player Card Titles,Razor Sharp,,,Barbaric Arsenal (Store),,,x,,2
 7546,Player Card,Player Card Titles,Reptilian,,,Tropical Advance (Store),,,x,,2
@@ -7508,3 +7506,760 @@ Earn score in any mode. (5,000)",CZ3A1,,,,2
 7578,Dog Tags (taken),Dog Tags (taken),"Unknown ""Hunting Squad"" [Tonight We Hunt, bronze unreleased dog tag]",Other,,,,x,,,
 7579,Vehicle Customizations,IFV Skins,Ramshackle,,NATO,Hardheaded (Store),,,x,,2
 7580,Weapon Packages,B36A4 Packages,Corroder,Assault Rifle,,Hunter/Prey Challenge 11 [Hunter/Prey April 2026],,,,,2
+7581,Weapon Attachments,18.5KS-K Attachments,Piggyback Reflex,Optic Accessories,,18.5KS-K Mastery 30,,,,,0
+7582,Vehicle Customizations,Scout Helicopter Skins,Diptera,,NATO,Accelerator Pack: Diptera (Store),,,x,,3
+7583,Weapon Attachments,AK4D Attachments,Piggyback Reflex,Optic Accessories,,AK4D Mastery 10,,,,,0
+7584,Universal Vehicle Customization,Vehicle Decals,Gas Guzzler,,,Battlefield Creator Program Season 3 Twitch Drops (Watch 1 hour),,x,,,
+7585,Player Card,Player Card Stickers,Shooting Star,,,Battlefield Creator Program Season 3 Twitch Drops (Watch 2 hours),,x,,,
+7586,Player Card,Player Card Titles,Mutant,,,Battlefield Creator Program Season 3 Twitch Drops (Watch 3 hours),,x,,,
+7587,Vehicle Customizations,Anti Air Skins,Mirage,,Pax Armata,Battlefield Creator Program Season 3 Twitch Drops (Watch 4 hours),,x,,,
+7588,Challenges and Assignments,BF Pro Challenges,Battle Pass S3 Challenge 2,Challenge,,"Capture objectives in Multiplayer (80)
+OR
+Complete missions in Battle Royale. (20)",Provocation DB-12 weapon package,,x,,3
+7589,Player Card,Player Card Backgrounds,Ironclad,,,Challenge BATTLE PASS S3 CHALLENGE 1,,,x,,3
+7590,Weapon Packages,DB-12 Packages,Provocation,Shotgun,,Challenge BATTLE PASS S3 CHALLENGE 2,,,x,,3
+7591,Player Card,Player Card Icons,Next Level,,,Challenge BATTLE PASS S3 CHALLENGE 3,,,x,,3
+7592,Weapon Packages,M39 EMR Packages,Mercy Stroke,DMR,,Challenge BATTLE PASS S3 CHALLENGE 4,,,x,,3
+7593,Appearance,Espada Recon,Seasoned Warrior,,Pax Armata,Challenge BATTLE PASS S3 CHALLENGE 5,,,x,,3
+7594,Dog Tags,Dog Tags,S3 Indomitable,Other,,Challenge Kills Confirmed and Assists Confirmed in Ranked Battle Royale Quads.,,,,,3
+7595,Weapon Attachments,PW5A3 Attachments,Burst Training,Ergonomics,,Challenge SEASON 2 HARDWARE 1,,,,,3
+7596,Weapon Attachments,18.5KS-K Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7597,Weapon Attachments,AK-205 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7598,Weapon Attachments,AK4D Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7599,Weapon Attachments,B36A4 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7600,Weapon Attachments,CZ3A1 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7601,Weapon Attachments,DB-12 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7602,Weapon Attachments,GRT-BC Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7603,Weapon Attachments,GRT-CPS Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7604,Weapon Attachments,KORD 6P67 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7605,Weapon Attachments,KTS100 MK8 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7606,Weapon Attachments,KV9 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7607,Weapon Attachments,L110 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7608,Weapon Attachments,L85A3 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7609,Weapon Attachments,LMR27 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7610,Weapon Attachments,M/60 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7611,Weapon Attachments,M1014 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7612,Weapon Attachments,M121 A2 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7613,Weapon Attachments,M123K Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7614,Weapon Attachments,M2010 ESR Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7615,Weapon Attachments,M240L Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7616,Weapon Attachments,M250 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7617,Weapon Attachments,M277 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7618,Weapon Attachments,M39 EMR Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7619,Weapon Attachments,M417 A2 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7620,Weapon Attachments,M433 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7621,Weapon Attachments,M4A1 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7622,Weapon Attachments,M87A1 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7623,Weapon Attachments,Mini Scout Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7624,Weapon Attachments,NVO-228E Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7625,Weapon Attachments,PW5A3 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7626,Weapon Attachments,PW7A2 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7627,Weapon Attachments,QBZ-192 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7628,Weapon Attachments,RPKM Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7629,Weapon Attachments,SCW-10 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7630,Weapon Attachments,SG 553R Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7631,Weapon Attachments,SGX Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7632,Weapon Attachments,SL9 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7633,Weapon Attachments,SOR-300SC Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7634,Weapon Attachments,SOR-556 MK2 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7635,Weapon Attachments,SVDM Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7636,Weapon Attachments,SVK-8.6 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7637,Weapon Attachments,TR-7 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7638,Weapon Attachments,UMG-40 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7639,Weapon Attachments,USG-90 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7640,Weapon Attachments,VCR-2 Attachments,Magnifier,Optic Accessories,,Challenge SEASON 2 HARDWARE 4,,,,,3
+7641,Weapon Attachments,M1014 Attachments,4RND Speedloader,Magazines,,Challenge SEASON 2 HARDWARE 5,,,,,3
+7642,Weapon Attachments,M87A1 Attachments,5RND Speedloader,Magazines,,Challenge SEASON 2 HARDWARE 5,,,,,3
+7643,Weapon Attachments,CZ3A1 Attachments,Burst Training,Ergonomics,,Challenge SEASON 3 HARDWARE 1,,,,,3
+7644,Weapon Attachments,GRT-BC Attachments,Burst Training,Ergonomics,,Challenge SEASON 3 HARDWARE 1,,,,,3
+7645,Weapon Attachments,KORD 6P67 Attachments,Burst Training,Ergonomics,,Challenge SEASON 3 HARDWARE 1,,,,,3
+7646,Weapon Attachments,KV9 Attachments,Burst Training,Ergonomics,,Challenge SEASON 3 HARDWARE 1,,,,,3
+7647,Weapon Attachments,SG 553R Attachments,Burst Training,Ergonomics,,Challenge SEASON 3 HARDWARE 1,,,,,3
+7648,Weapon Attachments,SL9 Attachments,Burst Training,Ergonomics,,Challenge SEASON 3 HARDWARE 1,,,,,3
+7649,Weapon Attachments,UMG-40 Attachments,Burst Training,Ergonomics,,Challenge SEASON 3 HARDWARE 1,,,,,3
+7650,Weapon Attachments,18.5KS-K Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7651,Weapon Attachments,AK-205 Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7652,Weapon Attachments,AK4D Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7653,Weapon Attachments,B36A4 Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7654,Weapon Attachments,CZ3A1 Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7655,Weapon Attachments,DRS-IAR Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7656,Weapon Attachments,GRT-BC Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7657,Weapon Attachments,GRT-CPS Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7658,Weapon Attachments,M16A4 Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7659,Weapon Attachments,M39 EMR Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7660,Weapon Attachments,M417 A2 Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7661,Weapon Attachments,M4A1 Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7662,Weapon Attachments,NVO-228E Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7663,Weapon Attachments,PW5A3 Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7664,Weapon Attachments,RPK-74M Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7665,Weapon Attachments,RPKM Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7666,Weapon Attachments,SG 553R Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7667,Weapon Attachments,SGX Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7668,Weapon Attachments,SOR-300SC Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7669,Weapon Attachments,SOR-556 MK2 Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7670,Weapon Attachments,SVDM Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7671,Weapon Attachments,UMG-40 Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7672,Weapon Attachments,USG-90 Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7673,Weapon Attachments,VCR-2 Attachments,Aftermarket Buffer,Ergonomics,,Challenge SEASON 3 HARDWARE 2,,,,,3
+7674,Weapon Attachments,GGH-22 Attachments,Speed Holster,Ergonomics,,Challenge SEASON 3 HARDWARE 3,,,,,3
+7675,Weapon Attachments,M357 TRAIT Attachments,Speed Holster,Ergonomics,,Challenge SEASON 3 HARDWARE 3,,,,,3
+7676,Weapon Attachments,M44 Attachments,Speed Holster,Ergonomics,,Challenge SEASON 3 HARDWARE 3,,,,,3
+7677,Weapon Attachments,M45A1 Attachments,Speed Holster,Ergonomics,,Challenge SEASON 3 HARDWARE 3,,,,,3
+7678,Weapon Attachments,P18 Attachments,Speed Holster,Ergonomics,,Challenge SEASON 3 HARDWARE 3,,,,,3
+7679,Weapon Attachments,M44 Attachments,Gunslinger,Ergonomics,,Challenge SEASON 3 HARDWARE 4,,,,,3
+7680,Challenges and Assignments,BF Pro Challenges,Battle Pass S3 Challenge 1,Challenge,,Complete matches in any mode. Wins count double. (40),Ironclad player card background,,x,,3
+7681,Weapon Attachments,CZ3A1 Attachments,Piggyback Reflex,Optic Accessories,,CZ3A1 Mastery 30,,,,,2
+7682,Dog Tags,Dog Tags,Live Wire,Other,,Data Breach (Store),,,x,,3
+7683,Gadget Skins,SS26 Skins,Packet Transfer,Assault,,Data Breach (Store),,,x,,3
+7684,Player Card,Player Card Icons,Chip In,,,Data Breach (Store),,,x,,3
+7685,Universal Weapon Customization,Weapon Charms,Threat Matrix,,,Data Breach (Store),,,x,,3
+7686,Universal Weapon Customization,Weapon Charms,Power Core,,,Data Breach (Store),,,x,,3
+7687,Universal Weapon Customization,Weapon Stickers,Extra Credit,,,Data Breach (Store),,,x,,3
+7688,Universal Weapon Customization,Weapon Stickers,Signal Strength,,,Data Breach (Store),,,x,,3
+7689,Weapon Packages,L110 Packages,Terminal Overload,LMG,,Data Breach (Store),,,x,,3
+7690,Weapon Packages,M417 A2 Packages,Service Denial,Carbine,,Data Breach (Store),,,x,,3
+7691,Weapon Packages,SV-98 Packages,Execute Protocol,Sniper Rifle,,Data Breach (Store),,,x,,3
+7692,Challenges and Assignments,Season 2 Challenges,Season 2 Catch-Up Hardware 2,Challenge,,"Deal damage to vehicles with Shoulder-Launched Missiles. (3,000)
+Destroy or support in destroying aircraft with the 9K38 IGLA Launcher. (5)",VCR-2,,,,3
+7693,Challenges and Assignments,Season 2 Challenges,Season 2 Hardware 4,Challenge,,"Deal damage while ADS. (3,000)
+Get headshot kills. (20)",Magnifier optic accessory (for many guns),,,,3
+7694,Vehicle Customizations,IFV Customizations,Countermeasures,Gunner Equipment,,Default,,,,,3
+7695,Vehicle Customizations,IFV Customizations,Mobile Command,Upgrade,,Default,,,,,3
+7696,Vehicle Customizations,Transport Heli Customizations,Improved Armor,Upgrade,,Default,,,,,3
+7697,Weapon Attachments,L115 Attachments,Iron Sights,Scopes,,Default,,,,,3
+7698,Weapon Attachments,M16A4 Attachments,Iron Sights,Scopes,,Default,,,,,3
+7699,Weapon Attachments,M16A4 Attachments,Iron Sights [pinhole],Scopes,,Default,,,,,3
+7700,Weapon Attachments,M16A4 Attachments,Underslung Mount,Underbarrels,,Default,,,,,3
+7701,Weapon Attachments,RPK-74M Attachments,Iron Sights,Scopes,,Default,,,,,3
+7702,Challenges and Assignments,Season 2 Challenges,Season 2 Catch-Up Hardware 4,Challenge,,"Destroy enemy gadgets with the DGMK4. (15)
+Deal damage with Demolition Charges or Anti-Personnel Mines. (2,000)",GRT-CPS,,,,3
+7703,Dog Tags,Dog Tags,One Shot,Other,,EA Play Season 3 pack,,,x,,3
+7704,Player Card,Player Card Backgrounds,Moonlighting,,,EA Play Season 3 pack,,,x,,3
+7705,Universal Vehicle Customization,Vehicle Decals,Afterburner,,,EA Play Season 3 pack,,,x,,3
+7706,Universal Weapon Customization,Weapon Charms,Shadow Kill,,,EA Play Season 3 pack,,,x,,3
+7707,Universal Weapon Customization,Weapon Stickers,Live Rounds,,,EA Play Season 3 pack,,,x,,3
+7708,Vehicle Customizations,Attack Heli Skins,Canopy Piercer,,Pax Armata,EA Play Season 3 pack,,,x,,3
+7709,Weapon Packages,Mini Scout Packages,Lights Out,Sniper Rifle,,EA Play Season 3 pack,,,x,,3
+7710,Challenges and Assignments,BF Pro Challenges,Battle Pass S3 Challenge 5,Challenge,,"Earn score in any mode. (10,000)",Espada Recon Seasoned Warrior soldier skin,,x,,3
+7711,Player Card,Player Card Icons,S3 Ranked Bronze,,,End of Season for Ranked Division Bronze I (Season 3),,x,,,
+7712,Universal Vehicle Customization,Vehicle Decals,S3 Ranked Diamond,,,End of Season for Ranked Division Diamond I (Season 3),,x,,,
+7713,Universal Weapon Customization,Weapon Camos,S3 Challenger,Other,,End of Season for Ranked Division Diamond I (Season 3),,x,,,
+7714,Universal Weapon Customization,Weapon Camos,S3 Skirmisher,Other,,End of Season for Ranked Division Gold I (Season 3),,x,,,
+7715,Universal Soldier Customization,Uniform Patches,S3 Ranked Master,,,End of Season for Ranked Division Master I (Season 3),,x,,,
+7716,Universal Weapon Customization,Weapon Camos,S3 Contender,Other,,End of Season for Ranked Division Master I (Season 3),,x,,,
+7717,Universal Soldier Customization,Parachute Skins,S3 Ranked Platinum,,,End of Season for Ranked Division Platinum I (Season 3),,x,,,
+7718,Universal Weapon Customization,Weapon Camos,S3 Warrior,Other,,End of Season for Ranked Division Platinum I (Season 3),,x,,,
+7719,Universal Weapon Customization,Weapon Camos,S3 Scrapper,Other,,End of Season for Ranked Division Silver I (Season 3),,x,,,
+7720,Universal Weapon Customization,Weapon Stickers,S3 Ranked Gold,,,End of Season for Ranked Division Gold I (Season 3),,x,,,
+7721,Player Card,Player Card Icons,S3 Ranked Champion,,,End of Season for Ranked Elite Top 1 (Season 3),,x,,,
+7722,Player Card,Player Card Stickers,S3 Ranked Champion [Top 1],,,End of Season for Ranked Elite Top 1 (Season 3),,x,,,
+7723,Player Card,Player Card Backgrounds,S3 Ranked Elite,,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,
+7724,Player Card,Player Card Icons,S3 Ranked Elite,,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,
+7725,Player Card,Player Card Stickers,S3 Ranked Champion [Top  250],,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,
+7726,Player Card,Player Card Titles,S3 Ranked Elite,,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,
+7727,Universal Weapon Customization,Weapon Camos,S3 Eliminator,Other,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,
+7728,Universal Weapon Customization,Weapon Charms,S3 Ranked Elite,,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,
+7729,Challenges and Assignments,Season 3 Challenges,Season 3 Hardware 2,Challenge,,Get kills with Assault Rifles or DMRs. (40),Aftermarket Buffer ergonomics weapon attachment (for many guns),,,,3
+7730,Challenges and Assignments,Season 3 Challenges,Season 3 Hardware 1,Challenge,,Get kills with Carbines or SMGs. (40),Burst Training ergonomics weapon attachment (for many guns),,,,3
+7731,Challenges and Assignments,Season 3 Challenges,Season 3 Hardware 3,Challenge,,Get kills with Sidearms. (10),Speed Holster ergonomics weapon attachment (for many guns),,,,3
+7732,Challenges and Assignments,Season 3 Challenges,Season 3 Hardware 4,Challenge,,Get kills with Sidearms. (10),Gunslinger ergonomics weapon attachment,,,,3
+7733,Challenges and Assignments,Season 2 Challenges,Season 2 Hardware 5,Challenge,,Get kills. Kills from a distance of 15m or less count double. (40),Shotgun Speedloader (for many guns),,,,3
+7734,Dog Tags,Dog Tags,Takedown,Other,,Hunting Pride (Store),,,x,,3
+7735,Gadget Skins,Defibrillator Skins,Wake the Beast,Support,,Hunting Pride (Store),,,x,,3
+7736,Gadget Skins,Ice Axe Skins,Steel Claw,Melee,,Hunting Pride (Store),,,x,,3
+7737,Player Card,Player Card Backgrounds,Battle Roar,,,Hunting Pride (Store),,,x,,3
+7738,Universal Soldier Customization,Parachute Skins,Lion's Reign,,,Hunting Pride (Store),,,x,,3
+7739,Universal Vehicle Customization,Vehicle Decals,King of Beasts [Rule by Force],,,Hunting Pride (Store),,,x,,3
+7740,Universal Weapon Customization,Weapon Charms,Big Cat,,,Hunting Pride (Store),,,x,,3
+7741,Universal Weapon Customization,Weapon Stickers,Primal Rule,,,Hunting Pride (Store),,,x,,3
+7742,Weapon Packages,PW7A2 Packages,Carnivore,SMG,,Hunting Pride (Store),,,x,,3
+7743,Appearance,Kahina Unité Assault,Thunderclap,,Pax Armata,Inclement Weather (Store),,,x,,3
+7744,Appearance,Kahina Unité Support,Brewing Tempest,,Pax Armata,Inclement Weather (Store),,,x,,3
+7745,Dog Tags,Dog Tags,Sparking Fracture,Other,,Inclement Weather (Store),,,x,,3
+7746,Player Card,Player Card Backgrounds,Search and Rescue,,,Inclement Weather (Store),,,x,,3
+7747,Player Card,Player Card Icons,Divisive Strike,,,Inclement Weather (Store),,,x,,3
+7748,Player Card,Player Card Stickers,Thundering Dive,,,Inclement Weather (Store),,,x,,3
+7749,Universal Soldier Customization,Uniform Patches,Time's Up,,,Inclement Weather (Store),,,x,,3
+7750,Appearance,Coyote Squad Support,Battle-Scarred,,NATO,Insignia (Store),,,x,,3
+7751,Gadget Skins,Defibrillator Skins,Brink of Death,Support,,Insignia (Store),,,x,,3
+7752,Player Card,Player Card Backgrounds,Etched in Blood,,,Insignia (Store),,,x,,3
+7753,Player Card,Player Card Icons,Rugged Camo,,,Insignia (Store),,,x,,3
+7754,Player Card,Player Card Titles,Preserver,,,Insignia (Store),,,x,,3
+7755,Universal Soldier Customization,Parachute Skins,Whirlwind,,,Insignia (Store),,,x,,3
+7756,Universal Weapon Customization,Weapon Charms,Indelible,,,Insignia (Store),,,x,,3
+7757,Weapon Packages,Mini Scout Packages,Unshakeable,Sniper Rifle,,Insignia (Store),,,x,,3
+7758,Challenges and Assignments,Season 2 Challenges,Season 2 Catch-Up Hardware 5,Challenge,,"Kill enemies with DMRs. Kills from a distance of 75 meters or more count double. (30)
+Deal damage with DMRs. (2,000)",M121 A2,,,,3
+7759,Challenges and Assignments,BF Pro Challenges,Battle Pass S3 Challenge 4,Challenge,,"Kills and assists in Multiplayer. (200)
+OR
+Kills and assists in Battle Royale. (50)",Mercy Stroke M39 EMR weapon package,,x,,3
+7760,Challenges and Assignments,Season 2 Challenges,Season 2 Catch-Up Hardware 3,Challenge,,"Kills and assists with Assault Rifles. (30)
+Deal damage while ADS. (2,500)",Hardware Suppression System,,,,3
+7761,Challenges and Assignments,Season 2 Challenges,Season 2 Catch-Up Hardware 1,Challenge,,"Kills and Assists with SMGs. (30)
+Earn score in vehicles. (2,500)",IGLA,,,,3
+7762,Challenges and Assignments,Ranked Challenges,Kills Confirmed and Assists Confirmed in Ranked Battle Royale Quads.,Challenge,,Kills Confirmed and Assists Confirmed in Ranked Battle Royale Quads. (20),S3 Indomitable dog tag,,,,3
+7763,Weapon Attachments,KV9 Attachments,Piggyback Reflex,Optic Accessories,,KV9 Mastery 32,,,,,0
+7764,Weapon Attachments,L115 Attachments,SU-231 1.50x,Scopes,,L115 Mastery 1,,,,,3
+7765,Weapon Attachments,L115 Attachments,Bipod,Underbarrels,,L115 Mastery 1,,,,,3
+7766,Badges,Sniper Rifles Badges,L115,Bronze,,L115 Mastery 10,,,,,3
+7767,Weapon Attachments,L115 Attachments,Single-Port Brake,Muzzles,,L115 Mastery 10,,,,,3
+7768,Weapon Attachments,L115 Attachments,Canted Iron Sight,Optic Accessories,,L115 Mastery 10,,,,,3
+7769,Weapon Packages,L115 Packages,Warfighter,Sniper Rifle,,L115 Mastery 10,,,,,3
+7770,Weapon Attachments,L115 Attachments,Tungsten Core,Ammunition,,L115 Mastery 11,,,,,3
+7771,Weapon Attachments,L115 Attachments,CCO 2.00x,Scopes,,L115 Mastery 11,,,,,3
+7772,Weapon Attachments,L115 Attachments,Taclight - Aimed,Left Accessories,,L115 Mastery 12,,,,,3
+7773,Weapon Attachments,L115 Attachments,RO-S 1.25x,Scopes,,L115 Mastery 12,,,,,3
+7774,Weapon Attachments,L115 Attachments,50 MW Green,Right Accessories,,L115 Mastery 13,,,,,3
+7775,Weapon Attachments,L115 Attachments,LDS 4.50x,Scopes,,L115 Mastery 13,,,,,3
+7776,Weapon Attachments,L115 Attachments,R4T 2.00x,Scopes,,L115 Mastery 14,,,,,3
+7777,Weapon Attachments,L115 Attachments,S-VPS 6.00x,Scopes,,L115 Mastery 14,,,,,3
+7778,Universal Weapon Customization,Weapon Camos,Mired Loch,Other,,L115 Mastery 15,,,,,3
+7779,Weapon Attachments,L115 Attachments,CQB Suppressor,Muzzles,,L115 Mastery 15,,,,,3
+7780,Weapon Attachments,L115 Attachments,Adjustable Magnification 2.00x,Optic Accessories,,L115 Mastery 15,,,,,3
+7781,Weapon Attachments,L115 Attachments,RO-M 1.75x,Scopes,,L115 Mastery 16,,,,,3
+7782,Weapon Attachments,L115 Attachments,QD Grip Pod,Underbarrels,,L115 Mastery 16,,,,,3
+7783,Weapon Attachments,L115 Attachments,Frangible,Ammunition,,L115 Mastery 17,,,,,3
+7784,Weapon Attachments,L115 Attachments,Mini Flex 1.00x,Scopes,,L115 Mastery 17,,,,,3
+7785,Weapon Attachments,L115 Attachments,"32"" Custom",Barrels,,L115 Mastery 18,,,,,3
+7786,Weapon Attachments,L115 Attachments,SF-G2 5.00x,Scopes,,L115 Mastery 18,,,,,3
+7787,Weapon Attachments,L115 Attachments,50 MW Blue,Right Accessories,,L115 Mastery 19,,,,,3
+7788,Weapon Attachments,L115 Attachments,MC-CO LPVO,Scopes,,L115 Mastery 19,,,,,3
+7789,Weapon Attachments,L115 Attachments,A-P2 1.75x,Scopes,,L115 Mastery 2,,,,,3
+7790,Badges,Sniper Rifles Badges,L115,Silver,,L115 Mastery 20,,,,,3
+7791,Weapon Attachments,L115 Attachments,7RND Magazine,Magazines,,L115 Mastery 20,,,,,3
+7792,Weapon Attachments,L115 Attachments,DVO LPVO,Scopes,,L115 Mastery 20,,,,,3
+7793,Weapon Attachments,L115 Attachments,1P88 Variable,Scopes,,L115 Mastery 21,,,,,3
+7794,Weapon Attachments,L115 Attachments,R-MR 1.00x,Scopes,,L115 Mastery 22,,,,,3
+7795,Weapon Attachments,L115 Attachments,Low-Profile Stubby,Underbarrels,,L115 Mastery 22,,,,,3
+7796,Weapon Attachments,L115 Attachments,"27"" Full",Barrels,,L115 Mastery 23,,,,,3
+7797,Weapon Attachments,L115 Attachments,Compensated Brake,Muzzles,,L115 Mastery 23,,,,,3
+7798,Weapon Attachments,L115 Attachments,Anti-Glare Coating,Optic Accessories,,L115 Mastery 23,,,,,3
+7799,Weapon Attachments,L115 Attachments,R-VPS 10.00x,Scopes,,L115 Mastery 24,,,,,3
+7800,Weapon Attachments,L115 Attachments,Taclight - Hip,Left Accessories,,L115 Mastery 25,,,,,3
+7801,Weapon Attachments,L115 Attachments,PVQ-31 4.00x,Scopes,,L115 Mastery 25,,,,,3
+7802,Weapon Attachments,L115 Attachments,BAKER 3.00x,Scopes,,L115 Mastery 26,,,,,3
+7803,Weapon Attachments,L115 Attachments,ST Prisim 5.00x,Scopes,,L115 Mastery 26,,,,,3
+7804,Weapon Attachments,L115 Attachments,Adjustable Magnification 3.00x,Optic Accessories,,L115 Mastery 27,,,,,3
+7805,Weapon Attachments,L115 Attachments,120 MW Blue,Right Accessories,,L115 Mastery 27,,,,,3
+7806,Weapon Attachments,L115 Attachments,OSA-7 1.00x,Scopes,,L115 Mastery 28,,,,,3
+7807,Weapon Attachments,L115 Attachments,DLC Bolt,Ergonomics,,L115 Mastery 29,,,,,3
+7808,Weapon Attachments,L115 Attachments,Canted Reflex,Optic Accessories,,L115 Mastery 29,,,,,3
+7809,Weapon Attachments,L115 Attachments,5 MW Red,Right Accessories,,L115 Mastery 3,,,,,3
+7810,Weapon Attachments,L115 Attachments,SU-230 LPVO,Scopes,,L115 Mastery 3,,,,,3
+7811,Badges,Sniper Rifles Badges,L115,Gold,,L115 Mastery 30,,,,,3
+7812,Universal Weapon Customization,Weapon Camos,Concrete Jungle,Other,,L115 Mastery 30,,,,,3
+7813,Weapon Attachments,L115 Attachments,Match Grade,Ammunition,,L115 Mastery 30,,,,,3
+7814,Weapon Attachments,L115 Attachments,Grim 1.50x,Scopes,,L115 Mastery 30,,,,,3
+7815,Weapon Attachments,L115 Attachments,2PRO 1.25x,Scopes,,L115 Mastery 31,,,,,3
+7816,Weapon Attachments,L115 Attachments,Lightened Suppressor,Muzzles,,L115 Mastery 32,,,,,3
+7817,Weapon Attachments,L115 Attachments,SM Rifle Variable,Scopes,,L115 Mastery 32,,,,,3
+7818,Weapon Attachments,L115 Attachments,"20"" Custom Covert",Barrels,,L115 Mastery 33,,,,,3
+7819,Weapon Attachments,L115 Attachments,TH-RDS 1.00X,Scopes,,L115 Mastery 33,,,,,3
+7820,Weapon Attachments,L115 Attachments,1P87 1.50x,Scopes,,L115 Mastery 34,,,,,3
+7821,Weapon Attachments,L115 Attachments,PAS-35 3.00x,Scopes,,L115 Mastery 35,,,,,3
+7822,Weapon Attachments,L115 Attachments,Slim Angled,Underbarrels,,L115 Mastery 35,,,,,3
+7823,Weapon Attachments,L115 Attachments,Piggyback Reflex,Optic Accessories,,L115 Mastery 36,,,,,3
+7824,Weapon Attachments,L115 Attachments,50 MW Violet,Right Accessories,,L115 Mastery 36,,,,,3
+7825,Weapon Attachments,L115 Attachments,Range Finder,Left Accessories,,L115 Mastery 37,,,,,3
+7826,Weapon Attachments,L115 Attachments,Adjustable Magnification 4.00x,Optic Accessories,,L115 Mastery 37,,,,,3
+7827,Weapon Attachments,L115 Attachments,LERT 8.00x,Scopes,,L115 Mastery 38,,,,,3
+7828,Weapon Attachments,L115 Attachments,TS-HD 6.00x,Scopes,,L115 Mastery 39,,,,,3
+7829,Weapon Attachments,L115 Attachments,Classic Grip Pod,Underbarrels,,L115 Mastery 39,,,,,3
+7830,Weapon Attachments,L115 Attachments,Standard Suppressor,Muzzles,,L115 Mastery 4,,,,,3
+7831,Weapon Attachments,L115 Attachments,BF-2M 2.50x,Scopes,,L115 Mastery 4,,,,,3
+7832,Badges,Sniper Rifles Badges,L115,Platinum,,L115 Mastery 40,,,,,3
+7833,Weapon Attachments,L115 Attachments,7RND Fast Mag,Magazines,,L115 Mastery 40,,,,,3
+7834,Weapon Attachments,L115 Attachments,Long Suppressor,Muzzles,,L115 Mastery 40,,,,,3
+7835,Weapon Attachments,L115 Attachments,Flashlight,Left Accessories,,L115 Mastery 5,,,,,3
+7836,Weapon Attachments,L115 Attachments,NFX 8.00x,Scopes,,L115 Mastery 5,,,,,3
+7837,Badges,Sniper Rifles Badges,L115,Elite,,L115 Mastery 50,,,,,3
+7838,Universal Weapon Customization,Weapon Camos,Sediment,Other,,L115 Mastery 5,,,,,3
+7839,Weapon Packages,L115 Packages,Unstoppable Force,Sniper Rifle,,L115 Mastery 50,,,,,3
+7840,Weapon Attachments,L115 Attachments,Improved Mag Catch,Ergonomics,,L115 Mastery 6,,,,,3
+7841,Weapon Attachments,L115 Attachments,CQ RDS 1.25x,Scopes,,L115 Mastery 6,,,,,3
+7842,Weapon Attachments,L115 Attachments,5 MW Green,Right Accessories,,L115 Mastery 7,,,,,3
+7843,Weapon Attachments,L115 Attachments,3VZR 1.75x,Scopes,,L115 Mastery 7,,,,,3
+7844,Weapon Attachments,L115 Attachments,SDO 3.50x,Scopes,,L115 Mastery 8,,,,,3
+7845,Weapon Attachments,L115 Attachments,Full Angled,Underbarrels,,L115 Mastery 8,,,,,3
+7846,Weapon Attachments,L115 Attachments,MARS-F LPVO,Scopes,,L115 Mastery 9,,,,,3
+7847,Weapon Attachments,L115 Attachments,ROX 1.50x,Scopes,,L115 Mastery 9,,,,,3
+7848,Weapon Attachments,LMR27 Attachments,Adjustable Magnification 2.00x,Optic Accessories,,LMR27 Mastery ??,,,,,0
+7849,Weapon Attachments,LMR27 Attachments,Adjustable Magnification 3.00x,Optic Accessories,,LMR27 Mastery ??,,,,,0
+7850,Weapon Attachments,LMR27 Attachments,Adjustable Magnification 4.00x,Optic Accessories,,LMR27 Mastery 32,,,,,0
+7851,Weapon Attachments,M1014 Attachments,Piggyback Reflex,Optic Accessories,,M1014 Mastery 31,,,,,0
+7852,Weapon Attachments,M16A4 Attachments,Flashlight,Right Accessories,,M16A4 Mastery 1,,,,,3
+7853,Weapon Attachments,M16A4 Attachments,R-MR 1.00x,Scopes,,M16A4 Mastery 1,,,,,3
+7854,Weapon Attachments,M16A4 Attachments,Folding Stubby,Underbarrels,,M16A4 Mastery 1,,,,,3
+7855,Badges,Assault Rifle Badges,M16A4,Bronze,,M16A4 Mastery 10,,,,,3
+7856,Weapon Attachments,M16A4 Attachments,"18"" SPR",Barrels,,M16A4 Mastery 10,,,,,3
+7857,Weapon Attachments,M16A4 Attachments,Mini Flex 1.00x,Scopes,,M16A4 Mastery 10,,,,,3
+7858,Weapon Packages,M16A4 Packages,Warfighter,Assault Rifle,,M16A4 Mastery 10,,,,,3
+7859,Weapon Attachments,M16A4 Attachments,30RND Fast Mag,Magazines,,M16A4 Mastery 11,,,,,3
+7860,Weapon Attachments,M16A4 Attachments,Alloy Vertical,Underbarrels,,M16A4 Mastery 11,,,,,3
+7861,Weapon Attachments,M16A4 Attachments,Tungsten Core,Ammunition,,M16A4 Mastery 12,,,,,3
+7862,Weapon Attachments,M16A4 Attachments,OSA-7 1.00x,Scopes,,M16A4 Mastery 12,,,,,3
+7863,Weapon Attachments,M16A4 Attachments,ST Prisim 5.00x,Scopes,,M16A4 Mastery 13,,,,,3
+7864,Weapon Attachments,M16A4 Attachments,Slim Angled,Underbarrels,,M16A4 Mastery 13,,,,,3
+7865,Weapon Attachments,M16A4 Attachments,Single-Port Brake,Muzzles,,M16A4 Mastery 14,,,,,3
+7866,Weapon Attachments,M16A4 Attachments,A-P2 1.75x,Scopes,,M16A4 Mastery 14,,,,,3
+7867,Universal Weapon Customization,Weapon Camos,Minted Refresh,Other,,M16A4 Mastery 15,,,,,3
+7868,Weapon Attachments,M16A4 Attachments,A3 Receiver,Ergonomics,,M16A4 Mastery 15,,,,,3
+7869,Weapon Attachments,M16A4 Attachments,Ribbed Stubby,Underbarrels,,M16A4 Mastery 15,,,,,3
+7870,Weapon Attachments,M16A4 Attachments,Standard Suppressor,Muzzles,,M16A4 Mastery 16,,,,,3
+7871,Weapon Attachments,M16A4 Attachments,Canted Reflex,Optic Accessories,,M16A4 Mastery 16,,,,,3
+7872,Weapon Attachments,M16A4 Attachments,2PRO 1.25x,Scopes,,M16A4 Mastery 17,,,,,3
+7873,Weapon Attachments,M16A4 Attachments,QD Grip Pod,Underbarrels,,M16A4 Mastery 17,,,,,3
+7874,Weapon Attachments,M16A4 Attachments,"18"" Pencil",Barrels,,M16A4 Mastery 18,,,,,3
+7875,Weapon Attachments,M16A4 Attachments,20RND Fast Mag,Magazines,,M16A4 Mastery 18,,,,,3
+7876,Weapon Attachments,M16A4 Attachments,BF-2M 2.50x,Scopes,,M16A4 Mastery 19,,,,,3
+7877,Weapon Attachments,M16A4 Attachments,Full Angled,Underbarrels,,M16A4 Mastery 19,,,,,3
+7878,Weapon Attachments,M16A4 Attachments,"18"" Govt.",Barrels,,M16A4 Mastery 2,,,,,3
+7879,Weapon Attachments,M16A4 Attachments,R4T 2.00x,Scopes,,M16A4 Mastery 2,,,,,3
+7880,Badges,Assault Rifle Badges,M16A4,Silver,,M16A4 Mastery 20,,,,,3
+7881,Weapon Attachments,M16A4 Attachments,CQB Suppressor,Muzzles,,M16A4 Mastery 20,,,,,3
+7882,Weapon Attachments,M16A4 Attachments,NGFC LVPO,Scopes,,M16A4 Mastery 20,,,,,3
+7883,Weapon Attachments,M16A4 Attachments,5 MW Green,Top Accessories,,M16A4 Mastery 20,,,,,3
+7884,Weapon Attachments,M16A4 Attachments,Hollow Point,Ammunition,,M16A4 Mastery 21,,,,,3
+7885,Weapon Attachments,M16A4 Attachments,CQ RDS 1.25x,Scopes,,M16A4 Mastery 21,,,,,3
+7886,Weapon Attachments,M16A4 Attachments,Double-Port Brake,Muzzles,,M16A4 Mastery 22,,,,,3
+7887,Weapon Attachments,M16A4 Attachments,RO-M 1.75x,Scopes,,M16A4 Mastery 22,,,,,3
+7888,Weapon Attachments,M16A4 Attachments,SDO 3.50x,Scopes,,M16A4 Mastery 23,,,,,3
+7889,Weapon Attachments,M16A4 Attachments,50 MW Green,Top Accessories,,M16A4 Mastery 23,,,,,3
+7890,Weapon Attachments,M16A4 Attachments,RO-S 1.25x,Scopes,,M16A4 Mastery 24,,,,,3
+7891,Weapon Attachments,M16A4 Attachments,Canted Stubby,Underbarrels,,M16A4 Mastery 24,,,,,3
+7892,Weapon Attachments,M16A4 Attachments,"20"" HBAR",Barrels,,M16A4 Mastery 25,,,,,3
+7893,Weapon Attachments,M16A4 Attachments,36RND Magazine,Magazines,,M16A4 Mastery 25,,,,,3
+7894,Weapon Attachments,M16A4 Attachments,Taclight - Hip,Right Accessories,,M16A4 Mastery 25,,,,,3
+7895,Weapon Attachments,M16A4 Attachments,Piggyback Reflex,Optic Accessories,,M16A4 Mastery 26,,,,,3
+7896,Weapon Attachments,M16A4 Attachments,Ribbed Vertical,Underbarrels,,M16A4 Mastery 26,,,,,3
+7897,Weapon Attachments,M16A4 Attachments,Long Suppressor,Muzzles,,M16A4 Mastery 27,,,,,3
+7898,Weapon Attachments,M16A4 Attachments,LDS 4.50x,Scopes,,M16A4 Mastery 27,,,,,3
+7899,Weapon Attachments,M16A4 Attachments,1P87 1.50x,Scopes,,M16A4 Mastery 28,,,,,3
+7900,Weapon Attachments,M16A4 Attachments,6H64 Vertical,Underbarrels,,M16A4 Mastery 28,,,,,3
+7901,Weapon Attachments,M16A4 Attachments,Compensated Brake,Muzzles,,M16A4 Mastery 29,,,,,3
+7902,Weapon Attachments,M16A4 Attachments,SF-G2 5.00x,Scopes,,M16A4 Mastery 29,,,,,3
+7903,Weapon Attachments,M16A4 Attachments,BAKER 3.00x,Scopes,,M16A4 Mastery 3,,,,,3
+7904,Weapon Attachments,M16A4 Attachments,Folding Vertical,Underbarrels,,M16A4 Mastery 3,,,,,3
+7905,Badges,Assault Rifle Badges,M16A4,Gold,,M16A4 Mastery 30,,,,,3
+7906,Universal Weapon Customization,Weapon Camos,Cranial,Other,,M16A4 Mastery 30,,,,,3
+7907,Weapon Attachments,M16A4 Attachments,Match Trigger,Ergonomics,,M16A4 Mastery 30,,,,,3
+7908,Weapon Attachments,M16A4 Attachments,Bipod,Underbarrels,,M16A4 Mastery 30,,,,,3
+7909,Weapon Attachments,M16A4 Attachments,Polymer Case,Ammunition,,M16A4 Mastery 31,,,,,3
+7910,Weapon Attachments,M16A4 Attachments,3VZR 1.75x,Scopes,,M16A4 Mastery 31,,,,,3
+7911,Weapon Attachments,M16A4 Attachments,Magwell Flare,Ergonomics,,M16A4 Mastery 32,,,,,3
+7912,Weapon Attachments,M16A4 Attachments,Stippled Stubby,Underbarrels,,M16A4 Mastery 32,,,,,3
+7913,Weapon Attachments,M16A4 Attachments,"16"" Dissipator",Barrels,,M16A4 Mastery 33,,,,,3
+7914,Weapon Attachments,M16A4 Attachments,40RND Magazine,Magazines,,M16A4 Mastery 33,,,,,3
+7915,Weapon Attachments,M16A4 Attachments,Grim 1.50x,Scopes,,M16A4 Mastery 34,,,,,3
+7916,Weapon Attachments,M16A4 Attachments,Low-Profile Stubby,Underbarrels,,M16A4 Mastery 34,,,,,3
+7917,Weapon Attachments,M16A4 Attachments,Flash Comp,Muzzles,,M16A4 Mastery 35,,,,,3
+7918,Weapon Attachments,M16A4 Attachments,MC-CO LPVO,Scopes,,M16A4 Mastery 35,,,,,3
+7919,Weapon Attachments,M16A4 Attachments,50 MW Blue,Top Accessories,,M16A4 Mastery 35,,,,,3
+7920,Weapon Attachments,M16A4 Attachments,Magnifier,Optic Accessories,,M16A4 Mastery 36,,,,,3
+7921,Weapon Attachments,M16A4 Attachments,Classic Vertical,Underbarrels,,M16A4 Mastery 36,,,,,3
+7922,Weapon Attachments,M16A4 Attachments,PAS-35 3.00x,Scopes,,M16A4 Mastery 37,,,,,3
+7923,Weapon Attachments,M16A4 Attachments,120 MW Blue,Top Accessories,,M16A4 Mastery 37,,,,,3
+7924,Weapon Attachments,M16A4 Attachments,DVO LPVO,Scopes,,M16A4 Mastery 38,,,,,3
+7925,Weapon Attachments,M16A4 Attachments,Classic Grip Pod,Underbarrels,,M16A4 Mastery 38,,,,,3
+7926,Weapon Attachments,M16A4 Attachments,Lightened Suppressor,Muzzles,,M16A4 Mastery 39,,,,,3
+7927,Weapon Attachments,M16A4 Attachments,TH-RDS 1.00x,Scopes,,M16A4 Mastery 39,,,,,3
+7928,Weapon Attachments,M16A4 Attachments,Frangible,Ammunition,,M16A4 Mastery 4,,,,,3
+7929,Weapon Attachments,M16A4 Attachments,20RND Magazine,Magazines,,M16A4 Mastery 4,,,,,3
+7930,Badges,Assault Rifle Badges,M16A4,Platinum,,M16A4 Mastery 40,,,,,3
+7931,Weapon Attachments,M16A4 Attachments,40RND Fast Mag,Magazines,,M16A4 Mastery 40,,,,,3
+7932,Weapon Attachments,M16A4 Attachments,50 MW Violet,Top Accessories,,M16A4 Mastery 40,,,,,3
+7933,Universal Weapon Customization,Weapon Camos,Trodden Grounds,Other,,M16A4 Mastery 5,,,,,3
+7934,Weapon Attachments,M16A4 Attachments,SU-230 LPVO,Scopes,,M16A4 Mastery 5,,,,,3
+7935,Weapon Attachments,M16A4 Attachments,Adjustable Angled,Underbarrels,,M16A4 Mastery 5,,,,,3
+7936,Badges,Assault Rifle Badges,M16A4,Elite,,M16A4 Mastery 50,,,,,3
+7937,Weapon Packages,M16A4 Packages,Unstoppable Force,Assault Rifle,,M16A4 Mastery 50,,,,,3
+7938,Weapon Attachments,M16A4 Attachments,Linear Comp,Muzzles,,M16A4 Mastery 6,,,,,3
+7939,Weapon Attachments,M16A4 Attachments,Canted Iron Sights,Optic Accessories,,M16A4 Mastery 6,,,,,3
+7940,Weapon Attachments,M16A4 Attachments,ROX 1.50x,Scopes,,M16A4 Mastery 7,,,,,3
+7941,Weapon Attachments,M16A4 Attachments,Slim Handstop,Underbarrels,,M16A4 Mastery 7,,,,,3
+7942,Weapon Attachments,M16A4 Attachments,Taclight - Aimed,Right Accessories,,M16A4 Mastery 8,,,,,3
+7943,Weapon Attachments,M16A4 Attachments,CCO 2.00x,Scopes,,M16A4 Mastery 8,,,,,3
+7944,Weapon Attachments,M16A4 Attachments,5 MW Red,Top Accessories,,M16A4 Mastery 8,,,,,3
+7945,Weapon Attachments,M16A4 Attachments,PVQ-31 4.00x,Scopes,,M16A4 Mastery 9,,,,,3
+7946,Weapon Attachments,M16A4 Attachments,PTT Grip Pod,Underbarrels,,M16A4 Mastery 9,,,,,3
+7947,Weapon Attachments,M2010 ESR Attachments,Piggyback Reflex,Optic Accessories,,M2010 ESR Mastery 4,,,,,0
+7948,Weapon Attachments,M277 Attachments,Piggyback Reflex,Optic Accessories,,M277 Mastery 30,,,,,0
+7949,Weapon Attachments,M39 EMR Attachments,Adjustable Magnification 2.00x,Optic Accessories,,M39 EMR Mastery 16,,,,,0
+7950,Weapon Attachments,M39 EMR Attachments,Adjustable Magnification 3.00x,Optic Accessories,,M39 EMR Mastery 22,,,,,0
+7951,Weapon Attachments,M39 EMR Attachments,Adjustable Magnification 4.00x,Optic Accessories,,M39 EMR Mastery 31,,,,,0
+7952,Weapon Attachments,M87A1 Attachments,Canted Iron Sights,Optic Accessories,,M87A1 Mastery 12,,,,,0
+7953,Weapon Attachments,M87A1 Attachments,Canted Reflex,Optic Accessories,,M87A1 Mastery 23,,,,,0
+7954,Weapon Attachments,M87A1 Attachments,Piggyback Reflex,Optic Accessories,,M87A1 Mastery 30,,,,,0
+7955,Weapon Attachments,Mini Scout Attachments,Adjustable Magnification 2.00x,Optic Accessories,,Mini Scout Mastery 15,,,,,1
+7956,Weapon Attachments,Mini Scout Attachments,Adjustable Magnification 3.00x,Optic Accessories,,Mini Scout Mastery 25,,,,,1
+7957,Weapon Attachments,Mini Scout Attachments,Adjustable Magnification 4.00x,Optic Accessories,,Mini Scout Mastery 35,,,,,1
+7958,Appearance,Strix Raiders Al-Khatib,Gloom Piercer,,NATO,Nocturnal Predator (Store),,,x,,3
+7959,Appearance,Strix Raiders Moore,Echolocator,,NATO,Nocturnal Predator (Store),,,x,,3
+7960,Player Card,Player Card Backgrounds,Deadly Escort,,,Nocturnal Predator (Store),,,x,,3
+7961,Player Card,Player Card Titles,Flying Fox,,,Nocturnal Predator (Store),,,x,,3
+7962,Universal Soldier Customization,Uniform Patches,Aerial Hunter,,,Nocturnal Predator (Store),,,x,,3
+7963,Vehicle Customizations,Attack Heli Skins,Chiroptera,,NATO,Nocturnal Predator (Store),,,x,,3
+7964,Weapon Packages,L85A3 Packages,Midnight Swarm,Assault Rifle,,Nocturnal Predator (Store),,,x,,3
+7965,Weapon Attachments,NVO-228E Attachments,Piggyback Reflex,Optic Accessories,,NVO-228E Mastery 13,,,,,0
+7966,Challenges and Assignments,Ranked Challenges,Place in the top 10 squads of Ranked Battle Royale Quads.,Challenge,,Place in the top 10 squads of Ranked Battle Royale Quads. (1),60 min Hardware XP Booster,,,,3
+7967,Challenges and Assignments,Ranked Challenges,Play Ranked Battle Royale Quads matches.,Challenge,,Play Ranked Battle Royale Quads matches. (2),60 min Hardware XP Booster,,,,3
+7968,Weapon Attachments,PSR Attachments,Piggyback Reflex,Optic Accessories,,PSR Mastery 5,,,,,0
+7969,Weapon Attachments,PW5A3 Attachments,Piggyback Reflex,Optic Accessories,,PW5A3 Mastery 30,,,,,0
+7970,Gadget Skins,X95 BRE Skins,Factory Default,Assault,,Rank 7,,,,,3
+7971,Player Card,Player Card Stickers,S3 Bronze,,,Ranked Division Bronze II (Season 3),,,,,3
+7972,Player Card,Player Card Backgrounds,S3 Bronze,,,Ranked Division Bronze III (Season 3),,,,,3
+7973,Player Card,Player Card Titles,S3 Bronze,,,Ranked Division Bronze V (Season 3),,,,,3
+7974,Player Card,Player Card Icons,S3 Bronze,,,Ranked Division Bronze IV (Season 3),,,,,3
+7975,Universal Weapon Customization,Weapon Charms,S3 Diamond,,,Ranked Division Diamond I (Season 3),,,,,3
+7976,Player Card,Player Card Stickers,S3 Diamond,,,Ranked Division Diamond II (Season 3),,,,,3
+7977,Player Card,Player Card Backgrounds,S3 Diamond,,,Ranked Division Diamond III (Season 3),,,,,3
+7978,Player Card,Player Card Icons,S3 Diamond,,,Ranked Division Diamond IV (Season 3),,,,,3
+7979,Player Card,Player Card Titles,S3 Diamond,,,Ranked Division Diamond V (Season 3),,,,,3
+7980,Universal Weapon Customization,Weapon Charms,S3 Gold,,,Ranked Division Gold I (Season 3),,,,,3
+7981,Player Card,Player Card Stickers,S3 Gold,,,Ranked Division Gold II (Season 3),,,,,3
+7982,Player Card,Player Card Backgrounds,S3 Gold,,,Ranked Division Gold III (Season 3),,,,,3
+7983,Player Card,Player Card Icons,S3 Gold,,,Ranked Division Gold IV (Season 3),,,,,3
+7984,Player Card,Player Card Titles,S3 Gold,,,Ranked Division Gold V (Season 3),,,,,3
+7985,Universal Weapon Customization,Weapon Charms,S3 Master,,,Ranked Division Master I (Season 3),,,,,3
+7986,Player Card,Player Card Stickers,S3 Master,,,Ranked Division Master II (Season 3),,,,,3
+7987,Player Card,Player Card Backgrounds,S3 Master,,,Ranked Division Master III (Season 3),,,,,3
+7988,Player Card,Player Card Icons,S3 Master,,,Ranked Division Master IV (Season 3),,,,,3
+7989,Player Card,Player Card Titles,S3 Master,,,Ranked Division Master V (Season 3),,,,,3
+7990,Universal Weapon Customization,Weapon Charms,S3 Platinum,,,Ranked Division Platinum I (Season 3),,,,,3
+7991,Player Card,Player Card Stickers,S3 Platinum,,,Ranked Division Platinum II (Season 3),,,,,3
+7992,Player Card,Player Card Backgrounds,S3 Platinum,,,Ranked Division Platinum III (Season 3),,,,,3
+7993,Player Card,Player Card Icons,S3 Platinum,,,Ranked Division Platinum IV (Season 3),,,,,3
+7994,Player Card,Player Card Titles,S3 Platinum,,,Ranked Division Platinum V (Season 3),,,,,3
+7995,Player Card,Player Card Backgrounds,S3 Rookie,,,Ranked Division Rookie III (Season 3),,,,,3
+7996,Player Card,Player Card Icons,S3 Rookie,,,Ranked Division Rookie IV (Season 3),,,,,3
+7997,Player Card,Player Card Titles,S3 Rookie,,,Ranked Division Rookie V (Season 3),,,,,3
+7998,Universal Weapon Customization,Weapon Charms,S3 Silver,,,Ranked Division Silver I (Season 3),,,,,3
+7999,Player Card,Player Card Stickers,S3 Silver,,,Ranked Division Silver II (Season 3),,,,,3
+8000,Player Card,Player Card Backgrounds,S3 Silver,,,Ranked Division Silver III (Season 3),,,,,3
+8001,Player Card,Player Card Icons,S3 Silver,,,Ranked Division Silver IV (Season 3),,,,,3
+8002,Player Card,Player Card Titles,S3 Silver,,,Ranked Division Silver V (Season 3),,,,,3
+8003,Challenges and Assignments,BF Pro Challenges,Battle Pass S3 Challenge 3,Challenge,,"Revive and redeploy teammates. Drag revives count double. (100)
+Deal damage. (5,000)",Next Level player card icon,,x,,3
+8004,Challenges and Assignments,Ranked Challenges,Revive or redeploy teammates in Ranked Battle Royale Quads.,Challenge,,Revive or redeploy teammates in Ranked Battle Royale Quads. (5),60 min Hardware XP Booster,,,,3
+8005,Weapon Attachments,RPK-74M Attachments,Flashlight,Left Accessories,,RPK-74M Mastery 1,,,,,3
+8006,Weapon Attachments,RPK-74M Attachments,RO-S 1.25x,Scopes,,RPK-74M Mastery 1,,,,,3
+8007,Weapon Attachments,RPK-74M Attachments,Adjustable Angled,Underbarrels,,RPK-74M Mastery 1,,,,,3
+8008,Badges,LMG Badges,RPK-74M,Bronze,,RPK-74M Mastery 10,,,,,3
+8009,Weapon Attachments,RPK-74M Attachments,30RND Fast Mag,Magazines,,RPK-74M Mastery 10,,,,,3
+8010,Weapon Attachments,RPK-74M Attachments,PTT Grip Pod,Underbarrels,,RPK-74M Mastery 10,,,,,3
+8011,Weapon Packages,RPK-74M Packages,Warfighter,LMG,,RPK-74M Mastery 10,,,,,3
+8012,Weapon Attachments,RPK-74M Attachments,Linear Comp,Muzzles,,RPK-74M Mastery 11,,,,,3
+8013,Weapon Attachments,RPK-74M Attachments,Mars-F LPVO,Scopes,,RPK-74M Mastery 11,,,,,3
+8014,Weapon Attachments,RPK-74M Attachments,Magwell Flare,Ergonomics,,RPK-74M Mastery 12,,,,,3
+8015,Weapon Attachments,RPK-74M Attachments,Alloy Vertical,Underbarrels,,RPK-74M Mastery 12,,,,,3
+8016,Weapon Attachments,RPK-74M Attachments,Polymer Case,Ammunition,,RPK-74M Mastery 13,,,,,3
+8017,Weapon Attachments,RPK-74M Attachments,ROX 1.50x,Scopes,,RPK-74M Mastery 13,,,,,3
+8018,Weapon Attachments,RPK-74M Attachments,R4T 2.00x,Scopes,,RPK-74M Mastery 14,,,,,3
+8019,Weapon Attachments,RPK-74M Attachments,Ribbed Stubby,Underbarrels,,RPK-74M Mastery 14,,,,,3
+8020,Universal Weapon Customization,Weapon Camos,Crimson Slash,Other,,RPK-74M Mastery 15,,,,,3
+8021,Weapon Attachments,RPK-74M Attachments,36RND Magazine,Magazines,,RPK-74M Mastery 15,,,,,3
+8022,Weapon Attachments,RPK-74M Attachments,CQB Suppressor,Muzzles,,RPK-74M Mastery 15,,,,,3
+8023,Weapon Attachments,RPK-74M Attachments,50 MW Green,Right Accessories,,RPK-74M Mastery 16,,,,,3
+8024,Weapon Attachments,RPK-74M Attachments,LDS 4.50x,Scopes,,RPK-74M Mastery 16,,,,,3
+8025,Weapon Attachments,RPK-74M Attachments,CQ RDS 1.25x,Scopes,,RPK-74M Mastery 17,,,,,3
+8026,Weapon Attachments,RPK-74M Attachments,Slim Angled,Underbarrels,,RPK-74M Mastery 17,,,,,3
+8027,Weapon Attachments,RPK-74M Attachments,Double-Port Brake,Muzzles,,RPK-74M Mastery 18,,,,,3
+8028,Weapon Attachments,RPK-74M Attachments,RO-M 1.75x,Scopes,,RPK-74M Mastery 18,,,,,3
+8029,Weapon Attachments,RPK-74M Attachments,R-MR 1.00x,Scopes,,RPK-74M Mastery 19,,,,,3
+8030,Weapon Attachments,RPK-74M Attachments,Slim Handstop,Underbarrels,,RPK-74M Mastery 19,,,,,3
+8031,Weapon Attachments,RPK-74M Attachments,CCO 2.00x,Scopes,,RPK-74M Mastery 2,,,,,3
+8032,Badges,LMG Badges,RPK-74M,Silver,,RPK-74M Mastery 20,,,,,3
+8033,Weapon Attachments,RPK-74M Attachments,521mm Boar,Barrels,,RPK-74M Mastery 20,,,,,3
+8034,Weapon Attachments,RPK-74M Attachments,Taclight - Aimed,Left Accessories,,RPK-74M Mastery 20,,,,,3
+8035,Weapon Attachments,RPK-74M Attachments,1P87 1.50x,Scopes,,RPK-74M Mastery 20,,,,,3
+8036,Weapon Attachments,RPK-74M Attachments,Canted Stubby,Underbarrels,,RPK-74M Mastery 21,,,,,3
+8037,Weapon Attachments,RPK-74M Attachments,Magnifier,Optic Accessories,,RPK-74M Mastery 21,,,,,3
+8038,Weapon Attachments,RPK-74M Attachments,Frangible,Ammunition,,RPK-74M Mastery 22,,,,,3
+8039,Weapon Attachments,RPK-74M Attachments,45RND Fast Mag,Magazines,,RPK-74M Mastery 22,,,,,3
+8040,Weapon Attachments,RPK-74M Attachments,Mini Flex 1.00x,Scopes,,RPK-74M Mastery 23,,,,,3
+8041,Weapon Attachments,RPK-74M Attachments,Ribbed Vertical,Underbarrels,,RPK-74M Mastery 23,,,,,3
+8042,Weapon Attachments,RPK-74M Attachments,Long Suppressor,Muzzles,,RPK-74M Mastery 24,,,,,3
+8043,Weapon Attachments,RPK-74M Attachments,SU-231 1.50x,Scopes,,RPK-74M Mastery 24,,,,,3
+8044,Weapon Attachments,RPK-74M Attachments,Hollow Point,Ammunition,,RPK-74M Mastery 25,,,,,3
+8045,Weapon Attachments,RPK-74M Attachments,Taclight - Hip,Left Accessories,,RPK-74M Mastery 25,,,,,3
+8046,Weapon Attachments,RPK-74M Attachments,ST Prisim 5.00x,Scopes,,RPK-74M Mastery 25,,,,,3
+8047,Weapon Attachments,RPK-74M Attachments,OSA-7 1.00x,Scopes,,RPK-74M Mastery 26,,,,,3
+8048,Weapon Attachments,RPK-74M Attachments,Full Angled,Underbarrels,,RPK-74M Mastery 26,,,,,3
+8049,Weapon Attachments,RPK-74M Attachments,Flash Comp,Muzzles,,RPK-74M Mastery 27,,,,,3
+8050,Weapon Attachments,RPK-74M Attachments,Slant Brake,Muzzles,,RPK-74M Mastery 27,,,,,3
+8051,Weapon Attachments,RPK-74M Attachments,MC-CO LPVO,Scopes,,RPK-74M Mastery 27,,,,,3
+8052,Weapon Attachments,RPK-74M Attachments,Canted Reflex,Optic Accessories,,RPK-74M Mastery 28,,,,,3
+8053,Weapon Attachments,RPK-74M Attachments,QD Grip Pod,Underbarrels,,RPK-74M Mastery 28,,,,,3
+8054,Weapon Attachments,RPK-74M Attachments,50 MW Violet,Right Accessories,,RPK-74M Mastery 29,,,,,3
+8055,Weapon Attachments,RPK-74M Attachments,Grim 1.50x,Scopes,,RPK-74M Mastery 29,,,,,3
+8056,Weapon Attachments,RPK-74M Attachments,SU-230 LPVO,Scopes,,RPK-74M Mastery 3,,,,,3
+8057,Weapon Attachments,RPK-74M Attachments,Folding Vertical,Underbarrels,,RPK-74M Mastery 3,,,,,3
+8058,Badges,LMG Badges,RPK-74M,Gold,,RPK-74M Mastery 30,,,,,3
+8059,Universal Weapon Customization,Weapon Camos,Blasted Clay,Other,,RPK-74M Mastery 30,,,,,3
+8060,Weapon Attachments,RPK-74M Attachments,50RND Magazine,Magazines,,RPK-74M Mastery 30,,,,,3
+8061,Weapon Attachments,RPK-74M Attachments,6H64 Vertical,Underbarrels,,RPK-74M Mastery 30,,,,,3
+8062,Weapon Attachments,RPK-74M Attachments,419mm Boar-F,Barrels,,RPK-74M Mastery 31,,,,,3
+8063,Weapon Attachments,RPK-74M Attachments,PVQ-31 4.00x,Scopes,,RPK-74M Mastery 31,,,,,3
+8064,Weapon Attachments,RPK-74M Attachments,2PRO 1.25x,Scopes,,RPK-74M Mastery 32,,,,,3
+8065,Weapon Attachments,RPK-74M Attachments,Stippled Stubby,Underbarrels,,RPK-74M Mastery 32,,,,,3
+8066,Weapon Attachments,RPK-74M Attachments,Lightened Suppressor,Muzzles,,RPK-74M Mastery 33,,,,,3
+8067,Weapon Attachments,RPK-74M Attachments,DVO LPVO,Scopes,,RPK-74M Mastery 33,,,,,3
+8068,Weapon Attachments,RPK-74M Attachments,50 MW Blue,Right Accessories,,RPK-74M Mastery 34,,,,,3
+8069,Weapon Attachments,RPK-74M Attachments,PAS-35 3.00x,Scopes,,RPK-74M Mastery 34,,,,,3
+8070,Weapon Attachments,RPK-74M Attachments,60RND Magazine,Magazines,,RPK-74M Mastery 35,,,,,3
+8071,Weapon Attachments,RPK-74M Attachments,Classic Vertical,Underbarrels,,RPK-74M Mastery 35,,,,,3
+8072,Weapon Attachments,RPK-74M Attachments,Compensated Brake,Muzzles,,RPK-74M Mastery 36,,,,,3
+8073,Weapon Attachments,RPK-74M Attachments,Piggyback Reflex,Optic Accessories,,RPK-74M Mastery 36,,,,,3
+8074,Weapon Attachments,RPK-74M Attachments,SF-G2 5.00x,Scopes,,RPK-74M Mastery 37,,,,,3
+8075,Weapon Attachments,RPK-74M Attachments,Low-Profile Stubby,Underbarrels,,RPK-74M Mastery 37,,,,,3
+8076,Weapon Attachments,RPK-74M Attachments,Synthetic Tip,Ammunition,,RPK-74M Mastery 38,,,,,3
+8077,Weapon Attachments,RPK-74M Attachments,Match Trigger,Ergonomics,,RPK-74M Mastery 38,,,,,3
+8078,Weapon Attachments,RPK-74M Attachments,TH-RDS 1.00X,Scopes,,RPK-74M Mastery 39,,,,,3
+8079,Weapon Attachments,RPK-74M Attachments,Classic Grip Pod,Underbarrels,,RPK-74M Mastery 39,,,,,3
+8080,Weapon Attachments,RPK-74M Attachments,521mm Boar-F,Barrels,,RPK-74M Mastery 4,,,,,3
+8081,Weapon Attachments,RPK-74M Attachments,BF-2M 2.50x,Scopes,,RPK-74M Mastery 4,,,,,3
+8082,Badges,LMG Badges,RPK-74M,Platinum,,RPK-74M Mastery 40,,,,,3
+8083,Weapon Attachments,RPK-74M Attachments,95RND Drum,Magazines,,RPK-74M Mastery 40,,,,,3
+8084,Weapon Attachments,RPK-74M Attachments,120 MW Blue,Right Accessories,,RPK-74M Mastery 40,,,,,3
+8085,Universal Weapon Customization,Weapon Camos,Deepwater,Other,,RPK-74M Mastery 5,,,,,3
+8086,Weapon Attachments,RPK-74M Attachments,Tungsten Core,Ammunition,,RPK-74M Mastery 5,,,,,3
+8087,Weapon Attachments,RPK-74M Attachments,30RND Magazine,Magazines,,RPK-74M Mastery 5,,,,,3
+8088,Badges,LMG Badges,RPK-74M,Elite,,RPK-74M Mastery 50,,,,,3
+8089,Weapon Packages,RPK-74M Packages,Unstoppable Force,LMG,,RPK-74M Mastery 50,,,,,3
+8090,Weapon Attachments,RPK-74M Attachments,5 MW Red,Right Accessories,,RPK-74M Mastery 6,,,,,3
+8091,Weapon Attachments,RPK-74M Attachments,A-P2 1.75x,Scopes,,RPK-74M Mastery 6,,,,,3
+8092,Weapon Attachments,RPK-74M Attachments,3VZR 1.75x,Scopes,,RPK-74M Mastery 7,,,,,3
+8093,Weapon Attachments,RPK-74M Attachments,Folding Stubby,Underbarrels,,RPK-74M Mastery 7,,,,,3
+8094,Weapon Attachments,RPK-74M Attachments,Standard Suppressor,Muzzles,,RPK-74M Mastery 8,,,,,3
+8095,Weapon Attachments,RPK-74M Attachments,SDO 3.50x,Scopes,,RPK-74M Mastery 8,,,,,3
+8096,Weapon Attachments,RPK-74M Attachments,Canted Iron Sights,Optic Accessories,,RPK-74M Mastery 9,,,,,3
+8097,Weapon Attachments,RPK-74M Attachments,5 MW Green,Right Accessories,,RPK-74M Mastery 9,,,,,3
+8098,Appearance,Coyote Squad Support,Tactical Surge,,NATO,Search and Destroy (Store),,,x,,3
+8099,Dog Tags,Dog Tags,Right on Target,Other,,Search and Destroy (Store),,,x,,3
+8100,Player Card,Player Card Backgrounds,Hot Pursuit,,,Search and Destroy (Store),,,x,,3
+8101,Universal Soldier Customization,Parachute Skins,Volitant Survey,,,Search and Destroy (Store),,,x,,3
+8102,Universal Soldier Customization,Uniform Patches,Headhunter,,,Search and Destroy (Store),,,x,,3
+8103,Universal Vehicle Customization,Vehicle Decals,Cardinal Direction,,,Search and Destroy (Store),,,x,,3
+8104,Universal Weapon Customization,Weapon Charms,Tristar,,,Search and Destroy (Store),,,x,,3
+8105,Universal Weapon Customization,Weapon Stickers,Test Fire,,,Search and Destroy (Store),,,x,,3
+8106,Vehicle Customizations,Light Ground Transport Skins,Caltrop,,NATO,Search and Destroy (Store),,,x,,3
+8107,Weapon Packages,M/60 Packages,Clean Kill,LMG,,Search and Destroy (Store),,,x,,3
+8108,Weapon Packages,SGX Packages,Sureshot,SMG,,Search and Destroy (Store),,,x,,3
+8109,Appearance,Fireteam Vedmak Support,Shattered Slate,,Pax Armata,Season 3 Advanced pack (Store),,,x,,3
+8110,Universal Soldier Customization,Uniform Patches,Bone Breaker,,,Season 3 Advanced pack (Store),,,x,,3
+8111,Universal Weapon Customization,Weapon Charms,Capped Off,,,Season 3 Advanced pack (Store),,,x,,3
+8112,Universal Weapon Customization,Weapon Stickers,Headache,,,Season 3 Advanced pack (Store),,,x,,3
+8113,Weapon Packages,CZ3A1 Packages,Granite,SMG,,Season 3 Advanced pack (Store),,,x,,3
+8114,Weapon Packages,SOR-300SC Packages,Eldritch,Carbine,,Season 3 Advanced pack (Store),,,x,,3
+8115,Appearance,Fireteam Vedmak Engineer,Urban Tactical,,Pax Armata,Season 3 Battle Pass BF Pro Tier 0,,,x,,3
+8116,Gadget Skins,Ice Axe Skins,Professional Equipment,Melee,,Season 3 Battle Pass BF Pro Tier 0,,,x,,3
+8117,Player Card,Player Card Backgrounds,Under Fire,,,Season 3 Battle Pass BF Pro Tier 0,,,x,,3
+8118,Player Card,Player Card Icons,Special Delivery,,,Season 3 Battle Pass BF Pro Tier 0,,,x,,3
+8119,Vehicle Customizations,Transport Heli Skins,Fractured,,Pax Armata,Season 3 Battle Pass BF Pro Tier 0,,,x,,3
+8120,Weapon Packages,CZ3A1 Packages,Riposte,SMG,,Season 3 Battle Pass BF Pro Tier 0,,,x,,3
+8121,Universal Vehicle Customization,Vehicle Decals,Notorious Impact,,,Season 3 Battle Pass Prestige Tier 1,,,,,3
+8122,Weapon Packages,18.5KS-K Packages,Slashing Thunder,Shotgun,,Season 3 Battle Pass Prestige Tier 2,,,,,3
+8123,Universal Weapon Customization,Weapon Stickers,Striking Repute,,,Season 3 Battle Pass Prestige Tier 4,,,,,3
+8124,Player Card,Player Card Backgrounds,Stamp Out,,,Season 3 Battle Pass Prestige Tier 6,,,,,3
+8125,Weapon Packages,KV9 Packages,Dominant Clash,SMG,,Season 3 Battle Pass Prestige Tier 8,,,,,3
+8126,Appearance,Dagger 1-3 Hemlock,Standard Issue,,NATO,Season 3 Battle Pass Recruit Tier 0,,,x,,3
+8127,Appearance,Espada Assault,Impervious Reign,,Pax Armata,Season 3 Battle Pass Recruit Tier 0,,,x,,3
+8128,Appearance,Espada Support,Night Owl,,Pax Armata,Season 3 Battle Pass Recruit Tier 0,,,x,,3
+8129,Units,NATO Units,Dagger 1-3 Hemlock,Assault,NATO,Season 3 Battle Pass Recruit Tier 0,,,x,,3
+8130,Universal Soldier Customization,Parachute Skins,Leaden Skies,,,Season 3 Battle Pass Recruit Tier 0,,,x,,3
+8131,Weapon Packages,M240L Packages,Eagle-Eyed,LMG,,Season 3 Battle Pass Recruit Tier 0,,,x,,3
+8132,Player Card,Player Card Stickers,Kindled Dagger,,,Season 3 Battle Pass Recruit Tier 1,,,,,3
+8133,Weapon Packages,SGX Packages,Cutting Clarity,SMG,,Season 3 Battle Pass Recruit Tier 2,,,x,,3
+8134,Appearance,Coyote Squad Engineer,Switchblade,,NATO,Season 3 Battle Pass Recruit Tier 4,,,x,,3
+8135,Weapon Attachments,L115 Attachments,FMJ,Ammunition,,Season 3 Battle Pass Recruit Tier 5,,,,,3
+8136,Weapon Attachments,L115 Attachments,"27"" Factory",Barrels,,Season 3 Battle Pass Recruit Tier 5,,,,,3
+8137,Weapon Attachments,L115 Attachments,5RND Magazine,Magazines,,Season 3 Battle Pass Recruit Tier 5,,,,,3
+8138,Weapon Attachments,L115 Attachments,Double-Port Brake,Muzzles,,Season 3 Battle Pass Recruit Tier 5,,,,,3
+8139,Weapon Attachments,L115 Attachments,SSDS 6.00x,Scopes,,Season 3 Battle Pass Recruit Tier 5,,,,,3
+8140,Weapon Packages,L115 Packages,Factory,Sniper Rifle,,Season 3 Battle Pass Recruit Tier 5,,,,,3
+8141,Weapons and Gadgets,Weapons,L115,Sniper Rifles,,Season 3 Battle Pass Recruit Tier 5,,,,,3
+8142,Player Card,Player Card Icons,Bullet Drip,,,Season 3 Battle Pass Smuggled Goods Tier 10,,,,,3
+8143,Appearance,Dagger 1-3 Murphy,Standard Issue,,NATO,Season 3 Battle Pass Smuggled Goods Tier 11,,,x,,3
+8144,Units,NATO Units,Dagger 1-3 Murphy,Engineer,NATO,Season 3 Battle Pass Smuggled Goods Tier 11,,,x,,3
+8145,Gadget Skins,X95 BRE Skins,Bandit Break,Assault,,Season 3 Battle Pass Smuggled Goods Tier 13,,,x,,3
+8146,Universal Weapon Customization,Weapon Charms,Profiteer's Best Friend,,,Season 3 Battle Pass Smuggled Goods Tier 14,,,,,3
+8147,Weapon Packages,M1014 Packages,Contact Splinter,Shotgun,,Season 3 Battle Pass Smuggled Goods Tier 16,,,x,,3
+8148,Gadget Skins,Combat Knife Skins,Cutthroat Damascus,Melee,,Season 3 Battle Pass Smuggled Goods Tier 17,,,,,3
+8149,Weapon Packages,DRS-IAR Packages,Rake It In,LMG,,Season 3 Battle Pass Smuggled Goods Tier 19,,,x,,3
+8150,Weapon Packages,M2010 ESR Packages,Gilded Shot,Sniper Rifle,,Season 3 Battle Pass Smuggled Goods Tier 2,,,x,,3
+8151,Vehicle Customizations,Light Ground Transport Skins,Firing Ranger,,Pax Armata,Season 3 Battle Pass Smuggled Goods Tier 20,,,x,,3
+8152,Weapon Packages,SVK-8.6 Packages,Homefront Fortresss,DMR,,Season 3 Battle Pass Smuggled Goods Tier 21,,,,,3
+8153,Appearance,Kahina Unité Support,Transport Force,,Pax Armata,Season 3 Battle Pass Smuggled Goods Tier 22,,,x,,3
+8154,Universal Vehicle Customization,Vehicle Decals,Staked Claim,,,Season 3 Battle Pass Smuggled Goods Tier 3,,,,,3
+8155,Appearance,Fireteam Vedmak Recon,Shadow Dealer,,Pax Armata,Season 3 Battle Pass Smuggled Goods Tier 4,,,x,,3
+8156,Universal Soldier Customization,Uniform Patches,Shell Funding,,,Season 3 Battle Pass Smuggled Goods Tier 5,,,x,,3
+8157,Weapon Packages,M357 TRAIT Packages,Against the Grain,Secondary,,Season 3 Battle Pass Smuggled Goods Tier 6,,,x,,3
+8158,Appearance,The Desert Locusts Engineer,Shutdown,,NATO,Season 3 Battle Pass Smuggled Goods Tier 7,,,,,3
+8159,Vehicle Customizations,Attack Jet Skins,Scavenger,,NATO,Season 3 Battle Pass Smuggled Goods Tier 9,,,x,,3
+8160,Badges,Season Badges,Season 3,Bronze,,Season 3 Battle Pass tiers,,,,,3
+8161,Badges,Season Badges,Season 3,Elite,,Season 3 Battle Pass tiers,,,,,3
+8162,Badges,Season Badges,Season 3,Gold,,Season 3 Battle Pass tiers,,,,,3
+8163,Badges,Season Badges,Season 3,Platinum,,Season 3 Battle Pass tiers,,,,,3
+8164,Badges,Season Badges,Season 3,Silver,,Season 3 Battle Pass tiers,,,,,3
+8165,Weapon Packages,M39 EMR Packages,Countershade,DMR,,Season 3 Battle Pass Tiger Shark Tier 1,,,x,,3
+8166,Appearance,United Albion Support,Sawtooth,,NATO,Season 3 Battle Pass Tiger Shark Tier 10,,,x,,3
+8167,Weapon Attachments,M16A4 Attachments,FMJ,Ammunition,,Season 3 Battle Pass Tiger Shark Tier 11,,,,,3
+8168,Weapon Attachments,M16A4 Attachments,"20"" Factory",Barrels,,Season 3 Battle Pass Tiger Shark Tier 11,,,,,3
+8169,Weapon Attachments,M16A4 Attachments,Rail Cover,Ergonomics,,Season 3 Battle Pass Tiger Shark Tier 11,,,,,3
+8170,Weapon Attachments,M16A4 Attachments,30RND Magazine,Magazines,,Season 3 Battle Pass Tiger Shark Tier 11,,,,,3
+8171,Weapon Attachments,M16A4 Attachments,Flash Hider,Muzzles,,Season 3 Battle Pass Tiger Shark Tier 11,,,,,3
+8172,Weapon Attachments,M16A4 Attachments,SU-231 1.50x,Scopes,,Season 3 Battle Pass Tiger Shark Tier 11,,,,,3
+8173,Weapon Packages,M16A4 Packages,Factory,Assault Rifle,,Season 3 Battle Pass Tiger Shark Tier 11,,,,,3
+8174,Weapons and Gadgets,Weapons,M16A4,Assault Rifle,,Season 3 Battle Pass Tiger Shark Tier 11,,,,,3
+8175,Vehicle Customizations,MBT Skins,Hunting Stripes,,NATO,Season 3 Battle Pass Tiger Shark Tier 12,,,x,,3
+8176,Weapon Packages,RPKM Packages,Predatory Snare,LMG,,Season 3 Battle Pass Tiger Shark Tier 14,,,,,3
+8177,Universal Weapon Customization,Weapon Stickers,Snap Attack,,,Season 3 Battle Pass Tiger Shark Tier 15,,,x,,3
+8178,Weapon Packages,SV-98 Packages,Pearly Bite,Sniper Rifle,,Season 3 Battle Pass Tiger Shark Tier 16,,,x,,3
+8179,Universal Vehicle Customization,Vehicle Decals,Razor Maw,,,Season 3 Battle Pass Tiger Shark Tier 17,,,,,3
+8180,Appearance,Dagger 1-3 Gecko,Standard Issue,,NATO,Season 3 Battle Pass Tiger Shark Tier 19,,,x,,3
+8181,Units,NATO Units,Dagger 1-3 Gecko,Recon,NATO,Season 3 Battle Pass Tiger Shark Tier 19,,,x,,3
+8182,Weapon Packages,M417 A2 Packages,Shark Bait,Carbine,,Season 3 Battle Pass Tiger Shark Tier 20,,,x,,3
+8183,Vehicle Customizations,Anti Air Skins,Thresher,,Pax Armata,Season 3 Battle Pass Tiger Shark Tier 21,,,,,3
+8184,Appearance,Coyote Squad Recon,Hadal Hunter,,NATO,Season 3 Battle Pass Tiger Shark Tier 22,,,x,,3
+8185,Appearance,Espada Assault,Depth Dweller,,Pax Armata,Season 3 Battle Pass Tiger Shark Tier 3,,,,,3
+8186,Vehicle Customizations,Transport Heli Skins,Mako,,Pax Armata,Season 3 Battle Pass Tiger Shark Tier 4,,,x,,3
+8187,Player Card,Player Card Titles,Bloodthirsty,,,Season 3 Battle Pass Tiger Shark Tier 5,,,x,,3
+8188,Weapon Packages,M45A1 Packages,Disruptive Assault,Secondary,,Season 3 Battle Pass Tiger Shark Tier 6,,,x,,3
+8189,Gadget Skins,MBT-LAW Skins,Deepwater Strike,Engineer,,Season 3 Battle Pass Tiger Shark Tier 8,,,x,,3
+8190,Player Card,Player Card Backgrounds,Hungry Grin,,,Season 3 Battle Pass Tiger Shark Tier 9,,,x,,3
+8191,Universal Weapon Customization,Weapon Charms,Preyfinder,,,Season 3 Battle Pass Ultimate Tier 1,,,,,3
+8192,Weapon Packages,KORD 6P67 Packages,Blooded Beak,Assault Rifle,,Season 3 Battle Pass Ultimate Tier 2,,,x,,3
+8193,Vehicle Customizations,IFV Skins,Night Migration,,NATO,Season 3 Battle Pass Ultimate Tier 4,,,x,,3
+8194,Universal Soldier Customization,Parachute Skins,Menacing Dive,,,Season 3 Battle Pass Ultimate Tier 5,,,,,3
+8195,Player Card,Player Card Titles,Carnivore Call,,,Season 3 Battle Pass Ultimate Tier 6,,,x,,3
+8196,Appearance,The 323 Lin,Vulture,,NATO,Season 3 Battle Pass Ultimate Tier 7,,,x,,3
+8197,Weapon Packages,AK-205 Packages,Burial Rounds,Carbine,,Season 3 Battle Pass Warlords Command Tier 1,,,x,,3
+8198,Gadget Skins,SICH G1 WP Skins,Bone Reign,Support,,Season 3 Battle Pass Warlords Command Tier 10,,,,,3
+8199,Appearance,Dagger 1-3 Lopez,Standard Issue,,NATO,Season 3 Battle Pass Warlords Command Tier 11,,,x,,3
+8200,Units,NATO Units,Dagger 1-3 Lopez,Support,NATO,Season 3 Battle Pass Warlords Command Tier 11,,,x,,3
+8201,Vehicle Customizations,Fighter Jet Skins,Death's Domain,,Pax Armata,Season 3 Battle Pass Warlords Command Tier 12,,,x,,3
+8202,Weapon Packages,M87A1 Packages,Grim Calling,Shotgun,,Season 3 Battle Pass Warlords Command Tier 13,,,x,,3
+8203,Player Card,Player Card Icons,Hairline Fracture,,,Season 3 Battle Pass Warlords Command Tier 14,,,,,3
+8204,Vehicle Customizations,Attack Heli Skins,Domineering Oversight,,Pax Armata,Season 3 Battle Pass Warlords Command Tier 17,,,x,,3
+8205,Appearance,Panopticon 8 Mackenzie,Relentless Takeover,,Pax Armata,Season 3 Battle Pass Warlords Command Tier 18,,,,,3
+8206,Player Card,Player Card Backgrounds,Omnipresent,,,Season 3 Battle Pass Warlords Command Tier 19,,,x,,3
+8207,Universal Weapon Customization,Weapon Charms,Skull Split,,,Season 3 Battle Pass Warlords Command Tier 2,,,x,,3
+8208,Weapon Packages,SCW-10 Packages,Soul Breaker,SMG,,Season 3 Battle Pass Warlords Command Tier 20,,,x,,3
+8209,Appearance,Fireteam Vedmak Engineer,Controlled Burn,,Pax Armata,Season 3 Battle Pass Warlords Command Tier 22,,,x,,3
+8210,Weapon Packages,LMR27 Packages,Resolve Burst,DMR,,Season 3 Battle Pass Warlords Command Tier 4,,,x,,3
+8211,Universal Soldier Customization,Uniform Patches,Beyond Death,,,Season 3 Battle Pass Warlords Command Tier 5,,,x,,3
+8212,Weapon Packages,NVO-228E Packages,Shiner,Assault Rifle,,Season 3 Battle Pass Warlords Command Tier 6,,,,,3
+8213,Appearance,The 323 AJ,Counteroffensive,,NATO,Season 3 Battle Pass Warlords Command Tier 7,,,x,,3
+8214,Vehicle Customizations,ATP Skins,Decreed Command,,Pax Armata,Season 3 Battle Pass Warlords Command Tier 9,,,x,,3
+8215,Weapon Packages,RPK-74M Packages,Factory,LMG,,Season 3 Battle Pass Warlords Hunters Tier 11,,,,,3
+8216,Vehicle Customizations,MBT Skins,Trench Dredge,,Pax Armata,Season 3 Battle Pass Warlords Hunters Tier 1,,,x,,3
+8217,Weapon Packages,PSR Packages,Scout Sniper,Sniper Rifle,,Season 3 Battle Pass Warlords Hunters Tier 10,,,x,,3
+8218,Weapon Attachments,RPK-74M Attachments,FMJ,Ammunition,,Season 3 Battle Pass Warlords Hunters Tier 11,,,,,3
+8219,Weapon Attachments,RPK-74M Attachments,590mm Factory,Barrels,,Season 3 Battle Pass Warlords Hunters Tier 11,,,,,3
+8220,Weapon Attachments,RPK-74M Attachments,45RND Magazine,Magazines,,Season 3 Battle Pass Warlords Hunters Tier 11,,,,,3
+8221,Weapon Attachments,RPK-74M Attachments,Flash Hider,Muzzles,,Season 3 Battle Pass Warlords Hunters Tier 11,,,,,3
+8222,Weapon Attachments,RPK-74M Attachments,BAKER 3.00x,Scopes,,Season 3 Battle Pass Warlords Hunters Tier 11,,,,,3
+8223,Weapon Attachments,RPK-74M Attachments,Bipod,Underbarrels,,Season 3 Battle Pass Warlords Hunters Tier 11,,,,,3
+8224,Weapons and Gadgets,Weapons,RPK-74M,LMG,,Season 3 Battle Pass Warlords Hunters Tier 11,,,,,3
+8225,Gadget Skins,Sledgehammer Skins,Allied Knock,Melee,,Season 3 Battle Pass Warlords Hunters Tier 13,,,x,,3
+8226,Vehicle Customizations,Scout Helicopter Skins,Sky Seeker,,NATO,Season 3 Battle Pass Warlords Hunters Tier 15,,,x,,3
+8227,Appearance,Panopticon 8 Saito,Evasive Threat,,Pax Armata,Season 3 Battle Pass Warlords Hunters Tier 16,,,x,,3
+8228,Universal Weapon Customization,Weapon Charms,Sighted,,,Season 3 Battle Pass Warlords Hunters Tier 17,,,,,3
+8229,Weapon Packages,M433 Packages,Flourished Strike,Assault Rifle,,Season 3 Battle Pass Warlords Hunters Tier 18,,,x,,3
+8230,Player Card,Player Card Backgrounds,Scope Check,,,Season 3 Battle Pass Warlords Hunters Tier 19,,,x,,3
+8231,Universal Weapon Customization,Weapon Stickers,From the Shadows,,,Season 3 Battle Pass Warlords Hunters Tier 2,,,x,,3
+8232,Weapon Packages,UMG-40 Packages,No Exit,SMG,,Season 3 Battle Pass Warlords Hunters Tier 21,,,,,3
+8233,Appearance,The 323 Campbell,Surgical Extraction,,NATO,Season 3 Battle Pass Warlords Hunters Tier 22,,,x,,3
+8234,Appearance,Coyote Squad Assault,Primed Execution,,NATO,Season 3 Battle Pass Warlords Hunters Tier 4,,,,,3
+8235,Player Card,Player Card Stickers,Deadeye,,,Season 3 Battle Pass Warlords Hunters Tier 5,,,x,,3
+8236,Weapon Packages,L110 Packages,Focused Eliminator,LMG,,Season 3 Battle Pass Warlords Hunters Tier 6,,,x,,3
+8237,Universal Soldier Customization,Uniform Patches,Hunting Party,,,Season 3 Battle Pass Warlords Hunters Tier 7,,,,,3
+8238,Gadget Skins,Hardware Suppression System Skins,Calculated Intercept,Recon,,Season 3 Battle Pass Warlords Hunters Tier 9,,,x,,3
+8239,Weapon Packages,SGX Packages,Demolition Day,SMG,,Season 3 gift for owning Battlefield 6 (May 2026),,,,,3
+8240,Player Card,Player Card Icons,Stinger,,,Season 3 Launch Twitch Drops (Watch 1 hour),,,,,3
+8241,Universal Weapon Customization,Weapon Stickers,Searing Smile,,,Season 3 Launch Twitch Drops (Watch 2 hours),,,,,3
+8242,Player Card,Player Card Backgrounds,Unique Skill,,,Season 3 Launch Twitch Drops (Watch 3 hours),,,,,3
+8243,Weapon Packages,AK-205 Packages,Heartbreaker,Carbine,,Season 3 Launch Twitch Drops (Watch 4 hours),,,,,3
+8244,Dog Tags,Dog Tags,Practice Throw,Other,,Season 3 Starter pack (Store),,,x,,3
+8245,Universal Weapon Customization,Weapon Charms,Crimson Glare,,,Season 3 Starter pack (Store),,,x,,3
+8246,Universal Weapon Customization,Weapon Stickers,Iron Will,,,Season 3 Starter pack (Store),,,x,,3
+8247,Weapon Packages,L110 Packages,Critical Assault,LMG,,Season 3 Starter pack (Store),,,x,,3
+8248,Weapon Attachments,SGX Attachments,Piggyback Reflex,Optic Accessories,,SGX Mastery 31,,,,,0
+8249,Weapon Attachments,SL9 Attachments,Piggyback Reflex,Optic Accessories,,SL9 Mastery 24,,,,,0
+8250,Weapon Attachments,SOR-556 MK2 Attachments,Piggyback Reflex,Optic Accessories,,SOR-556 MK2 Mastery 15,,,,,0
+8251,Weapon Attachments,SV-98 Attachments,Piggyback Reflex,Optic Accessories,,SV-98 Mastery 5,,,,,0
+8252,Weapon Attachments,SVDM Attachments,Adjustable Magnification 2.00x,Optic Accessories,,SVDM Mastery 18,,,,,0
+8253,Weapon Attachments,SVDM Attachments,Adjustable Magnification 3.00x,Optic Accessories,,SVDM Mastery 28,,,,,0
+8254,Weapon Attachments,SVDM Attachments,Adjustable Magnification 4.00x,Optic Accessories,,SVDM Mastery 35,,,,,0
+8255,Weapon Packages,SL9 Packages,Combat Convector,SMG,,Unknown,,x,,,
+8256,Appearance,Coyote Squad Assault,Nightshade,,NATO,Unknown,,x,,,
+8257,Appearance,Espada Support,Sidewinder,,Pax Armata,Unknown,,x,,,
+8258,Appearance,Kahina Unité Assault,Insuslated Infiltrator,,Pax Armata,Unknown,,x,,,
+8259,Appearance,Kahina Unité Assault,Desert Fall,,Pax Armata,Unknown,,x,,,
+8260,Appearance,Kahina Unité Engineer,Bundled Brigadier,,Pax Armata,Unknown,,x,,,
+8261,Appearance,Kahina Unité Recon,Bush Raptor,,Pax Armata,Unknown,,x,,,
+8262,Appearance,Kahina Unité Recon,Steppe,,Pax Armata,Unknown,,x,,,
+8263,Appearance,Kahina Unité Support,Scarab,,Pax Armata,Unknown,,x,,,
+8264,Appearance,The Desert Locusts Assault,Badlands Assault,,NATO,Unknown,,x,,,
+8265,Appearance,United Albion Engineer,Bloodshot,,NATO,Unknown,,x,,,
+8266,Appearance,United Albion Support,Urban Knight,,NATO,Unknown,,x,,,
+8267,Dog Tags,Dog Tags,Pest Control,Other,,Unknown,,x,,,
+8268,Dog Tags,Dog Tags,Total Overhaul,Other,,Unknown,,x,,,
+8269,Gadget Skins,Combat Knife Skins,Bushcrafter,Melee,,Unknown,,x,,,
+8270,Gadget Skins,RPG-7V2 Skins,Undergrowth Vision,Engineer,,Unknown,,x,,,
+8271,Gadget Skins,SS26 Skins,Toxic Pierce,Assault,,Unknown,,x,,,
+8272,Player Card,Player Card Backgrounds,Rideshare,,,Unknown,,x,,,
+8273,Player Card,Player Card Backgrounds,Scaled Offensive,,,Unknown,,x,,,
+8274,Player Card,Player Card Icons,Scorpiod,,,Unknown,,x,,,
+8275,Player Card,Player Card Icons,UV-Free,,,Unknown,,x,,,
+8276,Player Card,Player Card Icons,Let It Burn,,,Unknown,,x,,,
+8277,Player Card,Player Card Stickers,Snowfall,,,Unknown,,x,,,
+8278,Player Card,Player Card Stickers,Petrol Bomb,,,Unknown,,x,,,
+8279,Player Card,Player Card Stickers,Writhing Serpent,,,Unknown,,x,,,
+8280,Player Card,Player Card Stickers,Golden Talisman,,,Unknown,,x,,,
+8281,Player Card,Player Card Stickers,Lightning Strike,,,Unknown,,x,,,
+8282,Player Card,Player Card Titles,Aerial Menace,,,Unknown,,x,,,
+8283,Player Card,Player Card Titles,Alpine Division,,,Unknown,,x,,,
+8284,Player Card,Player Card Titles,Undying Protector,,,Unknown,,x,,,
+8285,Universal Soldier Customization,Parachute Skins,United Canopy,,,Unknown,,x,,,
+8286,Universal Soldier Customization,Parachute Skins,Immortal Flight,,,Unknown,,x,,,
+8287,Universal Soldier Customization,Parachute Skins,Snakeskin,,,Unknown,,x,,,
+8288,Universal Soldier Customization,Parachute Skins,Snow Stitch,,,Unknown,,x,,,
+8289,Universal Soldier Customization,Parachute Skins,Forest Breeze,,,Unknown,,x,,,
+8290,Universal Soldier Customization,Uniform Patches,Iced Helm,,,Unknown,,x,,,
+8291,Universal Soldier Customization,Uniform Patches,Never Surrender,,,Unknown,,x,,,
+8292,Universal Soldier Customization,Uniform Patches,Frost Watch,,,Unknown,,x,,,
+8293,Universal Soldier Customization,Uniform Patches,Death and Domination,,,Unknown,,x,,,
+8294,Universal Vehicle Customization,Vehicle Decals,Death's Deal,,,Unknown,,x,,,
+8295,Universal Vehicle Customization,Vehicle Decals,Forest Force,,,Unknown,,x,,,
+8296,Universal Weapon Customization,Weapon Charms,Barbed Death,,,Unknown,,x,,,
+8297,Universal Weapon Customization,Weapon Charms,High Moon,,,Unknown,,x,,,
+8298,Universal Weapon Customization,Weapon Charms,Compound Nightlight,,,Unknown,,x,,,
+8299,Universal Weapon Customization,Weapon Charms,Foreboding Messenger,,,Unknown,,x,,,
+8300,Universal Weapon Customization,Weapon Charms,Articulated Armor,,,Unknown,,x,,,
+8301,Universal Weapon Customization,Weapon Charms,Falconry,,,Unknown,,x,,,
+8302,Universal Weapon Customization,Weapon Stickers,Exoskeleton,,,Unknown,,x,,,
+8303,Universal Weapon Customization,Weapon Stickers,Death From Above,,,Unknown,,x,,,
+8304,Vehicle Customizations,ATP Skins,Special Delivery,,NATO,Unknown,,x,,,
+8305,Vehicle Customizations,Attack Jet Skins,Sweeper,,NATO,Unknown,,x,,,
+8306,Vehicle Customizations,Light Ground Transport Skins,Fronds,,Pax Armata,Unknown,,x,,,
+8307,Weapon Packages,DRS-IAR Packages,Scaled Threat,LMG,,Unknown,,x,,,
+8308,Weapon Packages,GGH-22 Packages,Goliath Beetle,Secondary,,Unknown,,x,,,
+8309,Weapon Packages,M277 Packages,Neurotoxic Strike,Carbine,,Unknown,,x,,,
+8310,Weapon Packages,M433 Packages,Woodland Guerrilla,Assault Rifle,,Unknown,,x,,,
+8311,Weapon Packages,M87A1 Packages,Telson Sting,Shotgun,,Unknown,,x,,,
+8312,Weapon Packages,P18 Packages,Shadow Watch,Secondary,,Unknown,,x,,,
+8313,Weapon Packages,PW5A3 Packages,Paralyptic Pounce,SMG,,Unknown,,x,,,
+8314,Weapon Packages,SOR-300SC Packages,Sky Strike,Carbine,,Unknown,,x,,,
+8315,Weapon Packages,UMG-40 Packages,Perspectival Reset,SMG,,Unknown,,x,,,
+8316,Weapon Packages,VZ. 61 Packages,War Hawk,Secondary,,Unknown,,x,,,
+8317,Weapon Packages,SGX Packages,Breachhead,SMG,,Unknown,,x,,,
+8318,Dog Tags (taken),Dog Tags (taken),Right on Target,Other,,,,,,,3
+8319,Dog Tags (taken),Dog Tags (taken),Pest Control,Other,,,,x,,,
+8320,Dog Tags (taken),Dog Tags (taken),Takedown,Other,,,,,,,3
+8321,Dog Tags (taken),Dog Tags (taken),Total Overhaul,Other,,,,x,,,
+8322,Dog Tags (taken),Dog Tags (taken),Practice Throw,Other,,,,,,,3
+8323,Dog Tags (taken),Dog Tags (taken),One Shot,Other,,,,,,,3
+8324,Dog Tags (taken),Dog Tags (taken),S3 Indomitable,Other,,,,,,,3
+8325,Dog Tags (taken),Dog Tags (taken),Live Wire,Other,,,,,,,3
+8326,Dog Tags (taken),Dog Tags (taken),Sparking Fracture,Other,,,,,,,3
