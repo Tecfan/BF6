@@ -6678,7 +6678,7 @@ Spot enemies. (200)",One in the Chamber player card icon,,x,,2,
 6756,FALSE,Vehicle Customizations,MBT Skins,Disrupting Prowl,,NATO,Unknown,,x,,,,10
 6757,FALSE,Vehicle Customizations,Attack Heli Skins,Sunstreak,,NATO,Creator Program Season 2 Twitch Drops (watch 3 hours),,,,Creator Program,2,60
 6758,FALSE,Vehicle Customizations,MBT Skins,The Tower,,NATO,King's Legion (Store),,,x,,2,10
-6759,TRUE,Vehicle Customizations,MBT Skins,Cleaving Dusk,,Pax Armata,"Free Store Gift (Season 2, Week 8)",,,,,2,110
+6759,FALSE,Vehicle Customizations,MBT Skins,Cleaving Dusk,,Pax Armata,"Free Store Gift (Season 2, Week 8)",,,,,2,110
 6760,FALSE,Vehicle Customizations,Attack Heli Skins,Sensor Sweep,,Pax Armata,Unknown,,x,,,,160
 6761,FALSE,Weapon Attachments,VCR-2 Attachments,Piggyback Reflex,Optic Accessories,,VCR-2 Mastery 29,,,,,2,90
 6762,FALSE,Weapon Attachments,M121 A2 Attachments,Piggyback Reflex,Optic Accessories,,M121 A2 Mastery 25,,,,,2,360
@@ -8191,12 +8191,12 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8252,FALSE,Weapon Attachments,SVDM Attachments,Adjustable Magnification 2.00x,Optic Accessories,,SVDM Mastery 18,,,,,0,410
 8253,FALSE,Weapon Attachments,SVDM Attachments,Adjustable Magnification 3.00x,Optic Accessories,,SVDM Mastery 28,,,,,0,410
 8254,FALSE,Weapon Attachments,SVDM Attachments,Adjustable Magnification 4.00x,Optic Accessories,,SVDM Mastery 35,,,,,0,410
-8255,FALSE,Weapon Packages,SL9 Packages,Combat Convector,SMG,,Unknown,,x,,,,8
+8255,FALSE,Weapon Packages,SL9 Packages,Combat Convector,SMG,,Biting Chill (Store),,,x,,3,8
 8256,FALSE,Appearance,Coyote Squad Assault,Nightshade,,NATO,Unknown,,x,,,,10
 8257,FALSE,Appearance,Espada Support,Sidewinder,,Pax Armata,Striking Viper (Store),,,x,,3,320
-8258,FALSE,Appearance,Kahina Unité Assault,Insuslated Infiltrator,,Pax Armata,Unknown,,x,,,,230
+8258,FALSE,Appearance,Kahina Unité Assault,Insulated Infiltrator,,Pax Armata,Biting Chill (Store),,,x,,3,230
 8259,FALSE,Appearance,Kahina Unité Assault,Desert Fall,,Pax Armata,Unknown,,x,,,,230
-8260,FALSE,Appearance,Kahina Unité Engineer,Bundled Brigadier,,Pax Armata,Unknown,,x,,,,280
+8260,FALSE,Appearance,Kahina Unité Engineer,Bundled Brigadier,,Pax Armata,Biting Chill (Store),,,x,,3,280
 8261,FALSE,Appearance,Kahina Unité Recon,Bush Raptor,,Pax Armata,Unknown,,x,,,,380
 8262,FALSE,Appearance,Kahina Unité Recon,Steppe,,Pax Armata,Accelerator Pack: Steppe (Store),,,x,,3,380
 8263,FALSE,Appearance,Kahina Unité Support,Scarab,,Pax Armata,Unknown,,x,,,,330
@@ -8205,38 +8205,38 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8266,FALSE,Appearance,United Albion Support,Urban Knight,,NATO,Unknown,,x,,,,120
 8267,FALSE,Dog Tags,Dog Tags,Pest Control,Other,,Unknown,,x,,,,
 8268,FALSE,Dog Tags,Dog Tags,Total Overhaul,Other,,Unknown,,x,,,,
-8269,FALSE,Gadget Skins,Combat Knife Skins,Bushcrafter,Melee,,Unknown,,x,,,,1
-8270,FALSE,Gadget Skins,RPG-7V2 Skins,Undergrowth Vision,Engineer,,Unknown,,x,,,,3
-8271,FALSE,Gadget Skins,SS26 Skins,Toxic Pierce,Assault,,Unknown,,x,,,,40
+8269,FALSE,Gadget Skins,Combat Knife Skins,Bushcrafter,Melee,,Root Cutter (Store),,,x,,3,1
+8270,FALSE,Gadget Skins,RPG-7V2 Skins,Undergrowth Vision,Engineer,,Root Cutter (Store),,,x,,3,3
+8271,FALSE,Gadget Skins,SS26 Skins,Toxic Pierce,Assault,,Pincer Rush (Store),,,x,,3,40
 8272,FALSE,Player Card,Player Card Backgrounds,Rideshare,,,Unknown,,x,,,,790
 8273,FALSE,Player Card,Player Card Backgrounds,Scaled Offensive,,,Unknown,,x,,,,797
-8274,FALSE,Player Card,Player Card Icons,Scorpiod,,,Unknown,,x,,,,55
-8275,FALSE,Player Card,Player Card Icons,UV-Free,,,Unknown,,x,,,,65
+8274,FALSE,Player Card,Player Card Icons,Scorpiod,,,Pincer Rush (Store),,,x,,3,55
+8275,FALSE,Player Card,Player Card Icons,UV-Free,,,Biting Chill (Store),,,x,,3,65
 8276,FALSE,Player Card,Player Card Icons,Let It Burn,,,Unknown,,x,,,,145
-8277,FALSE,Player Card,Player Card Stickers,Snowfall,,,Unknown,,x,,,,15
-8278,FALSE,Player Card,Player Card Stickers,Petrol Bomb,,,Unknown,,x,,,,35
+8277,FALSE,Player Card,Player Card Stickers,Snowfall,,,Biting Chill (Store),,,x,,3,15
+8278,FALSE,Player Card,Player Card Stickers,Petrol Bomb,,,Accelerator Pack: Petrol Bomb (Store),,,x,,3,35
 8279,FALSE,Player Card,Player Card Stickers,Writhing Serpent,,,Striking Viper (Store),,,x,,3,55
 8280,FALSE,Player Card,Player Card Stickers,Golden Talisman,,,Unknown,,x,,,,92
 8281,FALSE,Player Card,Player Card Stickers,Lightning Strike,,,Unknown,,x,,,,93
 8282,FALSE,Player Card,Player Card Titles,Aerial Menace,,,Birds of Prey (Store),,,x,,3,30
-8283,FALSE,Player Card,Player Card Titles,Alpine Division,,,Unknown,,x,,,,15
+8283,FALSE,Player Card,Player Card Titles,Alpine Division,,,Biting Chill (Store),,,x,,3,15
 8284,FALSE,Player Card,Player Card Titles,Undying Protector,,,Unknown,,x,,,,129
 8285,FALSE,Universal Soldier Customization,Parachute Skins,United Canopy,,,"Free Store Gift (Season 3, Week 2)",,,,,3,44
 8286,FALSE,Universal Soldier Customization,Parachute Skins,Immortal Flight,,,Unknown,,x,,,,162
 8287,FALSE,Universal Soldier Customization,Parachute Skins,Snakeskin,,,Striking Viper (Store),,,x,,3,232
-8288,FALSE,Universal Soldier Customization,Parachute Skins,Snow Stitch,,,Unknown,,x,,,,234
-8289,FALSE,Universal Soldier Customization,Parachute Skins,Forest Breeze,,,Unknown,,x,,,,292
-8290,FALSE,Universal Soldier Customization,Uniform Patches,Iced Helm,,,Unknown,,x,,,,42
+8288,FALSE,Universal Soldier Customization,Parachute Skins,Snow Stitch,,,Biting Chill (Store),,,x,,3,234
+8289,FALSE,Universal Soldier Customization,Parachute Skins,Forest Breeze,,,Root Cutter (Store),,,x,,3,292
+8290,FALSE,Universal Soldier Customization,Uniform Patches,Iced Helm,,,Biting Chill (Store),,,x,,3,42
 8291,FALSE,Universal Soldier Customization,Uniform Patches,Never Surrender,,,Unknown,,x,,,,152
-8292,FALSE,Universal Soldier Customization,Uniform Patches,Frost Watch,,,Unknown,,x,,,,202
+8292,FALSE,Universal Soldier Customization,Uniform Patches,Frost Watch,,,Biting Chill (Store),,,x,,3,202
 8293,FALSE,Universal Soldier Customization,Uniform Patches,Death and Domination,,,Striking Viper (Store),,,x,,3,372
 8294,FALSE,Universal Vehicle Customization,Vehicle Decals,Death's Deal,,,Unknown,,x,,,,12
-8295,FALSE,Universal Vehicle Customization,Vehicle Decals,Forest Force,,,Unknown,,x,,,,390
-8296,FALSE,Universal Weapon Customization,Weapon Charms,Barbed Death,,,Unknown,,x,,,,361
+8295,FALSE,Universal Vehicle Customization,Vehicle Decals,Forest Force,,,Root Cutter (Store),,,x,,3,390
+8296,FALSE,Universal Weapon Customization,Weapon Charms,Barbed Death,,,Pincer Rush (Store),,,x,,3,361
 8297,FALSE,Universal Weapon Customization,Weapon Charms,High Moon,,,Unknown,,x,,,,381
 8298,FALSE,Universal Weapon Customization,Weapon Charms,Compound Nightlight,,,Unknown,,x,,,,451
 8299,FALSE,Universal Weapon Customization,Weapon Charms,Foreboding Messenger,,,Unknown,,x,,,,502
-8300,FALSE,Universal Weapon Customization,Weapon Charms,Articulated Armor,,,Unknown,,x,,,,631
+8300,FALSE,Universal Weapon Customization,Weapon Charms,Articulated Armor,,,Pincer Rush (Store),,,x,,3,631
 8301,FALSE,Universal Weapon Customization,Weapon Charms,Falconry,,,Birds of Prey (Store),,,x,,3,923
 8302,FALSE,Universal Weapon Customization,Weapon Stickers,Exoskeleton,,,Unknown,,x,,,,231
 8303,FALSE,Universal Weapon Customization,Weapon Stickers,Death From Above,,,Birds of Prey (Store),,,x,,3,661
@@ -8245,11 +8245,11 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8306,FALSE,Vehicle Customizations,Light Ground Transport Skins,Fronds,,Pax Armata,Unknown,,x,,,,130
 8307,FALSE,Weapon Packages,DRS-IAR Packages,Scaled Threat,LMG,,Unknown,,x,,,,2
 8308,FALSE,Weapon Packages,GGH-22 Packages,Goliath Beetle,Secondary,,Unknown,,x,,,,5
-8309,FALSE,Weapon Packages,M277 Packages,Neurotoxic Strike,Carbine,,Unknown,,x,,,,2
+8309,FALSE,Weapon Packages,M277 Packages,Neurotoxic Strike,Carbine,,Pincer Rush (Store),,,x,,3,2
 8310,FALSE,Weapon Packages,M433 Packages,Woodland Guerrilla,Assault Rifle,,Unknown,,x,,,,1
-8311,FALSE,Weapon Packages,M87A1 Packages,Telson Sting,Shotgun,,Unknown,,x,,,,1
+8311,FALSE,Weapon Packages,M87A1 Packages,Telson Sting,Shotgun,,Pincer Rush (Store),,,x,,3,1
 8312,FALSE,Weapon Packages,P18 Packages,Shadow Watch,Secondary,,Unknown,,x,,,,1
-8313,FALSE,Weapon Packages,PW5A3 Packages,Paralyptic Pounce,SMG,,Unknown,,x,,,,2
+8313,FALSE,Weapon Packages,PW5A3 Packages,Paralyptic Pounce,SMG,,Pincer Rush (Store),,,x,,3,2
 8314,FALSE,Weapon Packages,SOR-300SC Packages,Sky Strike,Carbine,,Birds of Prey (Store),,,x,,3,8
 8315,FALSE,Weapon Packages,UMG-40 Packages,Perspectival Reset,SMG,,Unknown,,x,,,,4
 8316,FALSE,Weapon Packages,VZ. 61 Packages,War Hawk,Secondary,,Birds of Prey (Store),,,x,,3,7
