@@ -1727,7 +1727,7 @@ Vanguard Redeploy (Store)",1,370
 1770,FALSE,Vehicle Customizations,MBT Skins,Chimera,,NATO,Phantom Edition,,,x,,0,10
 1771,FALSE,Vehicle Customizations,MBT Skins,Phalanx,,NATO,Season 1 Battle Pass Pacific Ghosts Tier 7,,,x,,1,10
 1772,FALSE,Vehicle Customizations,MBT Skins,Yellow Tape,,Pax Armata,Shadow Assault (Store),,,x,,1,110
-1773,FALSE,Vehicle Customizations,MBT Skins,Rock Solid,,NATO,Unknown,,x,,,,10
+1773,FALSE,Vehicle Customizations,MBT Skins,Rock Solid,,NATO,Accelerator Pack: Rock Solid (Store),,,x,,3,10
 1774,FALSE,Vehicle Customizations,MBT Skins,Stamp Out,,NATO,Concrete Crusher (Store),,,x,,1,10
 1775,TRUE,Vehicle Customizations,Transport Heli Customizations,Flares,Equipment 1,,Default,,,,,0,0
 1776,TRUE,Vehicle Customizations,Transport Heli Customizations,Emergency Repair,Equipment 2,,Default,,,,,0,0
@@ -1739,7 +1739,7 @@ Vanguard Redeploy (Store)",1,370
 1782,FALSE,Vehicle Customizations,Transport Heli Skins,Horizon Cutter,,NATO,Season 1 Battle Pass Pacific Ghosts Tier 5,,,x,,1,80
 1783,FALSE,Vehicle Customizations,Transport Heli Skins,Gold Standard,,NATO,Transport Heli Mastery 50,,,,,0,80
 1784,FALSE,Vehicle Customizations,Transport Heli Skins,Gold Standard,,Pax Armata,Transport Heli Mastery 50,,,,,0,180
-1785,FALSE,Vehicle Customizations,Transport Heli Skins,Zebra,,NATO,Unknown (removed),,x,,,,80
+1785,FALSE,Vehicle Customizations,Transport Heli Skins,Zebra,,NATO,"Free Store Gift (Season 3, Week 4)",,,,,3,80
 1786,FALSE,Vehicles and Loadouts,Vehicle Loadouts,Loadout 2,ATP,,ATP Mastery 4,,,,,1,
 1787,FALSE,Vehicles and Loadouts,Vehicle Loadouts,Loadout 3,ATP,,ATP Mastery 7,,,,,1,
 1788,FALSE,Vehicles and Loadouts,Vehicle Loadouts,Loadout 2,Attack Heli,,Attack Heli Mastery 4,,,,,0,
@@ -8199,11 +8199,11 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8260,FALSE,Appearance,Kahina Unité Engineer,Bundled Brigadier,,Pax Armata,Biting Chill (Store),,,x,,3,280
 8261,FALSE,Appearance,Kahina Unité Recon,Bush Raptor,,Pax Armata,Unknown,,x,,,,380
 8262,FALSE,Appearance,Kahina Unité Recon,Steppe,,Pax Armata,Accelerator Pack: Steppe (Store),,,x,,3,380
-8263,FALSE,Appearance,Kahina Unité Support,Scarab,,Pax Armata,Unknown,,x,,,,330
+8263,FALSE,Appearance,Kahina Unité Support,Scarab,,Pax Armata,Desert Revenant (Store),,,x,,3,330
 8264,FALSE,Appearance,The Desert Locusts Assault,Badlands Assault,,NATO,Unknown,,x,,,,30
 8265,FALSE,Appearance,United Albion Engineer,Bloodshot,,NATO,Unknown,,x,,,,70
 8266,FALSE,Appearance,United Albion Support,Urban Knight,,NATO,Unknown,,x,,,,120
-8267,FALSE,Dog Tags,Dog Tags,Pest Control,Other,,Unknown,,x,,,,
+8267,FALSE,Dog Tags,Dog Tags,Pest Control,Other,,Carapace Command (Store),,,x,,3,
 8268,FALSE,Dog Tags,Dog Tags,Total Overhaul,Other,,Unknown,,x,,,,
 8269,FALSE,Gadget Skins,Combat Knife Skins,Bushcrafter,Melee,,Root Cutter (Store),,,x,,3,1
 8270,FALSE,Gadget Skins,RPG-7V2 Skins,Undergrowth Vision,Engineer,,Root Cutter (Store),,,x,,3,3
@@ -8216,13 +8216,13 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8277,FALSE,Player Card,Player Card Stickers,Snowfall,,,Biting Chill (Store),,,x,,3,15
 8278,FALSE,Player Card,Player Card Stickers,Petrol Bomb,,,Accelerator Pack: Petrol Bomb (Store),,,x,,3,35
 8279,FALSE,Player Card,Player Card Stickers,Writhing Serpent,,,Striking Viper (Store),,,x,,3,55
-8280,FALSE,Player Card,Player Card Stickers,Golden Talisman,,,Unknown,,x,,,,92
+8280,FALSE,Player Card,Player Card Stickers,Golden Talisman,,,Desert Revenant (Store),,,x,,3,92
 8281,FALSE,Player Card,Player Card Stickers,Lightning Strike,,,Unknown,,x,,,,93
 8282,FALSE,Player Card,Player Card Titles,Aerial Menace,,,Birds of Prey (Store),,,x,,3,30
 8283,FALSE,Player Card,Player Card Titles,Alpine Division,,,Biting Chill (Store),,,x,,3,15
-8284,FALSE,Player Card,Player Card Titles,Undying Protector,,,Unknown,,x,,,,129
+8284,FALSE,Player Card,Player Card Titles,Undying Protector,,,Desert Revenant (Store),,,x,,3,129
 8285,FALSE,Universal Soldier Customization,Parachute Skins,United Canopy,,,"Free Store Gift (Season 3, Week 2)",,,,,3,44
-8286,FALSE,Universal Soldier Customization,Parachute Skins,Immortal Flight,,,Unknown,,x,,,,162
+8286,FALSE,Universal Soldier Customization,Parachute Skins,Immortal Flight,,,Desert Revenant (Store),,,x,,3,162
 8287,FALSE,Universal Soldier Customization,Parachute Skins,Snakeskin,,,Striking Viper (Store),,,x,,3,232
 8288,FALSE,Universal Soldier Customization,Parachute Skins,Snow Stitch,,,Biting Chill (Store),,,x,,3,234
 8289,FALSE,Universal Soldier Customization,Parachute Skins,Forest Breeze,,,Root Cutter (Store),,,x,,3,292
@@ -8234,17 +8234,17 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8295,FALSE,Universal Vehicle Customization,Vehicle Decals,Forest Force,,,Root Cutter (Store),,,x,,3,390
 8296,FALSE,Universal Weapon Customization,Weapon Charms,Barbed Death,,,Pincer Rush (Store),,,x,,3,361
 8297,FALSE,Universal Weapon Customization,Weapon Charms,High Moon,,,Unknown,,x,,,,381
-8298,FALSE,Universal Weapon Customization,Weapon Charms,Compound Nightlight,,,Unknown,,x,,,,451
+8298,FALSE,Universal Weapon Customization,Weapon Charms,Compound Nightlight,,,Carapace Command (Store),,,x,,3,451
 8299,FALSE,Universal Weapon Customization,Weapon Charms,Foreboding Messenger,,,Unknown,,x,,,,502
 8300,FALSE,Universal Weapon Customization,Weapon Charms,Articulated Armor,,,Pincer Rush (Store),,,x,,3,631
 8301,FALSE,Universal Weapon Customization,Weapon Charms,Falconry,,,Birds of Prey (Store),,,x,,3,923
-8302,FALSE,Universal Weapon Customization,Weapon Stickers,Exoskeleton,,,Unknown,,x,,,,231
+8302,FALSE,Universal Weapon Customization,Weapon Stickers,Exoskeleton,,,Carapace Command (Store),,,x,,3,231
 8303,FALSE,Universal Weapon Customization,Weapon Stickers,Death From Above,,,Birds of Prey (Store),,,x,,3,661
 8304,FALSE,Vehicle Customizations,ATP Skins,Special Delivery,,NATO,Unknown,,x,,,,40
 8305,FALSE,Vehicle Customizations,Attack Jet Skins,Sweeper,,NATO,Unknown,,x,,,,90
 8306,FALSE,Vehicle Customizations,Light Ground Transport Skins,Fronds,,Pax Armata,Unknown,,x,,,,130
 8307,FALSE,Weapon Packages,DRS-IAR Packages,Scaled Threat,LMG,,Unknown,,x,,,,2
-8308,FALSE,Weapon Packages,GGH-22 Packages,Goliath Beetle,Secondary,,Unknown,,x,,,,5
+8308,FALSE,Weapon Packages,GGH-22 Packages,Goliath Beetle,Secondary,,Carapace Command (Store),,,x,,3,5
 8309,FALSE,Weapon Packages,M277 Packages,Neurotoxic Strike,Carbine,,Pincer Rush (Store),,,x,,3,2
 8310,FALSE,Weapon Packages,M433 Packages,Woodland Guerrilla,Assault Rifle,,Unknown,,x,,,,1
 8311,FALSE,Weapon Packages,M87A1 Packages,Telson Sting,Shotgun,,Pincer Rush (Store),,,x,,3,1
@@ -8255,7 +8255,7 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8316,FALSE,Weapon Packages,VZ. 61 Packages,War Hawk,Secondary,,Birds of Prey (Store),,,x,,3,7
 8317,FALSE,Weapon Packages,SGX Packages,Breachhead,SMG,,Unknown ,,x,,,,1
 8318,FALSE,Dog Tags (taken),Dog Tags (taken),Right on Target,Other,,,,,,,3,
-8319,FALSE,Dog Tags (taken),Dog Tags (taken),Pest Control,Other,,,,x,,,,
+8319,FALSE,Dog Tags (taken),Dog Tags (taken),Pest Control,Other,,,,,,,3,
 8320,FALSE,Dog Tags (taken),Dog Tags (taken),Takedown,Other,,,,,,,3,
 8321,FALSE,Dog Tags (taken),Dog Tags (taken),Total Overhaul,Other,,,,x,,,,
 8322,FALSE,Dog Tags (taken),Dog Tags (taken),Practice Throw,Other,,,,,,,3,
@@ -8263,3 +8263,4 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8324,FALSE,Dog Tags (taken),Dog Tags (taken),S3 Indomitable,Other,,,,,,,3,
 8325,FALSE,Dog Tags (taken),Dog Tags (taken),Live Wire,Other,,,,,,,3,
 8326,FALSE,Dog Tags (taken),Dog Tags (taken),Sparking Fracture,Other,,,,,,,3,
+8327,FALSE,Gadget Skins,IGLA Skins,Encoded,Engineer,,"Battle Pass owner gift (Season 3, Week 4)",,,x,,3,6
