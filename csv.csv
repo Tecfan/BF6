@@ -102,7 +102,7 @@ ID,collected?,mainCategory,subCategory,name,type,team,requirementText,rewardText
 101,FALSE,Appearance,Espada Assault,Standard issue,,Pax Armata,Challenge RUSH CHALLENGE 1,,,,,0,220
 102,FALSE,Appearance,Espada Assault,Specter Drift,,Pax Armata,Pax Vanguard (Store),,,x,"Pax Vanguard (January 2026 version) (Store)
 Vanguard Redeploy (Store)",1,220
-103,FALSE,Appearance,Espada Assault,Basilisk,,Pax Armata,Shadow Assault (Store),,,x,,1,220
+103,FALSE,Appearance,Espada Assault,Basilisk,,Pax Armata,Shadow Assault (Store),,,x,Shadow Basilisk (Store),1,220
 104,FALSE,Appearance,Espada Engineer,Ignition,,Pax Armata,Season 1 Battle Pass BF Pro Tier 0,,,x,,1,270
 105,FALSE,Appearance,Espada Engineer,Commander,,Pax Armata,Battlefield 2042: Road to Battlefield 6 Battle Pass Tier 49,,,,,0,270
 106,FALSE,Appearance,Espada Engineer,Urban Sprawl,,Pax Armata,Challenge CAMPAIGN - ALWAYS FORWARD,,,,,0,270
@@ -1014,7 +1014,7 @@ Inflict damage beyond 75m with DMRs. (3,000)",SVDM,,,,0,
 1030,FALSE,Gadget Skins,Combat Knife Skins,Glimmer,Melee,,Phantom Edition,,,x,,0,1
 1031,FALSE,Gadget Skins,Combat Knife Skins,Damascus Steel,Melee,,Rank 50,,,,,0,1
 1032,FALSE,Gadget Skins,Combat Knife Skins,Mantis,Melee,,Rank 90,,,,,0,1
-1033,FALSE,Gadget Skins,Combat Knife Skins,Steady Grip,Melee,,Shadow Assault (Store),,,x,,1,1
+1033,FALSE,Gadget Skins,Combat Knife Skins,Steady Grip,Melee,,Shadow Assault (Store),,,x,Shadow Veiled (Store),1,1
 1034,TRUE,Gadget Skins,Defibrillator Skins,Standard Issue,Support,,Default,,,,,0,1
 1035,FALSE,Gadget Skins,Defibrillator Skins,Bushfield,Support,,Season 1 Advanced pack (Store),,,x,,1,1
 1036,FALSE,Gadget Skins,Defibrillator Skins,Live Voltage,Support,,Tactical Step (Store),,,x,,1,1
@@ -1054,7 +1054,7 @@ Inflict damage beyond 75m with DMRs. (3,000)",SVDM,,,,0,
 1070,TRUE,Loadouts and Training Paths,Training Paths,Anti-armor,Engineer,,Default,,,,,0,
 1071,TRUE,Loadouts and Training Paths,Training Paths,Combat Medic,Support,,Default,,,,,0,
 1072,TRUE,Loadouts and Training Paths,Training Paths,Sniper,Recon,,Default,,,,,0,
-1073,FALSE,Player Card,Player Card Backgrounds,Taking Ground,,,Alliance Strike (Store),,,x,,1,860
+1073,FALSE,Player Card,Player Card Backgrounds,Taking Ground,,,Alliance Strike (Store),,,x,,1,960
 1074,FALSE,Player Card,Player Card Backgrounds,Air Defense,,,Season 1 Battle Pass BF Pro Tier 0,,,x,,1,1
 1075,FALSE,Player Card,Player Card Backgrounds,Tides of War,,,Battlefield 2042: Road to Battlefield 6 Battle Pass Tier 19,,,,,0,1
 1076,FALSE,Player Card,Player Card Backgrounds,Heart of Darkness,,,Battlefield 2042: Road to Battlefield 6 Battle Pass Tier 30,,,,,0,1
@@ -1104,7 +1104,7 @@ Inflict damage beyond 75m with DMRs. (3,000)",SVDM,,,,0,
 1120,FALSE,Player Card,Player Card Backgrounds,Lights Out,,,Open Beta Week 1 Challenge (reach level 10),,,,,0,1
 1121,FALSE,Player Card,Player Card Backgrounds,Overwhelming Force,,,Pax Vanguard (Store),,,x,,1,
 1122,FALSE,Player Card,Player Card Backgrounds,Combined Arms,,,Pax Vanguard (Store),,,x,"Pax Vanguard (January 2026 version) (Store)
-Vanguard Redeploy (Store)",1,900
+Vanguard Redeploy (Store)",1,1000
 1123,FALSE,Player Card,Player Card Backgrounds,Rookie,,,Rank 15,,,,,0,1
 1124,FALSE,Player Card,Player Card Backgrounds,Whirlybird,,,Rank 25,,,,,0,1
 1125,FALSE,Player Card,Player Card Backgrounds,Rapid Fire,,,Rank 35,,,,,0,1
@@ -1123,10 +1123,10 @@ Vanguard Redeploy (Store)",1,900
 1138,FALSE,Player Card,Player Card Backgrounds,Untraceable,,,Season 1 Battle Pass Rogue Operators Tier 3,,,,,1,1
 1139,FALSE,Player Card,Player Card Backgrounds,Hidden Asset,,,Season 1 Battle Pass Soldiers of Fortune Tier 1,,,x,,1,1
 1140,FALSE,Player Card,Player Card Backgrounds,Floor It,,,Season 1 Battle Pass Soldiers of Fortune Tier 14,,,,,1,1
-1141,FALSE,Player Card,Player Card Backgrounds,In Their Honor,,,Serve and Sacrifice (Store),,,x,,1,840
-1142,FALSE,Player Card,Player Card Backgrounds,Datashot,,,Shadow Assault (Store),,,x,,1,880
+1141,FALSE,Player Card,Player Card Backgrounds,In Their Honor,,,Serve and Sacrifice (Store),,,x,,1,940
+1142,FALSE,Player Card,Player Card Backgrounds,Datashot,,,Shadow Assault (Store),,,x,Shadow Basilisk (Store),1,980
 1143,FALSE,Player Card,Player Card Backgrounds,Raining Fire [Firepower Barrage],,,"Signup bonus for various Chinese websites, Aug 2025.",,,,,0,1
-1144,FALSE,Player Card,Player Card Backgrounds,After Dark,,,Spectral Division (Store),,,x,,1,820
+1144,FALSE,Player Card,Player Card Backgrounds,After Dark,,,Spectral Division (Store),,,x,,1,920
 1145,FALSE,Player Card,Player Card Backgrounds,Harassing Fire,,,Tactical Step (Store),,,x,,1,1
 1146,FALSE,Player Card,Player Card Backgrounds,Fallen Heroes,,,Tombstone Pre-Order pack,,,,,0,1
 1147,FALSE,Player Card,Player Card Backgrounds,Demolition Crew,,,Season 1 Battle Pass Frostfire Tier 3,,,,,1,1
@@ -1134,7 +1134,7 @@ Vanguard Redeploy (Store)",1,900
 1149,FALSE,Player Card,Player Card Backgrounds,Nerves of Steel,,,Unknown (Promo),,x,,,,780
 1150,FALSE,Player Card,Player Card Backgrounds,Roll Out,,,Unknown (Promo),,x,,,,760
 1151,FALSE,Player Card,Player Card Backgrounds,Hair Trigger,,,Unknown (Promo),,x,,,,680
-1152,FALSE,Player Card,Player Card Backgrounds,Covert Operation,,,Viper Command (Store),,,x,,1,800
+1152,FALSE,Player Card,Player Card Backgrounds,Covert Operation,,,Viper Command (Store),,,x,,1,900
 1153,FALSE,Player Card,Player Card Icons,Elite Raider,,,CAMPAIGN - OPERATION GLADIUS,,,,,0,1
 1154,FALSE,Player Card,Player Card Icons,Explosive Entry,,,Challenge ASSAULT 3,,,,,0,1
 1155,FALSE,Player Card,Player Card Icons,Zeroed In,,,Challenge BATTLE PASS S1 CHALLENGE 3,,,x,,1,1
@@ -1150,12 +1150,12 @@ Vanguard Redeploy (Store)",1,900
 1165,FALSE,Player Card,Player Card Icons,Lethal Spread,,,Rank 52,,,,,0,1
 1166,FALSE,Player Card,Player Card Icons,Reaper,,,Rank 76,,,,,0,1
 1167,FALSE,Player Card,Player Card Icons,Decorated Veteran,,,Rank 97,,,,,0,1
-1168,FALSE,Player Card,Player Card Icons,Dead Beat,,,Reverb Strike (Store),,,x,,1,160
+1168,FALSE,Player Card,Player Card Icons,Dead Beat,,,Reverb Strike (Store),,,x,,1,
 1169,FALSE,Player Card,Player Card Icons,Fully Stocked,,,Rogue Rivalry (Store),,,x,,1,1
 1170,FALSE,Player Card,Player Card Icons,Pack Hunter,,,Season 1 Battle Pass Recruit Tier 1,,,,,1,1
 1171,FALSE,Player Card,Player Card Icons,Lucky Devil,,,Season 1 Battle Pass Soldiers of Fortune Tier 5,,,x,,1,1
-1172,FALSE,Player Card,Player Card Icons,Battle Star,,,Serve and Sacrifice (Store),,,x,,1,150
-1173,FALSE,Player Card,Player Card Icons,Stress Fracture,,,Spectral Division (Store),,,x,,1,149
+1172,FALSE,Player Card,Player Card Icons,Battle Star,,,Serve and Sacrifice (Store),,,x,,1,
+1173,FALSE,Player Card,Player Card Icons,Stress Fracture,,,Spectral Division (Store),,,x,,1,
 1174,FALSE,Player Card,Player Card Icons,Collaborator [BF Labs],,,Participate in BF Labs playtesting (4 hours playtime).,,,,Developer,0,5000
 1175,FALSE,Player Card,Player Card Stickers,Impaled,,,Alliance Strike (Store),,,x,,1,110
 1176,FALSE,Player Card,Player Card Stickers,Firestorm,,,Battlefield 2042: Road to Battlefield 6 Battle Pass Tier 19,,,,,0,1
@@ -1327,7 +1327,7 @@ Vanguard Redeploy (Store)",1,370
 1368,FALSE,Universal Vehicle Customization,Vehicle Decals,Best Defense,,,Season 1 Battle Pass Pacific Ghosts Tier 12,,,,,1,1
 1369,FALSE,Universal Vehicle Customization,Vehicle Decals,Mercury,,,Season 1 Battle Pass Pacific Ghosts Tier 2,,,x,,1,1
 1370,FALSE,Universal Vehicle Customization,Vehicle Decals,Above All,,,Season 1 Battle Pass Prestige Tier 4,,,,,1,1
-1371,FALSE,Universal Vehicle Customization,Vehicle Decals,Kinetic Energy,,,Shadow Assault (Store),,,x,,1,220
+1371,FALSE,Universal Vehicle Customization,Vehicle Decals,Kinetic Energy,,,Shadow Assault (Store),,,x,Shadow Basilisk (Store),1,220
 1372,FALSE,Universal Vehicle Customization,Vehicle Decals,Boom! [Make an impact],,,"Signup bonus for various Chinese websites, Aug 2025.",,,,,0,1
 1373,FALSE,Universal Vehicle Customization,Vehicle Decals,Agile Planning [Flexible Plan],,,"Signup bonus for various Chinese websites, Aug 2025.",,,,,0,1
 1374,FALSE,Universal Vehicle Customization,Vehicle Decals,Firestarter,,,Sky Lock (Store),,,x,,1,200
@@ -1519,7 +1519,7 @@ Vanguard Redeploy (Store)",1,370
 1560,FALSE,Universal Weapon Customization,Weapon Charms,Lucky Number,,,Season 1 Battle Pass Soldiers of Fortune Tier 12,,,x,,1,1
 1561,FALSE,Universal Weapon Customization,Weapon Charms,Alpha,,,Season 1 Battle Pass Ultimate Tier 5,,,,,1,1
 1562,FALSE,Universal Weapon Customization,Weapon Charms,Capped,,,Season 1 Starter pack (Store),,,x,,1,1
-1563,FALSE,Universal Weapon Customization,Weapon Charms,Bright Future,,,Shadow Assault (Store),,,x,,1,920
+1563,FALSE,Universal Weapon Customization,Weapon Charms,Bright Future,,,Shadow Assault (Store),,,x,Shadow Veiled (Store),1,920
 1564,FALSE,Universal Weapon Customization,Weapon Charms,Nature's Protection,,,Shield Breaker (Store),,,x,,1,370
 1565,FALSE,Universal Weapon Customization,Weapon Charms,Crossed Blades,,,Shield Breaker (Store),,,x,,1,880
 1566,FALSE,Universal Weapon Customization,Weapon Charms,On the Ground,,,Tactical Step (Store),,,x,,1,1
@@ -1554,7 +1554,7 @@ Vanguard Redeploy (Store)",1,370
 1595,FALSE,Universal Weapon Customization,Weapon Stickers,Classified,,,Season 1 Battle Pass Deniable Ops Tier 12,,,x,,1,1
 1596,FALSE,Universal Weapon Customization,Weapon Stickers,Ascendant,,,Season 1 Battle Pass Prestige Tier 2,,,,,1,1
 1597,FALSE,Universal Weapon Customization,Weapon Stickers,Deny Everything,,,Season 1 Battle Pass Rogue Operators Tier 12,,,x,,1,1
-1598,FALSE,Universal Weapon Customization,Weapon Stickers,Qreaper,,,Shadow Assault (Store),,,x,,1,510
+1598,FALSE,Universal Weapon Customization,Weapon Stickers,Qreaper,,,Shadow Assault (Store),,,x,Shadow Veiled (Store),1,510
 1599,FALSE,Universal Weapon Customization,Weapon Stickers,Stab Deep,,,Shield Breaker (Store),,,x,,1,830
 1600,FALSE,Universal Weapon Customization,Weapon Stickers,Rage Bait,,,Subscribe to Battlefield Newsletter (Oct 2025),,,,,0,1
 1601,FALSE,Universal Weapon Customization,Weapon Stickers,Rude Awakening,,,Tactical Step (Store),,,x,,1,1
@@ -1574,16 +1574,16 @@ Vanguard Redeploy (Store)",1,370
 1615,FALSE,Universal Weapon Customization,Weapon Stickers,Lunacy,,,Unknown (removed),,x,,,,
 1616,FALSE,Universal Weapon Customization,Weapon Stickers,Aggressor,,,Season 1 Battle Pass Frostfire Tier 10,,,,,1,1
 1617,FALSE,Universal Weapon Customization,Weapon Stickers,Denial of Service,,,"New Year Login Reward 2025/2026, day 1",,,,,1,1
-1618,TRUE,Vehicle Customizations,Anti Air Customizations,Multi-Purpose,Ammo 1,,Default,,,,,0,0
-1619,TRUE,Vehicle Customizations,Anti Air Customizations,Anti-Air,Ammo 2,,Default,,,,,0,0
+1618,TRUE,Vehicle Customizations,Anti Air Customizations,Multi-Purpose,Primary,,Default,,,,,0,0
+1619,TRUE,Vehicle Customizations,Anti Air Customizations,Lock-Guided,Secondary,,Default,,,,,0,0
 1620,TRUE,Vehicle Customizations,Anti Air Customizations,Thermal-Blocking,Equipment,,Default,,,,,0,0
 1621,TRUE,Vehicle Customizations,Anti Air Customizations,Systems Upgrade,Upgrade 1,,Default,,,,,0,0
 1622,TRUE,Vehicle Customizations,Anti Air Customizations,Radar System,Upgrade 2,,Default,,,,,0,0
 1623,FALSE,Vehicle Customizations,Anti Air Customizations,Emergency Repair,Equipment,,Anti-Air Mastery 12,,,,,0,0
 1624,FALSE,Vehicle Customizations,Anti Air Customizations,Targeting Jammer,Upgrade 1,,Anti-Air Mastery 15,,,,,0,0
-1625,FALSE,Vehicle Customizations,Anti Air Customizations,High-Velocity,Ammo 1,,Anti-Air Mastery 3,,,,,0,0
+1625,FALSE,Vehicle Customizations,Anti Air Customizations,High-Velocity,Primary,,Anti-Air Mastery 3,,,,,0,0
 1626,FALSE,Vehicle Customizations,Anti Air Customizations,Optimized Handling,Upgrade 1,,Anti-Air Mastery 3,,,,,0,0
-1627,FALSE,Vehicle Customizations,Anti Air Customizations,Anti-Armor,Ammo 1,,Anti-Air Mastery 7,,,,,0,0
+1627,FALSE,Vehicle Customizations,Anti Air Customizations,Anti-Armor,Primary,,Anti-Air Mastery 7,,,,,0,0
 1628,FALSE,Vehicle Customizations,Anti Air Customizations,Enhanced Loading,Upgrade 1,,Anti-Air Mastery 7,,,,,0,0
 1629,FALSE,Vehicle Customizations,Anti Air Skins,True Dominion,,NATO,Season 1 Battle Pass BF Pro Tier 0,,,x,,1,50
 1630,TRUE,Vehicle Customizations,Anti Air Skins,Factory Default,,NATO,Default,,,,,0,50
@@ -1610,18 +1610,18 @@ Vanguard Redeploy (Store)",1,370
 1651,FALSE,Vehicle Customizations,ATP Skins,Crash Override,,Pax Armata,ATP Mastery 50,,,,,1,140
 1653,TRUE,Vehicle Customizations,ATP Skins,Factory Default,,NATO,Default,,,,,1,40
 1654,TRUE,Vehicle Customizations,ATP Skins,Factory Default,,Pax Armata,Default,,,,,1,140
-1655,FALSE,Vehicle Customizations,Attack Heli Customizations,Improved Armor,Upgrade,,Attack Heli Mastery 15,,,,,0,0
+1655,FALSE,Vehicle Customizations,Attack Heli Customizations,Improved Armor,Upgrade 1,,Attack Heli Mastery 15,,,,,0,0
 1656,FALSE,Vehicle Customizations,Attack Heli Customizations,Light Rockets,Ammo 1,,Attack Heli Mastery 3,,,,,0,0
 1657,FALSE,Vehicle Customizations,Attack Heli Customizations,Target Detection,Equipment 2,,Attack Heli Mastery 4,,,,,0,0
-1658,FALSE,Vehicle Customizations,Attack Heli Customizations,Heavy Warheads,Upgrade,,Attack Heli Mastery 4,,,,,0,0
+1658,FALSE,Vehicle Customizations,Attack Heli Customizations,Heavy Warheads,Upgrade 1,,Attack Heli Mastery 4,,,,,0,0
 1659,FALSE,Vehicle Customizations,Attack Heli Customizations,Heavy Rockets,Ammo 1,,Attack Heli Mastery 7,,,,,0,0
 1660,FALSE,Vehicle Customizations,Attack Heli Customizations,Aim-Guided,Ammo 2,,Attack Heli Mastery 8,,,,,0,0
-1661,FALSE,Vehicle Customizations,Attack Heli Customizations,Interference,Upgrade,,Attack Heli Mastery 8,,,,,0,0
+1661,FALSE,Vehicle Customizations,Attack Heli Customizations,Interference,Upgrade 1,,Attack Heli Mastery 8,,,,,0,0
 1662,TRUE,Vehicle Customizations,Attack Heli Customizations,Aim-Guided,Ammo 1,,Default,,,,,0,0
 1663,TRUE,Vehicle Customizations,Attack Heli Customizations,Anti-Air,Ammo 2,,Default,,,,,0,0
 1664,TRUE,Vehicle Customizations,Attack Heli Customizations,Flares,Equipment 1,,Default,,,,,0,0
 1665,TRUE,Vehicle Customizations,Attack Heli Customizations,Emergency Repair,Equipment 2,,Default,,,,,0,0
-1666,TRUE,Vehicle Customizations,Attack Heli Customizations,Radar System,Upgrade,,Default,,,,,0,0
+1666,TRUE,Vehicle Customizations,Attack Heli Customizations,Radar System,Upgrade 2,,Default,,,,,0,0
 1667,TRUE,Vehicle Customizations,Attack Heli Customizations,Autocannon,Remote Weapon 1,,Default,,,,,0,0
 1668,TRUE,Vehicle Customizations,Attack Heli Customizations,Lock/Aim-Guided,Remote Weapon 2,,Default,,,,,0,0
 1669,FALSE,Vehicle Customizations,Attack Heli Skins,Gold Standard,,NATO,Attack Heli Mastery 50,,,,,0,60
@@ -1726,7 +1726,7 @@ Vanguard Redeploy (Store)",1,370
 1769,FALSE,Vehicle Customizations,MBT Skins,Oil Tracker,,NATO,Pax Vanguard (Store),,,x,Pax Vanguard (January 2026 version) (Store),1,10
 1770,FALSE,Vehicle Customizations,MBT Skins,Chimera,,NATO,Phantom Edition,,,x,,0,10
 1771,FALSE,Vehicle Customizations,MBT Skins,Phalanx,,NATO,Season 1 Battle Pass Pacific Ghosts Tier 7,,,x,,1,10
-1772,FALSE,Vehicle Customizations,MBT Skins,Yellow Tape,,Pax Armata,Shadow Assault (Store),,,x,,1,110
+1772,FALSE,Vehicle Customizations,MBT Skins,Yellow Tape,,Pax Armata,Shadow Assault (Store),,,x,Shadow Basilisk (Store),1,110
 1773,FALSE,Vehicle Customizations,MBT Skins,Rock Solid,,NATO,Accelerator Pack: Rock Solid (Store),,,x,,3,10
 1774,FALSE,Vehicle Customizations,MBT Skins,Stamp Out,,NATO,Concrete Crusher (Store),,,x,,1,10
 1775,TRUE,Vehicle Customizations,Transport Heli Customizations,Flares,Equipment 1,,Default,,,,,0,0
@@ -1773,7 +1773,7 @@ Vanguard Redeploy (Store)",1,370
 1816,FALSE,Weapon Attachments,18.5KS-K Attachments,Flash Hider,Muzzles,,Challenge POINT BLANK 2,,,,,0,500
 1817,FALSE,Weapon Attachments,18.5KS-K Attachments,430mm Cut,Barrels,,Challenge POINT BLANK 2,,,,,0,500
 1818,FALSE,Weapon Attachments,18.5KS-K Attachments,8RND Magazine,Magazines,,Challenge POINT BLANK 2,,,,,0,500
-1819,FALSE,Weapon Attachments,18.5KS-K Attachments,Buckshot,Ammunition,,Challenge POINT BLANK 2,,,,,0,500
+1819,FALSE,Weapon Attachments,18.5KS-K Attachments,#01 Buckshot,Ammunition,,Challenge POINT BLANK 2,,,,,0,500
 1820,FALSE,Weapon Attachments,18.5KS-K Attachments,Iron Sights,Scopes,,18.5KS-K Mastery 1,,,,,0,500
 1821,FALSE,Weapon Attachments,18.5KS-K Attachments,2PRO 1.25x,Scopes,,18.5KS-K Mastery 1,,,,,0,500
 1822,FALSE,Weapon Attachments,18.5KS-K Attachments,RO-M 1.75x,Scopes,,18.5KS-K Mastery 10,,,,,0,500
@@ -2080,7 +2080,7 @@ Vanguard Redeploy (Store)",1,370
 2123,FALSE,Weapon Packages,B36A4 Packages,Warfighter,Assault Rifle,,B36A4 Mastery 10,,,,,0,2
 2124,FALSE,Weapon Packages,B36A4 Packages,Unstoppable Force,Assault Rifle,,B36A4 Mastery 50,,,,,0,2
 2125,FALSE,Weapon Packages,B36A4 Packages,Bone Breaker,Assault Rifle,,Season 1 Battle Pass Deniable Ops Tier 9,,,x,,1,2
-2126,FALSE,Weapon Packages,B36A4 Packages,Veiled,Assault Rifle,,Shadow Assault (Store),,,x,,1,2
+2126,FALSE,Weapon Packages,B36A4 Packages,Veiled,Assault Rifle,,Shadow Assault (Store),,,x,Shadow Veiled (Store),1,2
 2127,FALSE,Weapon Attachments,DRS-IAR Attachments,SU-230 LPVO,Scopes,,Challenge SEASON 1 HARDWARE 1,,,,,1,290
 2128,FALSE,Weapon Attachments,DRS-IAR Attachments,SU-230 LPVO,Scopes,,Challenge SEASON 1 HARDWARE 1,,,,,1,290
 2129,FALSE,Weapon Attachments,DRS-IAR Attachments,Rail Cover,Ergonomics,,Challenge SEASON 1 HARDWARE 2,,,,,1,290
@@ -2882,7 +2882,7 @@ Vanguard Redeploy (Store)",1,370
 2925,FALSE,Weapon Attachments,M1014 Attachments,Iron Sights,Scopes,,Rank 42,,,,,0,490
 2926,FALSE,Weapon Attachments,M1014 Attachments,"18.5"" Factory",Barrels,,Rank 42,,,,,0,490
 2927,FALSE,Weapon Attachments,M1014 Attachments,7 Shell Tube,Magazines,,Rank 42,,,,,0,490
-2928,FALSE,Weapon Attachments,M1014 Attachments,Buckshot,Ammunition,,Rank 42,,,,,0,490
+2928,FALSE,Weapon Attachments,M1014 Attachments,#01 Buckshot,Ammunition,,Rank 42,,,,,0,490
 2929,FALSE,Weapon Attachments,M1014 Attachments,2PRO 1.25x,Scopes,,M1014 Mastery 1,,,,,0,490
 2930,FALSE,Weapon Attachments,M1014 Attachments,Slim Angled,Underbarrels,,M1014 Mastery 10,,,,,0,490
 2931,FALSE,Weapon Attachments,M1014 Attachments,RO-M 1.75x,Scopes,,M1014 Mastery 11,,,,,0,490
@@ -3742,7 +3742,7 @@ Vanguard Redeploy (Store)",1,370
 3785,TRUE,Weapon Attachments,M87A1 Attachments,Iron Sights,Scopes,,Default,,,,,0,480
 3786,TRUE,Weapon Attachments,M87A1 Attachments,"20"" Factory",Barrels,,Default,,,,,0,480
 3787,TRUE,Weapon Attachments,M87A1 Attachments,7 Shell Tube,Magazines,,Default,,,,,0,480
-3788,TRUE,Weapon Attachments,M87A1 Attachments,Buckshot,Ammunition,,Default,,,,,0,480
+3788,TRUE,Weapon Attachments,M87A1 Attachments,#01 Buckshot,Ammunition,,Default,,,,,0,480
 3789,FALSE,Weapon Attachments,M87A1 Attachments,2PRO 1.25x,Scopes,,M87A1 Mastery 1,,,,,0,480
 3790,FALSE,Weapon Attachments,M87A1 Attachments,Slim Angled,Underbarrels,,M87A1 Mastery 10,,,,,0,480
 3791,FALSE,Weapon Attachments,M87A1 Attachments,RO-M 1.75x,Scopes,,M87A1 Mastery 11,,,,,0,480
@@ -5470,20 +5470,20 @@ Get kills from a distance of 15m or less. (50)",Slim Handstop weapon attachment 
 5516,FALSE,Player Card,Player Card Backgrounds,Air Time,,,Unknown (Red Bull challenge) [REMOVED FROM GAME Dec 2025],,x,,,,
 5517,FALSE,Player Card,Player Card Backgrounds,Arsenal,,,Challenge EARN SCORE IN ANY MODE. [California Resistance 2025],,,,,1,1
 5518,FALSE,Player Card,Player Card Backgrounds,Birds of Prey,,,Bountiful Harvest (Store),,,x,,1,
-5519,FALSE,Player Card,Player Card Backgrounds,Heads Down,,,Double-Edged Sword (Store),,,x,,1,940
+5519,FALSE,Player Card,Player Card Backgrounds,Heads Down,,,Double-Edged Sword (Store),,,x,,1,1040
 5520,FALSE,Player Card,Player Card Backgrounds,Hit the Deck,,,Challenge VISIT UNIQUE STASHES [California Resistance 2025],,,,,1,1
 5521,FALSE,Player Card,Player Card Backgrounds,Liberty Directive,,,Season 1 Battle Pass California Resistance Tier 1,,,,,1,1
-5522,FALSE,Player Card,Player Card Backgrounds,Safety Off,,,Pax Contraband (Store),,,x,,1,960
-5523,FALSE,Player Card,Player Card Backgrounds,Send It,,,Longshot (Store),,,x,,1,980
-5524,FALSE,Player Card,Player Card Backgrounds,Uprising,,,Twin Flames (Store),,,x,,1,920
+5522,FALSE,Player Card,Player Card Backgrounds,Safety Off,,,Pax Contraband (Store),,,x,,1,1060
+5523,FALSE,Player Card,Player Card Backgrounds,Send It,,,Longshot (Store),,,x,,1,1080
+5524,FALSE,Player Card,Player Card Backgrounds,Uprising,,,Twin Flames (Store),,,x,,1,1020
 5525,FALSE,Player Card,Player Card Backgrounds,Urban Maneuver,,,Night Rider (Store),,,x,,1,1
 5526,FALSE,Player Card,Player Card Backgrounds,Wings of Courage,,,The 323 (Store),,,x,,1,1
 5527,FALSE,Player Card,Player Card Icons,Blastoff,,,Challenge COMPLETE MATCHES IN BATTLE ROYALE [California Resistance 2025],,,,,1,1
 5528,FALSE,Player Card,Player Card Icons,Corn Blaster,,,Bountiful Harvest (Store),,,x,,1,
 5529,FALSE,Player Card,Player Card Icons,Dynamo,,,Challenge DEAL DAMAGE. [California Resistance 2025],,,,,1,1
-5530,FALSE,Player Card,Player Card Icons,Impaled,,,Double-Edged Sword (Store),,,x,,1,170
-5531,FALSE,Player Card,Player Card Icons,Land Nav,,,Pax Contraband (Store),,,x,,1,180
-5532,FALSE,Player Card,Player Card Icons,Last Request,,,Headcase (Store),,,x,,1,190
+5530,FALSE,Player Card,Player Card Icons,Impaled,,,Double-Edged Sword (Store),,,x,,1,
+5531,FALSE,Player Card,Player Card Icons,Land Nav,,,Pax Contraband (Store),,,x,,1,
+5532,FALSE,Player Card,Player Card Icons,Last Request,,,Headcase (Store),,,x,,1,
 5533,FALSE,Player Card,Player Card Icons,The 31st,,,The 323 (Store),,,x,,1,1
 5534,FALSE,Player Card,Player Card Stickers,Battle Royale Flush,,,Challenge BATTLE ROYALE TIER ONE OPERATOR CHALLENGE 5,,,,,1,210
 5535,FALSE,Player Card,Player Card Stickers,Black Widow,,,Challenge BATTLE ROYALE TIER ONE OPERATOR CHALLENGE 2,,,,,1,1
@@ -5617,7 +5617,7 @@ Ready Reserves (Store)",1,350
 5670,FALSE,Weapon Attachments,DB-12 Attachments,Alloy Vertical,Underbarrels,,DB-12 Mastery 4,,,,,1,510
 5671,FALSE,Weapon Attachments,DB-12 Attachments,BAKER 3.00x,Scopes,,DB-12 Mastery 14,,,,,1,510
 5672,FALSE,Weapon Attachments,DB-12 Attachments,BF-2M 2.50x,Scopes,,DB-12 Mastery 9,,,,,1,510
-5673,FALSE,Weapon Attachments,DB-12 Attachments,Buckshot,Ammunition,,Season 1 Battle Pass California Resistance Tier 11,,,,Challenge SEASON 1 HARDWARE 5,1,510
+5673,FALSE,Weapon Attachments,DB-12 Attachments,#01 Buckshot,Ammunition,,Season 1 Battle Pass California Resistance Tier 11,,,,Challenge SEASON 1 HARDWARE 5,1,510
 5674,FALSE,Weapon Attachments,DB-12 Attachments,Canted Stubby,Underbarrels,,DB-12 Mastery 27,,,,,1,510
 5675,FALSE,Weapon Attachments,DB-12 Attachments,CCO 2.00x,Scopes,,DB-12 Mastery 12,,,,,1,510
 5676,FALSE,Weapon Attachments,DB-12 Attachments,Classic Vertical,Underbarrels,,DB-12 Mastery 31,,,,,1,510
@@ -6134,25 +6134,25 @@ Get Shotgun kills in a life. (4)",DB-12,,,,1,
 6197,FALSE,Dog Tags,Dog Tags,Eagle's Stare,Other,,Unknown (removed April 2026),,x,,,,
 6198,FALSE,Dog Tags (taken),Dog Tags (taken),Eagle's Stare,Other,,,,x,,,,
 6199,FALSE,Player Card,Player Card Backgrounds,On the Threshold,,,Battlefield REDSEC Elite Series Match Day #1 Twitch Drops (watch 1 hour),,,,,1,1
-6200,FALSE,Player Card,Player Card Backgrounds,Bear Down,,,Massive Casualty (Store),,,x,,1,1140
-6201,FALSE,Player Card,Player Card Backgrounds,Cut & Run,,,Winter Sphinx (Store),,,x,,1,1000
-6202,FALSE,Player Card,Player Card Backgrounds,Overhead,,,Winter Sphinx (Store),,,x,,1,1020
+6200,FALSE,Player Card,Player Card Backgrounds,Bear Down,,,Massive Casualty (Store),,,x,,1,1240
+6201,FALSE,Player Card,Player Card Backgrounds,Cut & Run,,,Winter Sphinx (Store),,,x,,1,1100
+6202,FALSE,Player Card,Player Card Backgrounds,Overhead,,,Winter Sphinx (Store),,,x,,1,1120
 6203,FALSE,Player Card,Player Card Backgrounds,Cataclysm,,,Season 1 Battle Pass BF Pro Tier 9,,,x,,1,1
-6204,FALSE,Player Card,Player Card Backgrounds,Bleak Outpost,,,Freezing Point (Store),,,x,,1,1040
+6204,FALSE,Player Card,Player Card Backgrounds,Bleak Outpost,,,Freezing Point (Store),,,x,,1,1140
 6205,FALSE,Player Card,Player Card Backgrounds,Isbjørn,,,Season 1 Battle Pass Winter Offensive Tier 9,,,,,1,1
 6206,FALSE,Player Card,Player Card Backgrounds,Battle Drill 6,,,Battlefield REDSEC Elite Series Match Day #1 Twitch Drops (watch 4 hours),,,,,1,1
-6207,FALSE,Player Card,Player Card Backgrounds,Make Ready,,,Unknown (Tournament Play),,x,,,,1060
-6208,FALSE,Player Card,Player Card Backgrounds,Forced Entry,,,Unknown (Tournament Play),,x,,,,1080
-6209,FALSE,Player Card,Player Card Backgrounds,Riding Fury,,,Unknown (Tournament Play),,x,,,,1100
-6210,FALSE,Player Card,Player Card Backgrounds,Armored Backup,,,Unknown (Tournament Play),,x,,,,1120
-6211,FALSE,Player Card,Player Card Icons,Rime on Target,,,Snowstrike (Store),,,x,,1,200
-6212,FALSE,Player Card,Player Card Icons,Iced Out,,,Windchill (Store),,,x,,1,210
-6213,FALSE,Player Card,Player Card Icons,Ravenous,,,Iron Claw (Store),,,x,,1,220
-6214,FALSE,Player Card,Player Card Icons,Rock Steady,,,Preternatural (Store),,,x,,1,230
-6215,FALSE,Player Card,Player Card Icons,Crownslayer,,,Bestial Trapper (Store),,,x,,1,240
+6207,FALSE,Player Card,Player Card Backgrounds,Make Ready,,,Unknown (Tournament Play),,x,,,,1160
+6208,FALSE,Player Card,Player Card Backgrounds,Forced Entry,,,Unknown (Tournament Play),,x,,,,1180
+6209,FALSE,Player Card,Player Card Backgrounds,Riding Fury,,,Unknown (Tournament Play),,x,,,,1200
+6210,FALSE,Player Card,Player Card Backgrounds,Armored Backup,,,Unknown (Tournament Play),,x,,,,1220
+6211,FALSE,Player Card,Player Card Icons,Rime on Target,,,Snowstrike (Store),,,x,,1,
+6212,FALSE,Player Card,Player Card Icons,Iced Out,,,Windchill (Store),,,x,,1,
+6213,FALSE,Player Card,Player Card Icons,Ravenous,,,Iron Claw (Store),,,x,,1,
+6214,FALSE,Player Card,Player Card Icons,Rock Steady,,,Preternatural (Store),,,x,,1,
+6215,FALSE,Player Card,Player Card Icons,Crownslayer,,,Bestial Trapper (Store),,,x,,1,
 6216,FALSE,Player Card,Player Card Icons,Astronaut,,,Season 1 Battle Pass Frostfire Tier 1,,,,,1,1
 6217,FALSE,Player Card,Player Card Icons,Game Vision,,,Season 1 Battle Pass BF Pro Tier 6,,,x,,1,1
-6218,FALSE,Player Card,Player Card Icons,Long March,,,Freezing Point (Store),,,x,,1,250
+6218,FALSE,Player Card,Player Card Icons,Long March,,,Freezing Point (Store),,,x,,1,
 6219,FALSE,Player Card,Player Card Titles,Force of Nature,,,Bestial Trapper (Store),,,x,,1,210
 6220,FALSE,Player Card,Player Card Titles,Coldblooded,,,Boreal Tactics (Store),,,x,,1,220
 6221,FALSE,Player Card,Player Card Titles,Limitless,,,Season 1 Battle Pass Frostfire Tier 7,,,x,,1,1
@@ -6206,7 +6206,7 @@ Get headshot hits. (30)",SOR-300SC,,,,2,
 6281,FALSE,Weapon Packages,M4A1 Packages,Splinter Agent,Carbine,,Alchemic Agent (Store),,,x,,2,1
 6282,FALSE,Player Card,Player Card Backgrounds,Care Package,,,Challenge BATTLE PASS S2 CHALLENGE 1,,,x,,2,480
 6283,FALSE,Weapon Packages,SVDM Packages,Professional's Headtaker,DMR,,Challenge Battle Pass S2 Challenge 2,,,x,,2,4
-6284,FALSE,Player Card,Player Card Icons,One in the Chamber,,,Challenge BATTLE PASS S2 CHALLENGE 3,,,x,,2,80
+6284,FALSE,Player Card,Player Card Icons,One in the Chamber,,,Challenge BATTLE PASS S2 CHALLENGE 3,,,x,,2,
 6285,FALSE,Weapon Packages,AK4D Packages,Professional's Heatmaker,Assault Rifle,,Challenge Battle Pass S2 Challenge 4,,,x,,2,4
 6286,FALSE,Appearance,United Albion Assault,Night Scope,,NATO,Challenge BATTLE PASS S2 CHALLENGE 5,,,x,,2,20
 6287,FALSE,Universal Weapon Customization,Weapon Charms,Rising Prosperity,,,Challenge Deal damage with vehicles. [Year of the Horse],,,,,2,1
@@ -6527,7 +6527,7 @@ Spot enemies. (200)",One in the Chamber player card icon,,x,,2,
 6602,FALSE,Player Card,Player Card Backgrounds,Strength in Steel,,,Season 2 Battle Pass Steel Talon Tier 19,,,x,,2,540
 6603,FALSE,Universal Soldier Customization,Parachute Skins,Steel Rain,,,Season 2 Battle Pass Steel Talon Tier 2,,,x,,2,360
 6604,FALSE,Weapon Packages,M/60 Packages,Alloyed Assault,LMG,,Season 2 Battle Pass Steel Talon Tier 20,,,x,,2,3
-6605,FALSE,Player Card,Player Card Icons,Forged Wings,,,Season 2 Battle Pass Steel Talon Tier 21,,,,,2,40
+6605,FALSE,Player Card,Player Card Icons,Forged Wings,,,Season 2 Battle Pass Steel Talon Tier 21,,,,,2,
 6606,FALSE,Appearance,Espada Recon,Steel Vulture,,Pax Armata,Season 2 Battle Pass Steel Talon Tier 22,,,x,,2,370
 6607,FALSE,Weapon Packages,PW5A3 Packages,Keen Edge,SMG,,Season 2 Battle Pass Steel Talon Tier 3,,,,,2,2
 6608,FALSE,Appearance,Fireteam Vedmak Support,Twilight Threshold,,Pax Armata,Season 2 Battle Pass Steel Talon Tier 4,,,x,,2,310
@@ -6622,7 +6622,7 @@ Spot enemies. (200)",One in the Chamber player card icon,,x,,2,
 6698,FALSE,Player Card,Player Card Stickers,Blazing Stampede,,,"Year of the Horse Inbox Gifts, day 3",,,,,2,1
 6699,FALSE,Player Card,Player Card Backgrounds,Crimson Viper,,,Constrictor (Store),,,x,,2,380
 6700,FALSE,Player Card,Player Card Titles,Cryptid,,,Unknown,,x,,,,240
-6701,FALSE,Player Card,Player Card Icons,Hooded Death,,,Lights Out (Store),,,x,,2,90
+6701,FALSE,Player Card,Player Card Icons,Hooded Death,,,Lights Out (Store),,,x,,2,
 6702,FALSE,Player Card,Player Card Backgrounds,Landing Zone,,,Unknown,,x,,,,660
 6703,FALSE,Player Card,Player Card Backgrounds,London Syndicate,,,King's Legion (Store),,,x,,2,640
 6704,FALSE,Player Card,Player Card Backgrounds,Mechanized Advance,,,"Free Store Gift (Season 2, Week 2)",,,,,2,1
@@ -6974,7 +6974,7 @@ Get kills with Assault Rifles, Carbines or SMGs (30)",Flash Comp muzzle weapon a
 7048,FALSE,Weapon Attachments,M277 Attachments,Taclight - Hip,Right Accessories,,Challenge SEASON 2 HARDWARE 1,,,,,2,120
 7049,FALSE,Weapon Attachments,M277 Attachments,Taclight - Aimed,Right Accessories,,Challenge SEASON 2 HARDWARE 1,,,,,2,120
 7050,FALSE,Weapon Attachments,M277 Attachments,50 MW Violet,Top Accessories,,Challenge SEASON 2 HARDWARE 1,,,,,2,120
-7051,FALSE,Weapon Attachments,M45A1 Attachments,Taclight - Aimed,Underbarrels,,Challenge SEASON 2 HARDWARE 1,,,,,2,540
+7051,TRUE,Weapon Attachments,M45A1 Attachments,Taclight - Aimed,Underbarrels,,Default,,,,Challenge SEASON 2 HARDWARE 1,2,540
 7052,FALSE,Weapon Attachments,M357 TRAIT Attachments,Taclight - Aimed,Underbarrels,,Challenge SEASON 2 HARDWARE 1,,,,,2,570
 7053,FALSE,Weapon Attachments,M39 EMR Attachments,Taclight - Hip,Left Accessories,,Challenge SEASON 2 HARDWARE 1,,,,,2,380
 7054,FALSE,Weapon Attachments,M39 EMR Attachments,Taclight - Aimed,Left Accessories,,Challenge SEASON 2 HARDWARE 1,,,,,2,380
@@ -7312,10 +7312,10 @@ Get kills with Assault Rifles, Carbines or SMGs (30)",Flash Comp muzzle weapon a
 7386,FALSE,Player Card,Player Card Backgrounds,Bull Rush,,,"Earn Score while driving land vehicles, counts for double if gained in Gauntlet: RB Supermoto [Red Bull Challenges March 2026]",,,,,2,500
 7387,FALSE,Player Card,Player Card Backgrounds,Delta Sweep,,,"Reach round 3 in Gauntlet, the top 5 squads in BR, or finish with 2k Score in any MP mode. [Red Bull Challenges March 2026]",,,,,2,520
 7388,FALSE,Player Card,Player Card Backgrounds,Rugged Terrain,,,Challenge Kill with Shotguns or Sniper Rifles [Nightfall Challenges],,,,,2,580
-7389,FALSE,Player Card,Player Card Icons,Brass Tax,,,Season 2 Battle Pass BF Pro Tier 6,,,x,,2,130
-7390,FALSE,Player Card,Player Card Icons,Hazardous,,,Venom Drip (Store),,,x,,2,20
-7391,FALSE,Player Card,Player Card Icons,Big Bang,,,Solar Blast (Store),,,x,,2,50
-7392,FALSE,Player Card,Player Card Icons,Metal Militia,,,Bullet Storm (Store),,,x,,2,70
+7389,FALSE,Player Card,Player Card Icons,Brass Tax,,,Season 2 Battle Pass BF Pro Tier 6,,,x,,2,
+7390,FALSE,Player Card,Player Card Icons,Hazardous,,,Venom Drip (Store),,,x,,2,
+7391,FALSE,Player Card,Player Card Icons,Big Bang,,,Solar Blast (Store),,,x,,2,
+7392,FALSE,Player Card,Player Card Icons,Metal Militia,,,Bullet Storm (Store),,,x,,2,
 7393,FALSE,Player Card,Player Card Titles,Steeled Knight,,,Chivalric Honor (Store),,,x,,2,20
 7394,FALSE,Player Card,Player Card Titles,Hunter Killer,,,Night Shift (Store),,,x,,2,60
 7395,FALSE,Player Card,Player Card Titles,Strix Raider,,,The Strix Raiders (Store),,,x,,2,1
@@ -7326,7 +7326,7 @@ Get kills with Assault Rifles, Carbines or SMGs (30)",Flash Comp muzzle weapon a
 7400,FALSE,Player Card,Player Card Stickers,Head to Head,,,Complete Matches of Gauntlet: RB Supermoto. [Red Bull Challenges March 2026],,,,,2,60
 7401,FALSE,Dog Tags (taken),Dog Tags (taken),Copperhead,Other,,,,,,,2,
 7402,FALSE,Dog Tags,Dog Tags,Copperhead,Other,,Winged Onslaught (Store),,,x,,2,
-7403,FALSE,Player Card,Player Card Icons,Horned Raider,,,Waking Death (Store),,,x,,2,100
+7403,FALSE,Player Card,Player Card Icons,Horned Raider,,,Waking Death (Store),,,x,,2,
 7404,FALSE,Universal Soldier Customization,Uniform Patches,Going Dark,,,Season 2 Battle Pass Nightfall Tier 7,,,,,2,20
 7405,FALSE,Weapon Packages,KORD 6P67 Packages,Twilight Sortie,Assault Rifle,,Season 2 Battle Pass Nightfall Tier 6,,,x,,2,6
 7406,FALSE,Universal Weapon Customization,Weapon Charms,Eagle Eye,,,Aerie Sweep (Store),,,x,,2,870
@@ -7334,7 +7334,7 @@ Get kills with Assault Rifles, Carbines or SMGs (30)",Flash Comp muzzle weapon a
 7408,FALSE,Player Card,Player Card Stickers,By the Horns,,,Pop and Hold a Wheelie for a cumulative number of seconds on the Motorcycle. [Red Bull Challenges March 2026],,,,,2,80
 7409,FALSE,Universal Vehicle Customization,Vehicle Decals,Forked Tongue,,,Winged Onslaught (Store),,,x,,2,50
 7410,FALSE,Universal Soldier Customization,Parachute Skins,Tempest,,,Chivalric Honor (Store),,,x,,2,380
-7411,FALSE,Player Card,Player Card Icons,Mutated Strain,,,Accelerator Pack: Mutated Strain (Store),,,x,,2,120
+7411,FALSE,Player Card,Player Card Icons,Mutated Strain,,,Accelerator Pack: Mutated Strain (Store),,,x,,2,
 7412,FALSE,Player Card,Player Card Icons,DICE Dev,,,Developer,,,,,2,5000
 7413,FALSE,Player Card,Player Card Icons,Electronic Arts Dev,,,Developer,,,,,2,5000
 7414,FALSE,Player Card,Player Card Icons,Motive Dev,,,Developer,,,,,2,5000
@@ -7465,14 +7465,14 @@ Earn score in any mode. (5,000)",CZ3A1,,,,2,
 7537,FALSE,Weapon Packages,VCR-2 Packages,Jungle Defense,Assault Rifle,,Jungle Thunder (Store),,,x,,2,9
 7538,FALSE,Weapon Packages,VZ. 61 Packages,Wicked Barb,Secondary,,Barbaric Arsenal (Store),,,x,,2,7
 7539,FALSE,Weapons and Gadgets,Melee Weapons,Serrated Blade,Melee,,Season 2 Battle Pass Hunter/Prey Tier 11,,,,,2,
-7540,FALSE,Player Card,Player Card Icons,Hopper,,,Toxin Patrol (Store),,,x,,2,10
-7541,FALSE,Player Card,Player Card Icons,Navigation,,,Jungle Thunder (Store),,,x,,2,30
-7542,FALSE,Player Card,Player Card Icons,Hive Guard,,,Swarming Assault (Store),,,x,,2,60
+7540,FALSE,Player Card,Player Card Icons,Hopper,,,Toxin Patrol (Store),,,x,,2,
+7541,FALSE,Player Card,Player Card Icons,Navigation,,,Jungle Thunder (Store),,,x,,2,
+7542,FALSE,Player Card,Player Card Icons,Hive Guard,,,Swarming Assault (Store),,,x,,2,
 7543,FALSE,Player Card,Player Card Stickers,Champion,,,Accelerator Pack: Champion (Store),,,x,,2,40
 7544,FALSE,Player Card,Player Card Stickers,Fatal Façade,,,Poised Strike (Store),,,x,,2,50
 7545,FALSE,Player Card,Player Card Titles,Razor Sharp,,,Barbaric Arsenal (Store),,,x,,2,5
 7546,FALSE,Player Card,Player Card Titles,Reptilian,,,Tropical Advance (Store),,,x,,2,50
-7547,FALSE,Player Card,Player Card Icons,Arachnid,,,War Weaver (Store),,,x,,2,110
+7547,FALSE,Player Card,Player Card Icons,Arachnid,,,War Weaver (Store),,,x,,2,
 7548,FALSE,Player Card,Player Card Stickers,Boned Combatants,,,Unknown,,x,,,,290
 7549,FALSE,Player Card,Player Card Titles,Wild Tracker,,,Unknown,,x,,,,270
 7550,FALSE,Dog Tags,Dog Tags,Trusted Guide,Other,,Jungle Thunder (Store),,,x,,2,
@@ -7518,7 +7518,7 @@ OR
 Complete missions in Battle Royale. (20)",Provocation DB-12 weapon package,,x,,3,
 7589,FALSE,Player Card,Player Card Backgrounds,Ironclad,,,Challenge BATTLE PASS S3 CHALLENGE 1,,,x,,3,730
 7590,FALSE,Weapon Packages,DB-12 Packages,Provocation,Shotgun,,Challenge BATTLE PASS S3 CHALLENGE 2,,,x,,3,4
-7591,FALSE,Player Card,Player Card Icons,Next Level,,,Challenge BATTLE PASS S3 CHALLENGE 3,,,x,,3,142
+7591,FALSE,Player Card,Player Card Icons,Next Level,,,Challenge BATTLE PASS S3 CHALLENGE 3,,,x,,3,
 7592,FALSE,Weapon Packages,M39 EMR Packages,Mercy Stroke,DMR,,Challenge BATTLE PASS S3 CHALLENGE 4,,,x,,3,1
 7593,FALSE,Appearance,Espada Recon,Seasoned Warrior,,Pax Armata,Challenge BATTLE PASS S3 CHALLENGE 5,,,x,,3,370
 7594,FALSE,Dog Tags,Dog Tags,S3 Indomitable,Other,,Challenge Kills Confirmed and Assists Confirmed in Ranked Battle Royale Quads.,,,,,3,
@@ -7611,7 +7611,7 @@ Complete missions in Battle Royale. (20)",Provocation DB-12 weapon package,,x,,3
 7681,FALSE,Weapon Attachments,CZ3A1 Attachments,Piggyback Reflex,Optic Accessories,,CZ3A1 Mastery 30,,,,,2,270
 7682,FALSE,Dog Tags,Dog Tags,Live Wire,Other,,Data Breach (Store),,,x,,3,
 7683,FALSE,Gadget Skins,SS26 Skins,Packet Transfer,Assault,,Data Breach (Store),,,x,,3,40
-7684,FALSE,Player Card,Player Card Icons,Chip In,,,Data Breach (Store),,,x,,3,25
+7684,FALSE,Player Card,Player Card Icons,Chip In,,,Data Breach (Store),,,x,,3,
 7685,FALSE,Universal Weapon Customization,Weapon Charms,Threat Matrix,,,Data Breach (Store),,,x,,3,651
 7686,FALSE,Universal Weapon Customization,Weapon Charms,Power Core,,,Data Breach (Store),,,x,,3,921
 7687,FALSE,Universal Weapon Customization,Weapon Stickers,Extra Credit,,,Data Breach (Store),,,x,,3,171
@@ -7641,7 +7641,7 @@ Deal damage with Demolition Charges or Anti-Personnel Mines. (2,000)",GRT-CPS,,,
 7708,FALSE,Vehicle Customizations,Attack Heli Skins,Canopy Piercer,,Pax Armata,EA Play Season 3 pack,,,x,,3,160
 7709,FALSE,Weapon Packages,Mini Scout Packages,Lights Out,Sniper Rifle,,EA Play Season 3 pack,,,x,,3,4
 7710,FALSE,Challenges and Assignments,BF Pro Challenges,Battle Pass S3 Challenge 5,Challenge,,"Earn score in any mode. (10,000)",Espada Recon Seasoned Warrior soldier skin,,x,,3,
-7711,FALSE,Player Card,Player Card Icons,S3 Ranked Bronze,,,End of Season for Ranked Division Bronze I (Season 3),,x,,,,147
+7711,FALSE,Player Card,Player Card Icons,S3 Ranked Bronze,,,End of Season for Ranked Division Bronze I (Season 3),,x,,,,
 7712,FALSE,Universal Vehicle Customization,Vehicle Decals,S3 Ranked Diamond,,,End of Season for Ranked Division Diamond I (Season 3),,x,,,,82
 7713,FALSE,Universal Weapon Customization,Weapon Camos,S3 Challenger,Other,,End of Season for Ranked Division Diamond I (Season 3),,x,,,,
 7714,FALSE,Universal Weapon Customization,Weapon Camos,S3 Skirmisher,Other,,End of Season for Ranked Division Gold I (Season 3),,x,,,,
@@ -7651,10 +7651,10 @@ Deal damage with Demolition Charges or Anti-Personnel Mines. (2,000)",GRT-CPS,,,
 7718,FALSE,Universal Weapon Customization,Weapon Camos,S3 Warrior,Other,,End of Season for Ranked Division Platinum I (Season 3),,x,,,,
 7719,FALSE,Universal Weapon Customization,Weapon Camos,S3 Scrapper,Other,,End of Season for Ranked Division Silver I (Season 3),,x,,,,
 7720,FALSE,Universal Weapon Customization,Weapon Stickers,S3 Ranked Gold,,,End of Season for Ranked Division Gold I (Season 3),,x,,,,811
-7721,FALSE,Player Card,Player Card Icons,S3 Ranked Champion,,,End of Season for Ranked Elite Top 1 (Season 3),,x,,,,139
+7721,FALSE,Player Card,Player Card Icons,S3 Ranked Champion,,,End of Season for Ranked Elite Top 1 (Season 3),,x,,,,
 7722,FALSE,Player Card,Player Card Stickers,S3 Ranked Champion [Top 1],,,End of Season for Ranked Elite Top 1 (Season 3),,x,,,,88
 7723,FALSE,Player Card,Player Card Backgrounds,S3 Ranked Elite,,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,,465
-7724,FALSE,Player Card,Player Card Icons,S3 Ranked Elite,,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,,138
+7724,FALSE,Player Card,Player Card Icons,S3 Ranked Elite,,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,,
 7725,FALSE,Player Card,Player Card Stickers,S3 Ranked Champion [Top  250],,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,,87
 7726,FALSE,Player Card,Player Card Titles,S3 Ranked Elite,,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,,114
 7727,FALSE,Universal Weapon Customization,Weapon Camos,S3 Eliminator,Other,,End of Season for Ranked Elite Top 250 (Season 3),,x,,,,
@@ -7677,13 +7677,13 @@ Deal damage with Demolition Charges or Anti-Personnel Mines. (2,000)",GRT-CPS,,,
 7744,FALSE,Appearance,Kahina Unité Support,Brewing Tempest,,Pax Armata,Inclement Weather (Store),,,x,,3,330
 7745,FALSE,Dog Tags,Dog Tags,Sparking Fracture,Other,,Inclement Weather (Store),,,x,,3,
 7746,FALSE,Player Card,Player Card Backgrounds,Search and Rescue,,,Inclement Weather (Store),,,x,,3,50
-7747,FALSE,Player Card,Player Card Icons,Divisive Strike,,,Inclement Weather (Store),,,x,,3,67
+7747,FALSE,Player Card,Player Card Icons,Divisive Strike,,,Inclement Weather (Store),,,x,,3,
 7748,FALSE,Player Card,Player Card Stickers,Thundering Dive,,,Inclement Weather (Store),,,x,,3,35
 7749,FALSE,Universal Soldier Customization,Uniform Patches,Time's Up,,,Inclement Weather (Store),,,x,,3,84
 7750,FALSE,Appearance,Coyote Squad Support,Battle-Scarred,,NATO,Insignia (Store),,,x,,3,110
 7751,FALSE,Gadget Skins,Defibrillator Skins,Brink of Death,Support,,Insignia (Store),,,x,,3,1
 7752,FALSE,Player Card,Player Card Backgrounds,Etched in Blood,,,Insignia (Store),,,x,,3,795
-7753,FALSE,Player Card,Player Card Icons,Rugged Camo,,,Insignia (Store),,,x,,3,146
+7753,FALSE,Player Card,Player Card Icons,Rugged Camo,,,Insignia (Store),,,x,,3,
 7754,FALSE,Player Card,Player Card Titles,Preserver,,,Insignia (Store),,,x,,3,130
 7755,FALSE,Universal Soldier Customization,Parachute Skins,Whirlwind,,,Insignia (Store),,,x,,3,72
 7756,FALSE,Universal Weapon Customization,Weapon Charms,Indelible,,,Insignia (Store),,,x,,3,771
@@ -7893,7 +7893,7 @@ Earn score in vehicles. (2,500)",IGLA,,,,3,
 7955,FALSE,Weapon Attachments,Mini Scout Attachments,Adjustable Magnification 2.00x,Optic Accessories,,Mini Scout Mastery 15,,,,,1,460
 7956,FALSE,Weapon Attachments,Mini Scout Attachments,Adjustable Magnification 3.00x,Optic Accessories,,Mini Scout Mastery 25,,,,,1,460
 7957,FALSE,Weapon Attachments,Mini Scout Attachments,Adjustable Magnification 4.00x,Optic Accessories,,Mini Scout Mastery 35,,,,,1,460
-7958,FALSE,Appearance,Strix Raiders Al-Khatib,Gloom Piercer,,NATO,Nocturnal Predator (Store),,,x,,3,200
+7958,FALSE,Appearance,Strix Raiders Al-Khatib,Gloom Piercer,,NATO,Nocturnal Predator (Store),,,x,Random reward for participating in the Season 3 Discord Q&A,3,200
 7959,FALSE,Appearance,Strix Raiders Moore,Echolocator,,NATO,Nocturnal Predator (Store),,,x,,3,100
 7960,FALSE,Player Card,Player Card Backgrounds,Deadly Escort,,,Nocturnal Predator (Store),,,x,,3,118
 7961,FALSE,Player Card,Player Card Titles,Flying Fox,,,Nocturnal Predator (Store),,,x,,3,75
@@ -7909,34 +7909,34 @@ Earn score in vehicles. (2,500)",IGLA,,,,3,
 7971,FALSE,Player Card,Player Card Stickers,S3 Bronze,,,Ranked Division Bronze II (Season 3),,,,,3,81
 7972,FALSE,Player Card,Player Card Backgrounds,S3 Bronze,,,Ranked Division Bronze III (Season 3),,,,,3,631
 7973,FALSE,Player Card,Player Card Titles,S3 Bronze,,,Ranked Division Bronze V (Season 3),,,,,3,82
-7974,FALSE,Player Card,Player Card Icons,S3 Bronze,,,Ranked Division Bronze IV (Season 3),,,,,3,132
+7974,FALSE,Player Card,Player Card Icons,S3 Bronze,,,Ranked Division Bronze IV (Season 3),,,,,3,
 7975,FALSE,Universal Weapon Customization,Weapon Charms,S3 Diamond,,,Ranked Division Diamond I (Season 3),,,,,3,711
 7976,FALSE,Player Card,Player Card Stickers,S3 Diamond,,,Ranked Division Diamond II (Season 3),,,,,3,85
 7977,FALSE,Player Card,Player Card Backgrounds,S3 Diamond,,,Ranked Division Diamond III (Season 3),,,,,3,390
-7978,FALSE,Player Card,Player Card Icons,S3 Diamond,,,Ranked Division Diamond IV (Season 3),,,,,3,136
+7978,FALSE,Player Card,Player Card Icons,S3 Diamond,,,Ranked Division Diamond IV (Season 3),,,,,3,
 7979,FALSE,Player Card,Player Card Titles,S3 Diamond,,,Ranked Division Diamond V (Season 3),,,,,3,112
 7980,FALSE,Universal Weapon Customization,Weapon Charms,S3 Gold,,,Ranked Division Gold I (Season 3),,,,,3,881
 7981,FALSE,Player Card,Player Card Stickers,S3 Gold,,,Ranked Division Gold II (Season 3),,,,,3,83
 7982,FALSE,Player Card,Player Card Backgrounds,S3 Gold,,,Ranked Division Gold III (Season 3),,,,,3,290
-7983,FALSE,Player Card,Player Card Icons,S3 Gold,,,Ranked Division Gold IV (Season 3),,,,,3,134
+7983,FALSE,Player Card,Player Card Icons,S3 Gold,,,Ranked Division Gold IV (Season 3),,,,,3,
 7984,FALSE,Player Card,Player Card Titles,S3 Gold,,,Ranked Division Gold V (Season 3),,,,,3,102
 7985,FALSE,Universal Weapon Customization,Weapon Charms,S3 Master,,,Ranked Division Master I (Season 3),,,,,3,382
 7986,FALSE,Player Card,Player Card Stickers,S3 Master,,,Ranked Division Master II (Season 3),,,,,3,86
 7987,FALSE,Player Card,Player Card Backgrounds,S3 Master,,,Ranked Division Master III (Season 3),,,,,3,425
-7988,FALSE,Player Card,Player Card Icons,S3 Master,,,Ranked Division Master IV (Season 3),,,,,3,137
+7988,FALSE,Player Card,Player Card Icons,S3 Master,,,Ranked Division Master IV (Season 3),,,,,3,
 7989,FALSE,Player Card,Player Card Titles,S3 Master,,,Ranked Division Master V (Season 3),,,,,3,113
 7990,FALSE,Universal Weapon Customization,Weapon Charms,S3 Platinum,,,Ranked Division Platinum I (Season 3),,,,,3,762
 7991,FALSE,Player Card,Player Card Stickers,S3 Platinum,,,Ranked Division Platinum II (Season 3),,,,,3,84
 7992,FALSE,Player Card,Player Card Backgrounds,S3 Platinum,,,Ranked Division Platinum III (Season 3),,,,,3,350
-7993,FALSE,Player Card,Player Card Icons,S3 Platinum,,,Ranked Division Platinum IV (Season 3),,,,,3,135
+7993,FALSE,Player Card,Player Card Icons,S3 Platinum,,,Ranked Division Platinum IV (Season 3),,,,,3,
 7994,FALSE,Player Card,Player Card Titles,S3 Platinum,,,Ranked Division Platinum V (Season 3),,,,,3,111
 7995,FALSE,Player Card,Player Card Backgrounds,S3 Rookie,,,Ranked Division Rookie III (Season 3),,,,,3,630
-7996,FALSE,Player Card,Player Card Icons,S3 Rookie,,,Ranked Division Rookie IV (Season 3),,,,,3,131
+7996,FALSE,Player Card,Player Card Icons,S3 Rookie,,,Ranked Division Rookie IV (Season 3),,,,,3,
 7997,FALSE,Player Card,Player Card Titles,S3 Rookie,,,Ranked Division Rookie V (Season 3),,,,,3,81
 7998,FALSE,Universal Weapon Customization,Weapon Charms,S3 Silver,,,Ranked Division Silver I (Season 3),,,,,3,101
 7999,FALSE,Player Card,Player Card Stickers,S3 Silver,,,Ranked Division Silver II (Season 3),,,,,3,82
 8000,FALSE,Player Card,Player Card Backgrounds,S3 Silver,,,Ranked Division Silver III (Season 3),,,,,3,632
-8001,FALSE,Player Card,Player Card Icons,S3 Silver,,,Ranked Division Silver IV (Season 3),,,,,3,133
+8001,FALSE,Player Card,Player Card Icons,S3 Silver,,,Ranked Division Silver IV (Season 3),,,,,3,
 8002,FALSE,Player Card,Player Card Titles,S3 Silver,,,Ranked Division Silver V (Season 3),,,,,3,101
 8003,FALSE,Challenges and Assignments,BF Pro Challenges,Battle Pass S3 Challenge 3,Challenge,,"Revive and redeploy teammates. Drag revives count double. (100)
 Deal damage. (5,000)",Next Level player card icon,,x,,3,
@@ -8054,7 +8054,7 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8115,FALSE,Appearance,Fireteam Vedmak Engineer,Urban Tactical,,Pax Armata,Season 3 Battle Pass BF Pro Tier 0,,,x,,3,260
 8116,FALSE,Gadget Skins,Ice Axe Skins,Professional Equipment,Melee,,Season 3 Battle Pass BF Pro Tier 0,,,x,,3,4
 8117,FALSE,Player Card,Player Card Backgrounds,Under Fire,,,Season 3 Battle Pass BF Pro Tier 0,,,x,,3,450
-8118,FALSE,Player Card,Player Card Icons,Special Delivery,,,Season 3 Battle Pass BF Pro Tier 0,,,x,,3,144
+8118,FALSE,Player Card,Player Card Icons,Special Delivery,,,Season 3 Battle Pass BF Pro Tier 0,,,x,,3,
 8119,FALSE,Vehicle Customizations,Transport Heli Skins,Fractured,,Pax Armata,Season 3 Battle Pass BF Pro Tier 0,,,x,,3,180
 8120,FALSE,Weapon Packages,CZ3A1 Packages,Riposte,SMG,,Season 3 Battle Pass BF Pro Tier 0,,,x,,3,9
 8121,FALSE,Universal Vehicle Customization,Vehicle Decals,Notorious Impact,,,Season 3 Battle Pass Prestige Tier 1,,,,,3,52
@@ -8078,7 +8078,7 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8139,FALSE,Weapon Attachments,L115 Attachments,SSDS 6.00x,Scopes,,Season 3 Battle Pass Recruit Tier 5,,,,,3,470
 8140,FALSE,Weapon Packages,L115 Packages,Factory,Sniper Rifle,,Season 3 Battle Pass Recruit Tier 5,,,,,3,5
 8141,FALSE,Weapons and Gadgets,Weapons,L115,Sniper Rifles,,Season 3 Battle Pass Recruit Tier 5,,,,,3,
-8142,FALSE,Player Card,Player Card Icons,Bullet Drip,,,Season 3 Battle Pass Smuggled Goods Tier 10,,,,,3,141
+8142,FALSE,Player Card,Player Card Icons,Bullet Drip,,,Season 3 Battle Pass Smuggled Goods Tier 10,,,,,3,
 8143,FALSE,Appearance,Dagger 1-3 Murphy,Standard Issue,,NATO,Season 3 Battle Pass Smuggled Goods Tier 11,,,x,,3,101
 8144,FALSE,Units,NATO Units,Dagger 1-3 Murphy,Engineer,NATO,Season 3 Battle Pass Smuggled Goods Tier 11,,,x,,3,
 8145,FALSE,Gadget Skins,X95 BRE Skins,Bandit Break,Assault,,Season 3 Battle Pass Smuggled Goods Tier 13,,,x,,3,10
@@ -8139,7 +8139,7 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8200,FALSE,Units,NATO Units,Dagger 1-3 Lopez,Support,NATO,Season 3 Battle Pass Warlords Command Tier 11,,,x,,3,
 8201,FALSE,Vehicle Customizations,Fighter Jet Skins,Death's Domain,,Pax Armata,Season 3 Battle Pass Warlords Command Tier 12,,,x,,3,200
 8202,FALSE,Weapon Packages,M87A1 Packages,Grim Calling,Shotgun,,Season 3 Battle Pass Warlords Command Tier 13,,,x,,3,1
-8203,FALSE,Player Card,Player Card Icons,Hairline Fracture,,,Season 3 Battle Pass Warlords Command Tier 14,,,,,3,140
+8203,FALSE,Player Card,Player Card Icons,Hairline Fracture,,,Season 3 Battle Pass Warlords Command Tier 14,,,,,3,
 8204,FALSE,Vehicle Customizations,Attack Heli Skins,Domineering Oversight,,Pax Armata,Season 3 Battle Pass Warlords Command Tier 17,,,x,,3,160
 8205,FALSE,Appearance,Panopticon 8 Mackenzie,Relentless Takeover,,Pax Armata,Season 3 Battle Pass Warlords Command Tier 18,,,,,3,390
 8206,FALSE,Player Card,Player Card Backgrounds,Omnipresent,,,Season 3 Battle Pass Warlords Command Tier 19,,,x,,3,690
@@ -8209,10 +8209,10 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8270,FALSE,Gadget Skins,RPG-7V2 Skins,Undergrowth Vision,Engineer,,Root Cutter (Store),,,x,,3,3
 8271,FALSE,Gadget Skins,SS26 Skins,Toxic Pierce,Assault,,Pincer Rush (Store),,,x,,3,40
 8272,FALSE,Player Card,Player Card Backgrounds,Rideshare,,,Unknown,,x,,,,790
-8273,FALSE,Player Card,Player Card Backgrounds,Scaled Offensive,,,Unknown,,x,,,,797
-8274,FALSE,Player Card,Player Card Icons,Scorpiod,,,Pincer Rush (Store),,,x,,3,55
-8275,FALSE,Player Card,Player Card Icons,UV-Free,,,Biting Chill (Store),,,x,,3,65
-8276,FALSE,Player Card,Player Card Icons,Let It Burn,,,Unknown,,x,,,,145
+8273,FALSE,Player Card,Player Card Backgrounds,Scaled Offensive,,,Unknown,,x,,,,897
+8274,FALSE,Player Card,Player Card Icons,Scorpiod,,,Pincer Rush (Store),,,x,,3,
+8275,FALSE,Player Card,Player Card Icons,UV-Free,,,Biting Chill (Store),,,x,,3,
+8276,FALSE,Player Card,Player Card Icons,Let It Burn,,,Unknown,,x,,,,
 8277,FALSE,Player Card,Player Card Stickers,Snowfall,,,Biting Chill (Store),,,x,,3,15
 8278,FALSE,Player Card,Player Card Stickers,Petrol Bomb,,,Accelerator Pack: Petrol Bomb (Store),,,x,,3,35
 8279,FALSE,Player Card,Player Card Stickers,Writhing Serpent,,,Striking Viper (Store),,,x,,3,55
@@ -8250,7 +8250,7 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8311,FALSE,Weapon Packages,M87A1 Packages,Telson Sting,Shotgun,,Pincer Rush (Store),,,x,,3,1
 8312,FALSE,Weapon Packages,P18 Packages,Shadow Watch,Secondary,,Unknown,,x,,,,1
 8313,FALSE,Weapon Packages,PW5A3 Packages,Paralyptic Pounce,SMG,,Pincer Rush (Store),,,x,,3,2
-8314,FALSE,Weapon Packages,SOR-300SC Packages,Sky Strike,Carbine,,Birds of Prey (Store),,,x,,3,8
+8314,FALSE,Weapon Packages,SOR-300SC Packages,Sky Strike,Carbine,,Birds of Prey (Store),,,x,Random reward for participating in the Season 3 Discord Q&A,3,8
 8315,FALSE,Weapon Packages,UMG-40 Packages,Perspectival Reset,SMG,,Unknown,,x,,,,4
 8316,FALSE,Weapon Packages,VZ. 61 Packages,War Hawk,Secondary,,Birds of Prey (Store),,,x,,3,7
 8317,FALSE,Weapon Packages,SGX Packages,Breachhead,SMG,,Unknown ,,x,,,,1
@@ -8264,3 +8264,241 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8325,FALSE,Dog Tags (taken),Dog Tags (taken),Live Wire,Other,,,,,,,3,
 8326,FALSE,Dog Tags (taken),Dog Tags (taken),Sparking Fracture,Other,,,,,,,3,
 8327,FALSE,Gadget Skins,IGLA Skins,Encoded,Engineer,,"Battle Pass owner gift (Season 3, Week 4)",,,x,,3,6
+8328,FALSE,Universal Vehicle Customization,Vehicle Decals,Blown Away,,,Bomb Squad (Store),,,x,,3,
+8329,FALSE,Gadget Skins,Defibrillator Skins,Extra Charge,Support,,Detonation Derby (Store),,,x,,3,
+8330,FALSE,Gadget Skins,Defibrillator Skins,Cold Shock Therapy,Support,,Unknown,,x,,,,
+8331,FALSE,Gadget Skins,Defibrillator Skins,Doom Dodger,Support,,Unknown,,x,,,,
+8332,FALSE,Universal Soldier Customization,Parachute Skins,Take Cover,,,Flash of Fury (Store),,,x,,3,260
+8333,FALSE,Universal Weapon Customization,Weapon Stickers,Double Duty,,,Season 3 Battle Pass Explosive Charge Tier 3,,,,,3,611
+8334,FALSE,Universal Vehicle Customization,Vehicle Decals,Too Tanky,,,Accelerator Pack: Too Tanky,,,x,,3,
+8335,FALSE,Gadget Skins,RPG-7V2 Skins,Charged Response,Engineer,,Season 3 Battle Pass Explosive Charge Tier 6,,,x,,3,3
+8336,FALSE,Weapon Packages,VCR-2 Packages,Combustive Tactics,Assault Rifle,,Bomb Squad (Store),,,x,,3,9
+8337,FALSE,Universal Weapon Customization,Weapon Charms,Boom Bloom,,,Season 3 Battle Pass Explosive Charge Tier 4,,,x,,3,655
+8338,FALSE,Universal Weapon Customization,Weapon Stickers,Countdown,,,Detonation Derby (Store),,,x,,3,612
+8339,FALSE,Player Card,Player Card Icons,Heavy Ordnance,,,Unknown,,x,,,,
+8340,FALSE,Player Card,Player Card Titles,Short Fused,,,Flash of Fury (Store),,,x,,3,
+8341,FALSE,Player Card,Player Card Icons,Stand Tall,,,Unknown,,x,,,,
+8342,FALSE,Player Card,Player Card Icons,Toro,,,Unknown,,x,,,,
+8343,FALSE,Player Card,Player Card Backgrounds,Smokeshow,,,Conflict Ignited (Store),,,x,,3,805
+8344,FALSE,Player Card,Player Card Backgrounds,Blown Cover,,,Detonation Derby (Store),,,x,,3,815
+8345,FALSE,Player Card,Player Card Backgrounds,Bad Omen,,,Flash of Fury (Store),,,x,,3,825
+8346,FALSE,Player Card,Player Card Backgrounds,Go Off,,,Bomb Squad (Store),,,x,,3,835
+8347,FALSE,Player Card,Player Card Backgrounds,Fresh Tracking,,,Unknown,,x,,,,845
+8348,FALSE,Player Card,Player Card Backgrounds,Raven Watch,,,Unknown,,x,,,,855
+8349,FALSE,Player Card,Player Card Backgrounds,Dusted,,,Season 3 Battle Pass Explosive Charge Tier 9,,,,,3,865
+8350,FALSE,Player Card,Player Card Backgrounds,Bullroarer,,,Unknown,,x,,,,875
+8351,FALSE,Player Card,Player Card Icons,Bottled Lightning,,,Flash of Fury (Store),,,x,,3,
+8352,FALSE,Player Card,Player Card Icons,Fragmentation,,,Conflict Ignited (Store),,,x,,3,
+8353,FALSE,Player Card,Player Card Icons,Trigger Grip,,,Detonation Derby (Store),,,x,,3,
+8354,FALSE,Player Card,Player Card Icons,Blast Initiative,,,Season 3 Battle Pass Explosive Charge tier 1,,,,,3,
+8355,FALSE,Universal Soldier Customization,Uniform Patches,Defuser,,,Flash of Fury (Store),,,x,,3,301
+8356,FALSE,Player Card,Player Card Titles,Grim Reaper,,,Unknown,,x,,,,
+8357,FALSE,Universal Soldier Customization,Uniform Patches,Shut It Down,,,Unknown,,x,,,,335
+8358,FALSE,Universal Soldier Customization,Uniform Patches,Get Loud,,,Flash of Fury (Store),,,x,,3,336
+8359,FALSE,Universal Vehicle Customization,Vehicle Decals,Igniting Incident,,,Season 3 Battle Pass Explosive Charge Tier 7,,,,,3,400
+8360,FALSE,Gadget Skins,MBT-LAW Skins,Launch Party,Engineer,,Bomb Squad (Store),,,x,,3,1
+8361,FALSE,Vehicle Customizations,Scout Helicopter Skins,Hostile Airdrop,,NATO,Season 3 Battle Pass Explosive Charge Tier 8,,,x,,3,70
+8362,FALSE,Vehicle Customizations,Scout Helicopter Skins,Ruby Sulphur,,NATO,Unknown,,x,,,,70
+8363,FALSE,Player Card,Player Card Stickers,Danger Ahead,,,Unknown,,x,,,,
+8364,FALSE,Player Card,Player Card Stickers,Volatile Volley,,,Unknown,,x,,,,
+8365,FALSE,Player Card,Player Card Stickers,Bleached,,,Unknown,,x,,,,
+8366,FALSE,Player Card,Player Card Stickers,Firewalk,,,Conflict Ignited (Store),,,x,,3,
+8367,FALSE,Universal Soldier Customization,Parachute Skins,Dust Cloud,,,Bomb Squad (Store),,,x,,3,44
+8368,FALSE,Universal Weapon Customization,Weapon Charms,Hothead,,,Bomb Squad (Store),,,x,,3,
+8369,FALSE,Universal Weapon Customization,Weapon Stickers,Busted,,,Bomb Squad (Store),,,x,,3,
+8370,TRUE,Vehicle Customizations,Anti Air Customizations,Laser-Guided,Secondary,,Default,,,,,3,0
+8371,TRUE,Vehicle Customizations,Anti Air Customizations,High-Velocity,Secondary,,Default,,,,,3,0
+8372,TRUE,Vehicle Customizations,Attack Heli Customizations,Thermal Optics,Upgrade 1,,Default,,,,,3,
+8373,FALSE,Weapon Attachments,18.5KS-K Attachments,#00 Buckshot,Ammunition,,Challenge SEASON 3 HARDWARE 5,,,,,3,500
+8374,FALSE,Weapon Attachments,DB-12 Attachments,#00 Buckshot,Ammunition,,Challenge SEASON 3 HARDWARE 5,,,,,3,
+8375,FALSE,Weapon Attachments,M1014 Attachments,#00 Buckshot,Ammunition,,Challenge SEASON 3 HARDWARE 5,,,,,3,
+8376,FALSE,Weapon Attachments,M87A1 Attachments,#00 Buckshot,Ammunition,,Challenge SEASON 3 HARDWARE 5,,,,,3,
+8377,FALSE,Universal Weapon Customization,Weapon Camos,Aurous,Other,,PP-19 Mastery 30,,,,,3,
+8378,FALSE,Universal Weapon Customization,Weapon Camos,Serrated Edge,Other,,PP-19 Mastery 5,,,,,3,
+8379,FALSE,Universal Weapon Customization,Weapon Camos,Springtail,Other,,PP-19 Mastery 15,,,,,3,
+8380,FALSE,Weapon Attachments,PP-19 Attachments,FMJ,Ammunition,,Season 3 Battle Pass Explosive Charge Tier 9,,,,,3,
+8381,FALSE,Weapon Attachments,PP-19 Attachments,Frangible,Ammunition,,PP-19 Mastery 33,,,,,3,
+8382,FALSE,Weapon Attachments,PP-19 Attachments,Hollow Point,Ammunition,,PP-19 Mastery 19,,,,,3,
+8383,FALSE,Weapon Attachments,PP-19 Attachments,Synthetic Tip,Ammunition,,PP-19 Mastery 37,,,,,3,
+8384,FALSE,Weapon Attachments,PP-19 Attachments,Tungsten Core,Ammunition,,PP-19 Mastery 6,,,,,3,
+8385,FALSE,Weapon Attachments,PP-19 Attachments,238mm Factory,Barrels,,Season 3 Battle Pass Explosive Charge Tier 9,,,,,3,
+8386,FALSE,Weapon Attachments,PP-19 Attachments,238mm Pencil,Barrels,,PP-19 Mastery 23,,,,,3,
+8387,FALSE,Weapon Attachments,PP-19 Attachments,367mm CIV,Barrels,,PP-19 Mastery 4,,,,,3,
+8388,FALSE,Weapon Attachments,PP-19 Attachments,238mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8389,FALSE,Weapon Attachments,PP-19 Attachments,Aftermarket Buffer,Ergonomics,,PP-19 Mastery 28,,,,,3,
+8390,FALSE,Weapon Attachments,PP-19 Attachments,Improved Mag Catch,Ergonomics,,PP-19 Mastery 14,,,,,3,
+8391,FALSE,Weapon Attachments,PP-19 Attachments,Flashlight,Left Accessories,,PP-19 Mastery 1,,,,,3,
+8392,FALSE,Weapon Attachments,PP-19 Attachments,Taclight - Aimed,Left Accessories,,PP-19 Mastery 21,,,,,3,
+8393,FALSE,Weapon Attachments,PP-19 Attachments,Taclight - Hip,Left Accessories,,PP-19 Mastery 25,,,,,3,
+8394,FALSE,Weapon Attachments,PP-19 Attachments,35RND Magazine,Magazines,,PP-19 Mastery 40,,,,,3,
+8395,FALSE,Weapon Attachments,PP-19 Attachments,20RND Fast Mag,Magazines,,PP-19 Mastery 8,,,,,3,
+8396,FALSE,Weapon Attachments,PP-19 Attachments,30RND Fast Mag,Magazines,,PP-19 Mastery 32,,,,,3,
+8397,FALSE,Weapon Attachments,PP-19 Attachments,30RND Magazine,Magazines,,Season 3 Battle Pass Explosive Charge Tier 9,,,,,3,
+8398,FALSE,Weapon Attachments,PP-19 Attachments,53RND Drum,Magazines,,PP-19 Mastery 16,,,,,3,
+8399,FALSE,Weapon Attachments,PP-19 Attachments,Compensated Brake,Muzzles,,PP-19 Mastery 30,,,,,3,
+8400,FALSE,Weapon Attachments,PP-19 Attachments,CQB Suppressor,Muzzles,,PP-19 Mastery 35,,,,,3,
+8401,FALSE,Weapon Attachments,PP-19 Attachments,Double-Port Brake,Muzzles,,PP-19 Mastery 16,,,,,3,
+8402,FALSE,Weapon Attachments,PP-19 Attachments,Flash Hider,Muzzles,,PP-19 Mastery 4,,,,,3,
+8403,FALSE,Weapon Attachments,PP-19 Attachments,Lightened Suppressor,Muzzles,,PP-19 Mastery ,,,,,3,
+8404,FALSE,Weapon Attachments,PP-19 Attachments,Linear Comp,Muzzles,,PP-19 Mastery 24,,,,,3,
+8405,FALSE,Weapon Attachments,PP-19 Attachments,Long Suppressor,Muzzles,,PP-19 Mastery ,,,,,3,
+8406,FALSE,Weapon Attachments,PP-19 Attachments,Flash Comp,Muzzles,,Season 3 Battle Pass Explosive Charge Tier 9,,,,,3,
+8407,FALSE,Weapon Attachments,PP-19 Attachments,Standard Suppressor,Muzzles,,PP-19 Mastery ,,,,,3,
+8408,FALSE,Weapon Attachments,PP-19 Attachments,Magnifier,Optic Accessories,,PP-19 Mastery 39,,,,,3,
+8409,FALSE,Weapon Attachments,PP-19 Attachments,Canted Iron Sights,Optic Accessories,,UNKNOWN,,x,,,,
+8410,FALSE,Weapon Attachments,PP-19 Attachments,Canted Reflex,Optic Accessories,,PP-19 Mastery 20,,,,,3,
+8411,FALSE,Weapon Attachments,PP-19 Attachments,Piggyback Reflex,Optic Accessories,,UNKNOWN,,x,,,,
+8412,FALSE,Weapon Attachments,PP-19 Attachments,120 MW Blue,Right Accessories,,PP-19 Mastery 33,,,,,3,
+8413,FALSE,Weapon Attachments,PP-19 Attachments,5 MW Green,Right Accessories,,PP-19 Mastery 11,,,,,3,
+8414,FALSE,Weapon Attachments,PP-19 Attachments,5 MW Red,Right Accessories,,Season 3 Battle Pass Explosive Charge Tier 9,,,,,3,
+8415,FALSE,Weapon Attachments,PP-19 Attachments,50 MW Blue,Right Accessories,,PP-19 Mastery 27,,,,,3,
+8416,FALSE,Weapon Attachments,PP-19 Attachments,50 MW Green,Right Accessories,,PP-19 Mastery 24,,,,,3,
+8417,FALSE,Weapon Attachments,PP-19 Attachments,50 MW Violet,Right Accessories,,PP-19 Mastery 40,,,,,3,
+8418,FALSE,Weapon Attachments,PP-19 Attachments,1P87 1.50x,Scopes,,Season 3 Battle Pass Explosive Charge Tier 9,,,,,3,
+8419,FALSE,Weapon Attachments,PP-19 Attachments,2PRO 1.25x,Scopes,,PP-19 Mastery 15,,,,,3,
+8420,FALSE,Weapon Attachments,PP-19 Attachments,3VZR 1.75x,Scopes,,PP-19 Mastery 29,,,,,3,
+8421,FALSE,Weapon Attachments,PP-19 Attachments,A-P2 1.75x,Scopes,,PP-19 Mastery 34,,,,,3,
+8422,FALSE,Weapon Attachments,PP-19 Attachments,BAKER 3.00x,Scopes,,PP-19 Mastery 6,,,,,3,
+8423,FALSE,Weapon Attachments,PP-19 Attachments,BF-2M 2.50x,Scopes,,PP-19 Mastery 3,,,,,3,
+8424,FALSE,Weapon Attachments,PP-19 Attachments,CCO 2.00x,Scopes,,PP-19 Mastery 26,,,,,3,
+8425,FALSE,Weapon Attachments,PP-19 Attachments,CQ RDS 1.25x,Scopes,,PP-19 Mastery 13,,,,,3,
+8426,FALSE,Weapon Attachments,PP-19 Attachments,Grim 1.50x,Scopes,,PP-19 Mastery 35,,,,,3,
+8427,FALSE,Weapon Attachments,PP-19 Attachments,Iron Sights,Scopes,,Season 3 Battle Pass Explosive Charge Tier 9,,,,,3,
+8428,FALSE,Weapon Attachments,PP-19 Attachments,LDS 4.50x,Scopes,,PP-19 Mastery 22,,,,,3,
+8429,FALSE,Weapon Attachments,PP-19 Attachments,Mars-F LPVO,Scopes,,PP-19 Mastery 31,,,,,3,
+8430,FALSE,Weapon Attachments,PP-19 Attachments,Mini Flex 1.00x,Scopes,,PP-19 Mastery 2,,,,,3,
+8431,FALSE,Weapon Attachments,PP-19 Attachments,OSA-7 1.00x,Scopes,,PP-19 Mastery 1,,,,,3,
+8432,FALSE,Weapon Attachments,PP-19 Attachments,PAS-35 3.00x,Scopes,,PP-19 Mastery 38,,,,,3,
+8433,FALSE,Weapon Attachments,PP-19 Attachments,PVQ-31 4.00x,Scopes,,PP-19 Mastery 17,,,,,3,
+8434,FALSE,Weapon Attachments,PP-19 Attachments,R-MR 1.00x,Scopes,,PP-19 Mastery 7,,,,,3,
+8435,FALSE,Weapon Attachments,PP-19 Attachments,R4T 2.00x,Scopes,,PP-19 Mastery 12,,,,,3,
+8436,FALSE,Weapon Attachments,PP-19 Attachments,RO-M 1.75x,Scopes,,PP-19 Mastery 21,,,,,3,
+8437,FALSE,Weapon Attachments,PP-19 Attachments,RO-S 1.25x,Scopes,,PP-19 Mastery 36,,,,,3,
+8438,FALSE,Weapon Attachments,PP-19 Attachments,ROX 1.50x,Scopes,,PP-19 Mastery 18,,,,,3,
+8439,FALSE,Weapon Attachments,PP-19 Attachments,SDO 3.50x,Scopes,,PP-19 Mastery 11,,,,,3,
+8440,FALSE,Weapon Attachments,PP-19 Attachments,SF-G2 5.00x,Scopes,,PP-19 Mastery 25,,,,,3,
+8441,FALSE,Weapon Attachments,PP-19 Attachments,ST Prisim 5.00x,Scopes,,PP-19 Mastery 27,,,,,3,
+8442,FALSE,Weapon Attachments,PP-19 Attachments,SU-230 LPVO,Scopes,,PP-19 Mastery 5,,,,,3,
+8443,FALSE,Weapon Attachments,PP-19 Attachments,SU-231 1.50x,Scopes,,PP-19 Mastery 9,,,,,3,
+8444,FALSE,Weapon Attachments,PP-19 Attachments,TH-RDS 1.00x,Scopes,,PP-19 Mastery 39,,,,,3,
+8445,FALSE,Weapon Attachments,PP-19 Attachments,6H64 Vertical,Underbarrels,,PP-19 Mastery 29,,,,,3,
+8446,FALSE,Weapon Attachments,PP-19 Attachments,Alloy Vertical,Underbarrels,,PP-19 Mastery 14,,,,,3,
+8447,FALSE,Weapon Attachments,PP-19 Attachments,Canted Stubby,Underbarrels,,PP-19 Mastery 22,,,,,3,
+8448,FALSE,Weapon Attachments,PP-19 Attachments,Classic Vertical,Underbarrels,,PP-19 Mastery 37,,,,,3,
+8449,FALSE,Weapon Attachments,PP-19 Attachments,Compact Handstop,Underbarrels,,PP-19 Mastery 2,,,,,3,
+8450,FALSE,Weapon Attachments,PP-19 Attachments,Folding Stubby,Underbarrels,,PP-19 Mastery 9,,,,,3,
+8451,FALSE,Weapon Attachments,PP-19 Attachments,Folding Vertical,Underbarrels,,PP-19 Mastery 7,,,,,3,
+8452,FALSE,Weapon Attachments,PP-19 Attachments,Low-Profile Stubby,Underbarrels,,PP-19 Mastery 38,,,,,3,
+8453,FALSE,Weapon Attachments,PP-19 Attachments,Ribbed Stubby,Underbarrels,,PP-19 Mastery 17,,,,,3,
+8454,FALSE,Weapon Attachments,PP-19 Attachments,Ribbed Vertical,Underbarrels,,PP-19 Mastery 19,,,,,3,
+8455,FALSE,Weapon Attachments,PP-19 Attachments,Slim Angled,Underbarrels,,PP-19 Mastery 12,,,,,3,
+8456,FALSE,Weapon Attachments,PP-19 Attachments,Stippled Stubby,Underbarrels,,PP-19 Mastery 32,,,,,3,
+8457,FALSE,Weapon Packages,PP-19 Packages,Factory,SMG,,Season 3 Battle Pass Explosive Charge Tier 9,,,,,3,
+8458,FALSE,Weapon Packages,PP-19 Packages,Warfighter,SMG,,PP-19 Mastery 10,,,,,3,
+8459,FALSE,Weapon Packages,PP-19 Packages,Unstoppable Force,SMG,,PP-19 Mastery 50,,,,,3,
+8460,FALSE,Badges,SMG Badges,PP-19,Bronze,,PP-19 Mastery 10,,,,,3,
+8461,FALSE,Badges,SMG Badges,PP-19,Silver,,PP-19 Mastery 20,,,,,3,
+8462,FALSE,Badges,SMG Badges,PP-19,Gold,,PP-19 Mastery 30,,,,,3,
+8463,FALSE,Badges,SMG Badges,PP-19,Platinum,,PP-19 Mastery 40,,,,,3,
+8464,FALSE,Badges,SMG Badges,PP-19,Elite,,PP-19 Mastery 50,,,,,3,
+8465,FALSE,Weapons and Gadgets,Weapons,PP-19,SMG,,Season 3 Battle Pass Explosive Charge Tier 9,,,,,3,
+8466,FALSE,Weapons and Gadgets,Gadgets,Handheld Jammer,Recon,,Season 3 Battle Pass Explosive Charge Tier 5,,,,,3,
+8467,FALSE,Weapon Attachments,PP-19 Attachments,238mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,210
+8468,FALSE,Weapon Attachments,B36A4 Attachments,480mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8469,FALSE,Weapon Attachments,SOR-556 MK2 Attachments,"16"" Cryogenic",Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8470,FALSE,Weapon Attachments,AK-205 Attachments,314mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8471,FALSE,Weapon Attachments,AK4D Attachments,450mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8472,FALSE,Weapon Attachments,KORD 6P67 Attachments,415mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8473,FALSE,Weapon Attachments,L85A3 Attachments,518mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8474,FALSE,Weapon Attachments,M277 Attachments,"13"" Cryogenic",Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8475,FALSE,Weapon Attachments,M417 A2 Attachments,"13"" Cryogenic",Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8476,FALSE,Weapon Attachments,M16A4 Attachments,"18"" Cryogenic",Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8477,FALSE,Weapon Attachments,NVO-228E Attachments,409mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8478,FALSE,Weapon Attachments,PW5A3 Attachments,225mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8479,FALSE,Weapon Attachments,PW7A2 Attachments,180mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8480,FALSE,Weapon Attachments,QBZ-192 Attachments,"10.5"" Cryogenic",Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8481,FALSE,Weapon Attachments,SL9 Attachments,"9"" Cryogenic",Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8482,FALSE,Weapon Attachments,SOR-300SC Attachments,"9"" Cryogenic",Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8483,FALSE,Weapon Attachments,UMG-40 Attachments,200mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8484,FALSE,Weapon Attachments,USG-90 Attachments,264mm Cryogenic,Barrels,,Challenge SEASON 3 HARDWARE 6,,,,,3,
+8485,TRUE,Universal Soldier Customization,Spray Paints,Look Up,,,Default,,,,,3,
+8486,FALSE,Universal Soldier Customization,Spray Paints,Last Warning,,,Bomb Squad (Store),,,x,,3,
+8487,FALSE,Universal Soldier Customization,Spray Paints,Sound Off,,,"Free Store Gift (Season 3, Week 5)",,,,,3,
+8488,FALSE,Universal Soldier Customization,Spray Paints,On Fire,,,Conflict Ignited (Store),,,x,,3,
+8489,FALSE,Universal Soldier Customization,Spray Paints,Follow,,,Unknown,,x,,,,
+8490,FALSE,Universal Soldier Customization,Spray Paints,Friendly Advice,,,Flash of Fury (Store),,,x,,3,
+8491,FALSE,Universal Soldier Customization,Spray Paints,Spot On,,,Unknown (was only visible a couple of hours),,x,,,,
+8492,FALSE,Universal Soldier Customization,Spray Paints,Marked,,,Unknown,,x,,,,
+8493,FALSE,Universal Soldier Customization,Spray Paints,Inert,,,Detonation Derby (Store),,,x,,3,
+8494,FALSE,Universal Soldier Customization,Uniform Patches,Blast Badge,,,Conflict Ignited (Store),,,x,,3,
+8495,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Algeria,,,,,x,,,,
+8496,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Argentina,,,,,x,,,,
+8497,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Australia,,,,,x,,,,
+8498,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Austria,,,,,x,,,,
+8499,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Belgium,,,,,x,,,,
+8500,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Bosnia-Herzegovina,,,,,x,,,,
+8501,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Brazil,,,,,x,,,,
+8502,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Cabo Verde,,,,,x,,,,
+8503,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Canada,,,,,x,,,,
+8504,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Colombia,,,,,x,,,,
+8505,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Côte D'ivoire,,,,,x,,,,
+8506,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Croatia,,,,,x,,,,
+8507,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Curacao,,,,,x,,,,
+8508,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Czechia,,,,,x,,,,
+8509,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Democratic Republic of the Congo,,,,,x,,,,
+8510,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Ecuador,,,,,x,,,,
+8511,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Egypt,,,,,x,,,,
+8512,FALSE,Universal Soldier Customization,Uniform Patches,Flag of England,,,,,x,,,,
+8513,FALSE,Universal Soldier Customization,Uniform Patches,Flag of France,,,,,x,,,,
+8514,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Germany,,,,,x,,,,
+8515,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Ghana,,,,,x,,,,
+8516,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Haiti,,,,,x,,,,
+8517,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Iran,,,,,x,,,,
+8518,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Iraq,,,,,x,,,,
+8519,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Japan,,,,,x,,,,
+8520,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Jordan,,,,,x,,,,
+8521,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Mexico,,,,,x,,,,
+8522,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Morocco,,,,,x,,,,
+8523,FALSE,Universal Soldier Customization,Uniform Patches,Flag of The Netherlands,,,,,x,,,,
+8524,FALSE,Universal Soldier Customization,Uniform Patches,Flag of New Zealand,,,,,x,,,,
+8525,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Norway,,,,,x,,,,
+8526,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Panama,,,,,x,,,,
+8527,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Paraguay,,,,,x,,,,
+8528,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Portugal,,,,,x,,,,
+8529,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Qatar,,,,,x,,,,
+8530,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Saudi Arabia,,,,,x,,,,
+8531,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Scotland,,,,,x,,,,
+8532,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Senegal,,,,,x,,,,
+8533,FALSE,Universal Soldier Customization,Uniform Patches,Flag of South Africa,,,,,x,,,,
+8534,FALSE,Universal Soldier Customization,Uniform Patches,Flag of South Korea,,,,,x,,,,
+8535,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Spain,,,,,x,,,,
+8536,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Sweden,,,,,x,,,,
+8537,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Switzerland,,,,,x,,,,
+8538,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Tunisia,,,,,x,,,,
+8539,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Turkey,,,,,x,,,,
+8540,FALSE,Universal Soldier Customization,Uniform Patches,Flag of The United States,,,,,x,,,,
+8541,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Uruguay,,,,,x,,,,
+8542,FALSE,Universal Soldier Customization,Uniform Patches,Flag of Uzbekistan,,,,,x,,,,
+8543,FALSE,Weapon Packages,DRS-IAR Packages,Soul Harvester,LMG,,Unknown,,x,,,,2
+8544,FALSE,Weapon Packages,SG 553R Packages,Perimeter Lock,Carbine,,Detonation Derby (Store),,,x,,3,
+8545,FALSE,Weapon Packages,M123K Packages,Groundwork,LMG,,Detonation Derby (Store),,,x,,3,
+8546,FALSE,Weapon Packages,Mini Scout Packages,Remote Control,Sniper Rifle,,Detonation Derby (Store),,,x,,3,
+8547,FALSE,Weapon Packages,PW5A3 Packages,Outburst,SMG,,Season 3 Battle Pass Explosive Charge Tier 2,,,x,,3,
+8548,FALSE,Weapon Packages,M45A1 Packages,Reaper's Sickle,Secondary,,Unknown,,x,,,,
+8549,FALSE,Weapon Packages,VZ. 61 Packages,Hotwired,Secondary,,Flash of Fury (Store),,,x,,3,
+8550,FALSE,Appearance,Fireteam Vedmak Engineer,Firebreather,,Pax Armata,Conflict Ignited (Store),,,x,,3,
+8551,FALSE,Appearance,Espada Engineer,Stormchaser,,Pax Armata,Flash of Fury (Store),,,x,,3,
+8552,FALSE,Appearance,Espada Engineer,Rampage,,Pax Armata,Unknown,,x,,,,
+8553,FALSE,Appearance,Fireteam Vedmak Support,Crimson Commando,,Pax Armata,Unknown,,x,,,,
+8554,FALSE,Appearance,Espada Support,Guaranteed Impact,,Pax Armata,Unknown,,x,,,,
+8555,FALSE,Appearance,The Desert Locusts Engineer,Burnout,,NATO,Conflict Ignited (Store),,,x,,3,
+8556,FALSE,Appearance,The Desert Locusts Support,Keen Disruptor,,NATO,Season 3 Battle Pass Explosive Charge Tier 10,,,x,,3,
+8557,FALSE,Dog Tags (taken),Dog Tags (taken),Blast Zone,Other,,,,,,,3,
+8558,FALSE,Dog Tags (taken),Dog Tags (taken),Bullheaded,Other,,,,x,,,,
+8559,FALSE,Dog Tags (taken),Dog Tags (taken),Flambé,Other,,,,,,,3,
+8560,FALSE,Dog Tags (taken),Dog Tags (taken),Fire in the Hole,Other,,,,,,,3,
+8561,FALSE,Dog Tags,Dog Tags,Blast Zone,Other,,Bomb Squad (Store),,,x,,3,
+8562,FALSE,Dog Tags,Dog Tags,Bullheaded,Other,,Unknown,,x,,,,
+8563,FALSE,Dog Tags,Dog Tags,Flambé,Other,,Conflict Ignited (Store),,,x,,3,
+8564,FALSE,Dog Tags,Dog Tags,Fire in the Hole,Other,,Detonation Derby (Store),,,x,,3,
+8565,FALSE,Universal Weapon Customization,Weapon Charms,Primed,,,Detonation Derby (Store),,,x,,3,265
