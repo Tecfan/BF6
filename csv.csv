@@ -5416,10 +5416,10 @@ Ready Reserves (Store)",1,320
 5449,FALSE,Appearance,Fireteam Vedmak Recon,Peripheral Vision,,Pax Armata,Double-Edged Sword (Store),,,x,,1,360
 5450,FALSE,Appearance,Kahina Unité Engineer,Sand Raid,,Pax Armata,Challenge BREAKTHROUGH CHALLENGE 4,,,,,1,280
 5451,FALSE,Appearance,Kahina Unité Support,Makeshift Medic,,Pax Armata,Pax Contraband (Store),,,x,,1,330
-5452,FALSE,Appearance,The 323 AJ,Standard Issue,,NATO,The 323 (Store),,,x,,1,90
-5453,FALSE,Appearance,The 323 Campbell,Standard Issue,,NATO,The 323 (Store),,,x,,1,140
-5454,FALSE,Appearance,The 323 Lin,Standard Issue,,NATO,The 323 (Store),,,x,,1,40
-5455,FALSE,Appearance,The 323 Weathers,Standard Issue,,NATO,The 323 (Store),,,x,,1,190
+5452,FALSE,Appearance,The 323 AJ,Standard Issue,,NATO,The 323 (Store),,,x,323 Home Watch (Store),1,90
+5453,FALSE,Appearance,The 323 Campbell,Standard Issue,,NATO,The 323 (Store),,,x,323 Heartland Rush (Store),1,140
+5454,FALSE,Appearance,The 323 Lin,Standard Issue,,NATO,The 323 (Store),,,x,323 Heartland Rush (Store),1,40
+5455,FALSE,Appearance,The 323 Weathers,Standard Issue,,NATO,The 323 (Store),,,x,323 Home Watch (Store),1,190
 5456,FALSE,Appearance,The Desert Locusts Assault,Bad Neighbor,,NATO,Season 1 Battle Pass California Resistance Tier 10,,,x,,1,30
 5457,FALSE,Appearance,The Desert Locusts Recon,Red Ochre,,NATO,Twin Flames (Store),,,x,,1,180
 5458,FALSE,Appearance,The Desert Locusts Support,Death Valley,,NATO,Twin Flames (Store),,,x,,1,130
@@ -5486,7 +5486,7 @@ Get kills from a distance of 15m or less. (50)",Slim Handstop weapon attachment 
 5523,FALSE,Player Card,Player Card Backgrounds,Send It,,,Longshot (Store),,,x,,1,1080
 5524,FALSE,Player Card,Player Card Backgrounds,Uprising,,,Twin Flames (Store),,,x,,1,1020
 5525,FALSE,Player Card,Player Card Backgrounds,Urban Maneuver,,,Night Rider (Store),,,x,,1,1
-5526,FALSE,Player Card,Player Card Backgrounds,Wings of Courage,,,The 323 (Store),,,x,,1,1
+5526,FALSE,Player Card,Player Card Backgrounds,Wings of Courage,,,The 323 (Store),,,x,323 Home Watch (Store),1,1
 5527,FALSE,Player Card,Player Card Icons,Blastoff,,,Challenge COMPLETE MATCHES IN BATTLE ROYALE [California Resistance 2025],,,,,1,1
 5528,FALSE,Player Card,Player Card Icons,Corn Blaster,,,Bountiful Harvest (Store),,,x,,1,
 5529,FALSE,Player Card,Player Card Icons,Dynamo,,,Challenge DEAL DAMAGE. [California Resistance 2025],,,,,1,1
@@ -5522,10 +5522,10 @@ Get kills from a distance of 15m or less. (50)",Slim Handstop weapon attachment 
 5559,FALSE,Player Card,Player Card Titles,Ripple Effect Dev,,,Developer,,,,,0,5000
 5560,FALSE,Player Card,Player Card Titles,Sleeper,,,Serrated Steel (Store),,,x,,1,170
 5561,FALSE,Player Card,Player Card Titles,Upholder,,,Sole Survivor (Store),,,x,,1,160
-5569,FALSE,Units,NATO Units,The 323 AJ,Engineer,NATO,The 323 (Store),,,x,,1,
-5570,FALSE,Units,NATO Units,The 323 Campbell,Support,NATO,The 323 (Store),,,,,1,
-5571,FALSE,Units,NATO Units,The 323 Lin,Assault,NATO,The 323 (Store),,,,,1,
-5572,FALSE,Units,NATO Units,The 323 Weathers,Recon,NATO,The 323 (Store),,,x,,1,
+5569,FALSE,Units,NATO Units,The 323 AJ,Engineer,NATO,The 323 (Store),,,x,323 Home Watch (Store),1,
+5570,FALSE,Units,NATO Units,The 323 Campbell,Support,NATO,The 323 (Store),,,,323 Heartland Rush (Store),1,
+5571,FALSE,Units,NATO Units,The 323 Lin,Assault,NATO,The 323 (Store),,,,323 Heartland Rush (Store),1,
+5572,FALSE,Units,NATO Units,The 323 Weathers,Recon,NATO,The 323 (Store),,,x,323 Home Watch (Store),1,
 5573,FALSE,Universal Soldier Customization,Parachute Skins,Elliptic,,,Bountiful Harvest (Store),,,x,"Bountiful Harvest (February 2026 version) (Store)
 Ready Reserves (Store)",1,350
 5574,FALSE,Universal Soldier Customization,Parachute Skins,Flux,,,Mars Ascendant (Store),,,x,,1,1
@@ -5538,7 +5538,7 @@ Ready Reserves (Store)",1,350
 5581,FALSE,Universal Soldier Customization,Parachute Skins,Vortex,,,Sole Survivor (Store),,,x,,1,340
 5582,FALSE,Universal Soldier Customization,Parachute Skins,Wingtip,,,Local Conditions (Store),,,x,,1,240
 5583,FALSE,Universal Soldier Customization,Parachute Skins,Zenith,,,Challenge CONSECUTIVE TIME SPENT PARACHUTING IN SECONDS. [Red Bull 2025],,,,,1,1
-5584,FALSE,Universal Soldier Customization,Uniform Patches,Always Ready,,,The 323 (Store),,,x,,1,1
+5584,FALSE,Universal Soldier Customization,Uniform Patches,Always Ready,,,The 323 (Store),,,x,323 Home Watch (Store),1,1
 5585,FALSE,Universal Soldier Customization,Uniform Patches,Arid Climate,,,Twin Flames (Store),,,x,,1,360
 5586,FALSE,Universal Soldier Customization,Uniform Patches,Born Free,,,Season 1 Battle Pass California Resistance Tier 2,,,x,,1,1
 5587,FALSE,Universal Soldier Customization,Uniform Patches,Bull Headed,,,Challenge TRAVEL USING GROUND VEHICLES IN METERS. [Red Bull 2025],,,,,1,1
@@ -5554,7 +5554,7 @@ Ready Reserves (Store)",1,350
 5597,FALSE,Universal Vehicle Customization,Vehicle Decals,Nitty-Gritty,General,,Breacher (Store),,,x,,1,370
 5598,FALSE,Universal Vehicle Customization,Vehicle Decals,Phobos,General,,Mars Ascendant (Store),,,x,,1,1
 5599,FALSE,Universal Vehicle Customization,Vehicle Decals,Striking Point,General,,Iconic Arms (Store),,,x,,1,1
-5600,FALSE,Universal Vehicle Customization,Vehicle Decals,Swift Patriot,General,,The 323 (Store),,,x,,1,1
+5600,FALSE,Universal Vehicle Customization,Vehicle Decals,Swift Patriot,General,,The 323 (Store),,,x,323 Heartland Rush (Store),1,1
 5601,FALSE,Universal Weapon Customization,Weapon Camos,Compact Ice,Misc,,M357 TRAIT Mastery 5,,,,,1,
 5602,FALSE,Universal Weapon Customization,Weapon Camos,Cracked Terrain,Desert,,DB-12 Mastery 15,,,,,1,
 5603,FALSE,Universal Weapon Customization,Weapon Camos,Graffiti,General,,DB-12 Mastery 5,,,,,1,
@@ -5576,7 +5576,7 @@ Ready Reserves (Store)",1,350
 5619,FALSE,Universal Weapon Customization,Weapon Charms,Machine Ghost,General,,Calibration (Store),,,x,,1,450
 5620,FALSE,Universal Weapon Customization,Weapon Charms,Safety First,General,,California Cache (Store),,,x,,1,170
 5621,FALSE,Universal Weapon Customization,Weapon Charms,Star-Spangled Banner,General,,Twin Flames (Store),,,x,,1,850
-5622,FALSE,Universal Weapon Customization,Weapon Charms,Street Roller,General,,The 323 (Store),,,x,,1,1
+5622,FALSE,Universal Weapon Customization,Weapon Charms,Street Roller,General,,The 323 (Store),,,x,323 Heartland Rush (Store),1,1
 5623,FALSE,Universal Weapon Customization,Weapon Charms,The Long View,General,,Longshot (Store),,,x,,1,970
 5624,FALSE,Universal Weapon Customization,Weapon Charms,Winging It,General,,Aeronautic (Store),,,x,,1,680
 5625,FALSE,Universal Weapon Customization,Weapon Charms,Wingspan,General,,Season 1 Battle Pass California Resistance Tier 5,,,x,,1,1
@@ -5994,7 +5994,7 @@ Get Shotgun kills in a life. (4)",DB-12,,,,1,
 6189,FALSE,Dog Tags,Dog Tags,Motile Motif,Other,,Unknown,,x,,,,
 6191,FALSE,Dog Tags,Dog Tags,Winged Desolation,Other,,Unknown,,x,,,,
 6193,FALSE,Dog Tags,Dog Tags,Unrivaled Ursus,Other,,Massive Casualty (Store),,,x,,1,
-6195,FALSE,Dog Tags,Dog Tags,Star-Spangled,Other,,Unknown (changed name from Heat Treatment in June 2026),,x,,,,
+6195,FALSE,Dog Tags,Dog Tags,Star-Spangled,Other,,Proud Independence (Store),,,x,,3,
 6197,FALSE,Dog Tags,Dog Tags,Eagle's Stare,Other,,Unknown (removed April 2026),,x,,,,
 6199,FALSE,Player Card,Player Card Backgrounds,On the Threshold,,,Battlefield REDSEC Elite Series Match Day #1 Twitch Drops (watch 1 hour),,,,,1,1
 6200,FALSE,Player Card,Player Card Backgrounds,Bear Down,,,Massive Casualty (Store),,,x,,1,1240
@@ -7983,7 +7983,6 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8209,FALSE,Appearance,Fireteam Vedmak Engineer,Controlled Burn,,Pax Armata,Season 3 Battle Pass Warlords Command Tier 22,,,x,,3,260
 8210,FALSE,Weapon Packages,LMR27 Packages,Resolve Burst,DMR,,Season 3 Battle Pass Warlords Command Tier 4,,,x,,3,2
 8211,FALSE,Universal Soldier Customization,Uniform Patches,Beyond Death,,,Season 3 Battle Pass Warlords Command Tier 5,,,x,,3,272
-8211,FALSE,Universal Soldier Customization,Uniform Patches,Crowd Control,,,Unknown,,x,,,,273
 8212,FALSE,Weapon Packages,NVO-228E Packages,Shiner,Assault Rifle,,Season 3 Battle Pass Warlords Command Tier 6,,,,,3,7
 8213,FALSE,Appearance,The 323 AJ,Counteroffensive,,NATO,Season 3 Battle Pass Warlords Command Tier 7,,,x,,3,90
 8214,FALSE,Vehicle Customizations,ATP Skins,Decreed Command,,Pax Armata,Season 3 Battle Pass Warlords Command Tier 9,,,x,,3,140
@@ -8166,11 +8165,8 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8400,FALSE,Weapon Attachments,PP-19 Attachments,CQB Suppressor,Muzzles,,PP-19 Mastery 35,,,,,3,275
 8401,FALSE,Weapon Attachments,PP-19 Attachments,Double-Port Brake,Muzzles,,PP-19 Mastery 16,,,,,3,275
 8402,FALSE,Weapon Attachments,PP-19 Attachments,Flash Hider,Muzzles,,PP-19 Mastery 4,,,,,3,275
-8403,FALSE,Weapon Attachments,PP-19 Attachments,Lightened Suppressor,Muzzles,,PP-19 Mastery ,,,,,3,275
 8404,FALSE,Weapon Attachments,PP-19 Attachments,Linear Comp,Muzzles,,PP-19 Mastery 24,,,,,3,275
-8405,FALSE,Weapon Attachments,PP-19 Attachments,Long Suppressor,Muzzles,,PP-19 Mastery ,,,,,3,275
 8406,FALSE,Weapon Attachments,PP-19 Attachments,Flash Comp,Muzzles,,Season 3 Battle Pass Explosive Charge Tier 11,,,,,3,275
-8407,FALSE,Weapon Attachments,PP-19 Attachments,Standard Suppressor,Muzzles,,PP-19 Mastery ,,,,,3,275
 8408,FALSE,Weapon Attachments,PP-19 Attachments,Magnifier,Optic Accessories,,PP-19 Mastery 39,,,,,3,275
 8410,FALSE,Weapon Attachments,PP-19 Attachments,Canted Reflex,Optic Accessories,,PP-19 Mastery 20,,,,,3,275
 8411,FALSE,Weapon Attachments,PP-19 Attachments,Piggyback Reflex,Optic Accessories,,PP-19 Mastery 30,,,,,3,275
@@ -8338,29 +8334,29 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8577,FALSE,Vehicle Customizations,IFV Skins,Amazonas,,Pax Armata,Mold Breaker (Store),,,x,,3,120
 8578,FALSE,Universal Vehicle Customization,Vehicle Decals,Mão Amiga,General,,Mold Breaker (Store),,,x,,3,275
 8579,FALSE,Universal Vehicle Customization,Vehicle Decals,Braço Forte,General,,Mold Breaker (Store),,,x,,3,265
-8580,FALSE,Appearance,United Albion Assault,Ally,,NATO,Unknown,,x,,,,20
-8581,FALSE,Appearance,The 323 Lin,Lethal Stinger,,NATO,Unknown,,x,,,,40
+8580,FALSE,Appearance,United Albion Assault,Ally,,NATO,Trench Crawlers (Store),,,x,,3,20
+8581,FALSE,Appearance,The 323 Lin,Lethal Stinger,,NATO,Season 3 Battle Pass BF Pro Tier 6,,,x,,3,40
 8582,FALSE,Appearance,Coyote Squad Engineer,Tank Trap,,NATO,Unknown,,x,,,,60
-8583,FALSE,Appearance,United Albion Engineer,Wedgehead,,NATO,Unknown,,x,,,,70
+8583,FALSE,Appearance,United Albion Engineer,Wedgehead,,NATO,Trench Crawlers (Store),,,x,,3,70
 8584,FALSE,Appearance,The Desert Locusts Engineer,Burnout,,NATO,Unknown,,x,,,,80
 8585,FALSE,Appearance,United Albion Support,Assault Prime,,NATO,Wet Work challenge 10 [June 2026],,,,,3,120
-8586,FALSE,Appearance,United Albion Support,Buckshee,,NATO,Unknown,,x,,,,120
+8586,FALSE,Appearance,United Albion Support,Buckshee,,NATO,Trench Crawlers (Store),,,x,,3,120
 8587,FALSE,Appearance,The Desert Locusts Support,Keen Disruptor,,NATO,Unknown,,x,,,,130
-8588,FALSE,Appearance,Strix Raiders Al-Khatib,Frontliner Fixer,,NATO,Unknown,,x,,,,141
-8589,FALSE,Appearance,United Albion Recon,Recce,,NATO,Unknown,,x,,,,170
+8588,FALSE,Appearance,Strix Raiders Al-Khatib,Frontline Fixer,,NATO,Wreck and Rebuild (Store),,,x,,3,141
+8589,FALSE,Appearance,United Albion Recon,Recce,,NATO,Trench Crawlers (Store),,,x,,3,170
 8590,FALSE,Appearance,United Albion Recon,Secret Scavenger,,NATO,Trickster's Grin (Store),,,x,,3,170
 8591,FALSE,Appearance,The Desert Locusts Recon,Desert Watcher,,NATO,Unknown,,x,,,,180
 8592,FALSE,Gadget Skins,M320A1 HE Skins,Scarlet Scales,Assault,,Unknown,,x,,,,20
 8593,FALSE,Player Card,Player Card Stickers,Bite the Bullet,,,Unknown,,x,,,,44
-8594,FALSE,Player Card,Player Card Stickers,Scorpion's Bulwark,,,Unknown,,x,,,,44
+8594,FALSE,Player Card,Player Card Stickers,Scorpion's Bulwark,,,Season 3 Battle Pass BF Pro Tier 8,,,x,,3,44
 8595,FALSE,Player Card,Player Card Stickers,Unsheathed,,,The Steel Talon (Store),,,x,,3,44
 8596,FALSE,Units,Pax Armata Units,Steel Talon Rebar,Assault,Pax Armata,The Steel Talon (Store),,,x,,3,
 8597,FALSE,Units,Pax Armata Units,Steel Talon Torrent,Engineer,Pax Armata,The Steel Talon (Store),,,x,,3,
 8598,FALSE,Units,Pax Armata Units,Steel Talon Streets,Support,Pax Armata,The Steel Talon (Store),,,x,,3,
 8599,FALSE,Units,Pax Armata Units,Steel Talon Mantra,Recon,Pax Armata,The Steel Talon (Store),,,x,,3,
-8600,FALSE,Vehicle Customizations,MBT Skins,Vivid Warning,,NATO,Unknown,,x,,,,10
-8601,FALSE,Vehicle Customizations,IFV Skins,Ecowarrior,,NATO,Unknown,,x,,,,20
-8602,FALSE,Vehicle Customizations,Light Ground Transport Skins,Twilight Carapace,,NATO,Unknown,,x,,,,30
+8600,FALSE,Vehicle Customizations,MBT Skins,Vivid Warning,,NATO,Poison Control (Store),,,x,,3,10
+8601,FALSE,Vehicle Customizations,IFV Skins,Ecowarrior,,NATO,Accelerator Pack: Ecowarrior (Store),,,x,,3,20
+8602,FALSE,Vehicle Customizations,Light Ground Transport Skins,Twilight Carapace,,NATO,Season 3 Battle Pass BF Pro Tier 3,,,x,,3,30
 8603,FALSE,Vehicle Customizations,Light Ground Transport Skins,Road Ranger,,NATO,Target Acquired (Store),,,x,,3,30
 8604,FALSE,Vehicle Customizations,ATP Skins,Gold Standard,,NATO,ATP Mastery 50,,,,,3,40
 8605,FALSE,Vehicle Customizations,ATP Skins,City Slicker,,NATO,Wet Work challenge 3 [June 2026],,,,,3,40
@@ -8368,65 +8364,65 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8607,FALSE,Weapon Packages,SOR-556 MK2 Packages,Death-Dealing,Assault Rifle,,Unknown,,x,,,,3
 8608,FALSE,Weapon Packages,SOR-556 MK2 Packages,Street Sweeper,Assault Rifle,,Wet Work challenge 2 [June 2026],,,,,3,3
 8609,FALSE,Weapon Packages,TR-7 Packages,Battle Wraith,Assault Rifle,,Unknown,,x,,,,5
-8610,FALSE,Weapon Packages,L85A3 Packages,Deathsting,Assault Rifle,,Unknown,,x,,,,8
+8610,FALSE,Weapon Packages,L85A3 Packages,Deathsting,Assault Rifle,,Season 3 Battle Pass BF Pro Tier 10,,,x,,3,8
 8611,FALSE,Weapon Packages,M4A1 Packages,Final Bite,Carbine,,Trickster's Grin (Store),,,x,,3,1
 8612,FALSE,Weapon Packages,M277 Packages,Shatter Shell,Carbine,,Unknown,,x,,,,2
 8613,FALSE,Weapon Packages,SG 553R Packages,Gilded Lattice,Carbine,,"Battle Pass owner gift (Season 3, Week 8)",,,,,3,7
-8614,FALSE,Weapon Packages,M39 EMR Packages,Warning Signs,DMR,,Unknown,,x,,,,1
-8615,FALSE,Weapon Packages,LMR27 Packages,Dead of Night,DMR,,Creator Program,,,,,3,2
+8614,FALSE,Weapon Packages,M39 EMR Packages,Warning Signs,DMR,,Poison Control (Store),,,x,,3,1
+8615,FALSE,Weapon Packages,LMR27 Packages,Dead of Night,DMR,,Our Protection (Store),,,x,Creator Network,3,2
 8616,FALSE,Weapon Packages,SVK-8.6 Packages,Frontdescent Cover,DMR,,Unknown,,x,,,,3
 8617,FALSE,Weapon Packages,M123K Packages,Groundwork,LMG,,Unknown,,x,,,,5
-8618,FALSE,Universal Soldier Customization,Spray Paints,Treaty Tag,,,Unknown (NATO),,x,,,,10
+8618,FALSE,Universal Soldier Customization,Spray Paints,Treaty Tag,,,Trench Crawlers (Store),,,x,,3,10
 8619,FALSE,Universal Soldier Customization,Spray Paints,Squad Up,,,The Steel Talon (Store),,,x,,3,20
 8620,FALSE,Universal Vehicle Customization,Vehicle Decals,Coiled  Blade,General,,Unknown,,x,,,,25
 8621,FALSE,Universal Vehicle Customization,Vehicle Decals,Sting Operation,General,,Wet Work challenge 7 [June 2026],,,,,3,45
 8622,FALSE,Weapon Packages,M240L Packages,Last Word,LMG,,Wet Work challenge 5 [June 2026],,,,,3,8
-8623,FALSE,Universal Vehicle Customization,Vehicle Decals,Eagle Strike,General,,Unknown,,x,,,,51
+8623,FALSE,Universal Vehicle Customization,Vehicle Decals,Eagle Strike,General,,Proud Independence (Store),,,x,,3,51
 8624,FALSE,Weapon Packages,M121 A2 Packages,Hard Cast,LMG,,Unknown,,x,,,,9
 8625,FALSE,Weapon Packages,ES 5.7 Packages,Tree Frog,Secondary,,Season 4 BF Pro Pre-Purchase,,,x,,3,2
 8626,FALSE,Gadget Skins,MAS 148 Skins,Bursting in Air,Engineer,,Unknown,,x,,,,4
-8627,FALSE,Universal Soldier Customization,Parachute Skins,Yellowjacket,,,Unknown,,x,,,,71
+8627,FALSE,Universal Soldier Customization,Parachute Skins,Yellowjacket,,,Poison Control (Store),,,x,,3,71
 8628,FALSE,Universal Soldier Customization,Uniform Patches,Shroud Hound,,,Trickster's Grin (Store),,,x,,3,51
 8629,FALSE,Universal Soldier Customization,Uniform Patches,Cackling Bandit,,,Unknown,,x,,,,52
-8630,FALSE,Universal Soldier Customization,Uniform Patches,Death Roll,,,Unknown,,x,,,,61
-8631,FALSE,Universal Soldier Customization,Uniform Patches,By the Dawn,,,Unknown,,x,,,,62
+8630,FALSE,Universal Soldier Customization,Uniform Patches,Death Roll,,,Trench Crawlers (Store),,,x,,3,61
+8631,FALSE,Universal Soldier Customization,Uniform Patches,By the Dawn,,,Proud Independence (Store),,,x,,3,62
 8632,FALSE,Appearance,Kahina Unité Assault,Vagrant Vigilante,,Pax Armata,Unknown,,x,,,,230
 8633,FALSE,Appearance,Steel Talon Rebar,Standard Issue,,Pax Armata,The Steel Talon (Store),,,x,,3,251
 8634,FALSE,Appearance,Fireteam Vedmak Engineer,Firebreather,,Pax Armata,Unknown,,x,,,,260
 8635,FALSE,Universal Weapon Customization,Weapon Charms,NATO United,General,,Unknown,,x,,,,271
 8636,FALSE,Universal Weapon Customization,Weapon Charms,Slithering Terror,General,,Unknown,,x,,,,352
-8637,FALSE,Universal Weapon Customization,Weapon Stickers,Home of the Brave,General,,Unknown,,x,,,,95
+8637,FALSE,Universal Weapon Customization,Weapon Stickers,Home of the Brave,General,,Proud Independence (Store),,,x,,3,95
 8638,FALSE,Universal Weapon Customization,Weapon Stickers,Spitting Venom,General,,Unknown,,x,,,,115
 8639,FALSE,Universal Weapon Customization,Weapon Stickers,Sighted Prey,General,,The Steel Talon (Store),,,x,,3,225
-8640,FALSE,Universal Weapon Customization,Weapon Stickers,Uprising,General,,Unknown,,x,,,,352
+8640,FALSE,Universal Weapon Customization,Weapon Stickers,Uprising,General,,Stateless (Store),,,x,,3,352
 8641,FALSE,Universal Vehicle Customization,Vehicle Decals,Impending Blaze,General,,Unknown,,x,,,,81
 8642,FALSE,Universal Vehicle Customization,Vehicle Decals,Tandem Bullet,General,,Unknown,,x,,,,82
-8643,FALSE,Player Card,Player Card Backgrounds,Going Green,,,Unknown,,x,,,,100
-8644,FALSE,Player Card,Player Card Backgrounds,Sweep the Block,,,Unknown,,x,,,,100
+8643,FALSE,Player Card,Player Card Backgrounds,Going Green,,,Wreck and Rebuild (Store),,,x,,3,100
+8644,FALSE,Player Card,Player Card Backgrounds,Sweep the Block,,,Our Protection (Store),,,x,,3,100
 8645,FALSE,Player Card,Player Card Backgrounds,Bullet Hail,,,Wet Work challenge 1 [June 2026],,,,,3,100
 8646,FALSE,Player Card,Player Card Backgrounds,Concealment,,,Unknown,,x,,,,100
-8647,FALSE,Player Card,Player Card Backgrounds,Wildwood Grave,,,Unknown,,x,,,,100
+8647,FALSE,Player Card,Player Card Backgrounds,Wildwood Grave,,,Season 3 Battle Pass BF Pro Tier 5,,,x,,3,100
 8648,FALSE,Player Card,Player Card Backgrounds,Territorial,,,Trickster's Grin (Store),,,x,,3,100
 8649,FALSE,Player Card,Player Card Icons,Shotgunned,,,Wet Work challenge 8 [June 2026],,,,,3,
 8650,FALSE,Player Card,Player Card Icons,Origin Story,,,Unknown,,x,,,,
-8651,FALSE,Player Card,Player Card Icons,Shields Up,,,Unknown,,x,,,,
-8652,FALSE,Player Card,Player Card Icons,Desert Venom,,,Unknown,,x,,,,
+8651,FALSE,Player Card,Player Card Icons,Shields Up,,,Our Protection (Store),,,x,,3,
+8652,FALSE,Player Card,Player Card Icons,Desert Venom,,,Season 3 Battle Pass BF Pro Tier 7,,,x,,3,
 8653,FALSE,Player Card,Player Card Icons,Corvid,,,Unknown,,x,,,,
-8654,FALSE,Player Card,Player Card Stickers,Freedom's Wings,,,Unknown,,x,,,,110
+8654,FALSE,Player Card,Player Card Stickers,Freedom's Wings,,,Proud Independence (Store),,,x,,3,110
 8655,FALSE,Player Card,Player Card Stickers,Ancestral Protection,,,Unknown,,x,,,,110
-8656,FALSE,Player Card,Player Card Stickers,Renovation Crew,,,Unknown,,x,,,,93
+8656,FALSE,Player Card,Player Card Stickers,Renovation Crew,,,Wreck and Rebuild (Store),,,x,,3,93
 8657,FALSE,Universal Soldier Customization,Parachute Skins,Agile Pounce,,,Trickster's Grin (Store),,,x,,3,101
-8658,FALSE,Vehicle Customizations,IFV Skins,Disruptive Patterning,,Pax Armata,Unknown,,x,,,,120
+8658,FALSE,Vehicle Customizations,IFV Skins,Disruptive Patterning,,Pax Armata,Trench Crawlers (Store),,,x,,3,120
 8659,FALSE,Appearance,Espada Engineer,Stormchaser,,Pax Armata,Unknown,,x,,,,270
 8660,FALSE,Player Card,Player Card Icons,Rabid Growl,,,Trickster's Grin (Store),,,x,,3,
 8661,FALSE,Appearance,Kahina Unité Engineer,Cunning Roamer,,Pax Armata,Unknown,,x,,,,280
-8662,FALSE,Gadget Skins,Combat Knife Skins,Old Glory,Melee,,Unknown,,x,,,,1
+8662,FALSE,Gadget Skins,Combat Knife Skins,Old Glory,Melee,,Proud Independence (Store),,,x,,3,1
 8663,FALSE,Universal Vehicle Customization,Vehicle Decals,Uniting Seal,General,,Unknown,,x,,,,195
 8664,FALSE,Appearance,Steel Talon Torrent,Standard Issue,,Pax Armata,The Steel Talon (Store),,,x,,3,292
 8665,FALSE,Gadget Skins,EOD Bot Arm Skins,Standard Issue,Melee,,Wet Work Challenge Completion Reward [June 2026],,,,,3,
-8666,FALSE,Player Card,Player Card Titles,Street Guard,,,Unknown,,x,,,,240
-8667,FALSE,Universal Soldier Customization,Uniform Patches,Stand Fast,,,Unknown,,x,,,,151
-8668,FALSE,Universal Weapon Customization,Weapon Charms,Sulphurous,General,,Unknown,,x,,,,621
+8666,FALSE,Player Card,Player Card Titles,Street Guard,,,Our Protection (Store),,,x,,3,240
+8667,FALSE,Universal Soldier Customization,Uniform Patches,Stand Fast,,,Our Protection (Store),,,x,,3,151
+8668,FALSE,Universal Weapon Customization,Weapon Charms,Sulphurous,General,,Poison Control (Store),,,x,,3,621
 8669,FALSE,Vehicle Customizations,ATP Skins,Riot Wrecker,,Pax Armata,ATP Mastery 50,,,,,3,140
 8670,FALSE,Vehicle Customizations,ATP Skins,Poisonous Maw,,Pax Armata,Unknown,,x,,,,140
 8671,FALSE,Weapon Packages,PW5A3 Packages,Outburst,SMG,,Unknown,,x,,,,2
@@ -8435,15 +8431,15 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8674,FALSE,Universal Soldier Customization,Uniform Patches,Dust Scoundrel,,,Trickster's Grin (Store),,,x,,3,169
 8675,FALSE,Universal Vehicle Customization,Vehicle Decals,Blown Away,General,,Unknown,,x,,,,245
 8676,FALSE,Universal Weapon Customization,Weapon Charms,Pinched Husk,General,,Unknown,,x,,,,645
-8677,FALSE,Universal Weapon Customization,Weapon Charms,Golden Scorpion,General,,Unknown,,x,,,,665
+8677,FALSE,Universal Weapon Customization,Weapon Charms,Golden Scorpion,General,,Season 3 Battle Pass BF Pro Tier 4,,,x,,3,665
 8678,FALSE,Universal Weapon Customization,Weapon Stickers,Infestation,General,,Unknown,,x,,,,611
 8679,FALSE,Player Card,Player Card Titles,Sharp Striker,,,The Steel Talon (Store),,,x,,3,1
 8680,FALSE,Appearance,Kahina Unité Support,Cytotoxic,,Pax Armata,Unknown,,x,,,,330
 8681,FALSE,Appearance,Panopticon 8 Brodie,Urban Sentry,,Pax Armata,Target Acquired (Store),,,x,,3,340
-8682,FALSE,Appearance,Task Force Vector Atlas,Pax Patrol,,Pax Armata,Creator Program,,,,,,341
+8682,FALSE,Appearance,Task Force Vector Atlas,Pax Patrol,,Pax Armata,Our Protection (Store),,,x,Creator Program,3,341
 8683,FALSE,Gadget Skins,Serrated Blade Skins,Reptile Shear,Melee,,Unknown,,x,,,,5
 8684,FALSE,Universal Soldier Customization,Parachute Skins,City Survey,,,Target Acquired (Store),,,x,,3,261
-8685,FALSE,Universal Soldier Customization,Uniform Patches,Jaws of Death,,,Unknown,,x,,,,212
+8685,FALSE,Universal Soldier Customization,Uniform Patches,Jaws of Death,,,Trench Crawlers (Store),,,x,,3,212
 8686,FALSE,Universal Soldier Customization,Uniform Patches,Bite Back,,,Accelerator Pack: Bite Back (Store),,,x,,3,241
 8687,FALSE,Universal Vehicle Customization,Vehicle Decals,Hooded Fang,General,,Unknown,,x,,,,295
 8688,FALSE,Universal Vehicle Customization,Vehicle Decals,Scraped Through,General,,The Steel Talon (Store),,,x,,3,305
@@ -8454,37 +8450,37 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8693,FALSE,Appearance,Steel Talon Streets,Standard Issue,,Pax Armata,The Steel Talon (Store),,,x,,3,342
 8694,FALSE,Appearance,Steel Talon Mantra,Standard Issue,,Pax Armata,The Steel Talon (Store),,,x,,3,500
 8695,FALSE,Universal Weapon Customization,Weapon Charms,Enlightening Blade,General,,Unknown,,x,,,,905
-8696,FALSE,Universal Weapon Customization,Weapon Stickers,Pax's Greeting,General,,Unknown,,x,,,,755
+8696,FALSE,Universal Weapon Customization,Weapon Stickers,Pax's Greeting,General,,Stateless (Store),,,x,,3,755
 8697,FALSE,Universal Weapon Customization,Weapon Stickers,Spotted,General,,Target Acquired (Store),,,x,,3,762
 8698,FALSE,Player Card,Player Card Backgrounds,Dead End,,,Unknown,,x,,,,897
-8699,FALSE,Player Card,Player Card Backgrounds,No Way Out,,,Unknown,,x,,,,897
+8699,FALSE,Player Card,Player Card Backgrounds,No Way Out,,,Trench Crawlers (Store),,,x,,3,897
 8700,FALSE,Player Card,Player Card Backgrounds,Get a Grip,,,The Steel Talon (Store),,,x,,3,897
 8701,FALSE,Player Card,Player Card Backgrounds,Take the Shot,,,Target Acquired (Store),,,x,,3,897
-8702,FALSE,Player Card,Player Card Backgrounds,Fall In,,,Unknown,,x,,,,897
+8702,FALSE,Player Card,Player Card Backgrounds,Fall In,,,Trench Crawlers (Store),,,x,,3,897
 8703,FALSE,Player Card,Player Card Backgrounds,Dummy Grenade,,,Unknown,,x,,,,897
 8704,FALSE,Player Card,Player Card Backgrounds,Tactical Driving,,,Unknown,,x,,,,897
 8705,FALSE,Player Card,Player Card Backgrounds,Brass Scales,,,Unknown,,x,,,,897
-8706,FALSE,Player Card,Player Card Icons,Service Drop,,,Unknown,,x,,,,1
+8706,FALSE,Player Card,Player Card Icons,Service Drop,,,Proud Independence (Store),,,x,,3,1
 8707,FALSE,Universal Weapon Customization,Weapon Charms,Smouldering Grin,General,,Unknown,,x,,,,995
 8708,FALSE,Player Card,Player Card Titles,Death Dog,,,Trickster's Grin (Store),,,x,,3,15
 8709,FALSE,Universal Soldier Customization,Parachute Skins,Low Profile,,,Wet Work challenge 4 [June 2026],,,,,3,402
 8710,FALSE,Universal Soldier Customization,Parachute Skins,Breaksurf Drop,,,Unknown,,x,,,,403
-8711,FALSE,Universal Soldier Customization,Parachute Skins,Wind Down,,,Unknown,,x,,,,404
-8712,FALSE,Weapon Packages,PSR Packages,Anarkhia,Sniper Rifle,,Unknown,,x,,,,3
+8711,FALSE,Universal Soldier Customization,Parachute Skins,Wind Down,,,Our Protection (Store),,,x,,3,404
+8712,FALSE,Weapon Packages,PSR Packages,Anarkhia,Sniper Rifle,,Stateless (Store),,,x,,3,3
 8713,FALSE,Weapon Packages,PSR Packages,Locked Down,Sniper Rifle,,Unknown,,x,,,,3
 8714,FALSE,Gadget Skins,SICH G1 WP Skins,Bone Reign,Support,,Unknown,,x,,,,2
-8715,FALSE,Universal Soldier Customization,Spray Paints,Downfall,,,Unknown,,x,,,,50
+8715,FALSE,Universal Soldier Customization,Spray Paints,Downfall,,,Wreck and Rebuild (Store),,,x,,3,50
 8716,FALSE,Universal Soldier Customization,Spray Paints,Dry Spell,,,Wet Work challenge 6 [June 2026],,,,,3,110
 8717,FALSE,Universal Soldier Customization,Spray Paints,Lead,,,Unknown,,x,,,,80
-8718,FALSE,Weapon Packages,L115 Packages,Terminal Assault,Sniper Rifle,,Unknown,,x,,,,5
+8718,FALSE,Weapon Packages,L115 Packages,Terminal Assault,Sniper Rifle,,Season 3 Battle Pass BF Pro Tier 1,,,x,,3,5
 8719,FALSE,Appearance,Panopticon 8 Mackenzie,Marsh Devil,,Pax Armata,Unknown,,x,,,,390
-8720,FALSE,Dog Tags,Dog Tags,Ashes and Dust,Other,,"Unknown (""To Dust We Shall Return"")",,x,,,,
+8720,FALSE,Dog Tags,Dog Tags,Ashes and Dust,Other,,Poison Control (Store),,,x,,3,
 8721,FALSE,Dog Tags,Dog Tags,Envenomation,Other,,Unknown,,x,,,,
 8722,FALSE,Dog Tags,Dog Tags,Swift and Lethal,Other,,The Steel Talon (Store),,,,,3,
 8723,FALSE,Dog Tags,Dog Tags,Mapped Out,Other,,Target Acquired (Store),,,,,,
 8724,FALSE,Universal Soldier Customization,Spray Paints,One-Tap,,,Target Acquired (Store),,,x,,3,120
 8725,FALSE,Universal Soldier Customization,Spray Paints,Opportunistic,,,Trickster's Grin (Store),,,x,,3,40
-8726,FALSE,Universal Soldier Customization,Spray Paints,Overhead,,,Unknown,,x,,,,100
+8726,FALSE,Universal Soldier Customization,Spray Paints,Overhead,,,Our Protection (Store),,,x,,3,100
 8727,FALSE,Weapon Attachments,M433 Attachments,Compensator,Muzzles,,Challenge SEASON 3 HARDWARE 7,,,,,3,
 8728,FALSE,Weapon Attachments,B36A4 Attachments,Compensator,Muzzles,,Challenge SEASON 3 HARDWARE 7,,,,,3,
 8729,FALSE,Weapon Attachments,SOR-556 MK2 Attachments,Compensator,Muzzles,,Challenge SEASON 3 HARDWARE 7,,,,,3,
@@ -8548,3 +8544,5 @@ Deal damage. (5,000)",Next Level player card icon,,x,,3,
 8787,FALSE,Weapon Attachments,GGH-22 Attachments,Subsonic HP,Ammunition,,Challenge SEASON 3 HARDWARE 8,,,,,3,
 8788,FALSE,Weapon Attachments,VZ. 61 Attachments,Compensator,Muzzles,,Challenge SEASON 3 HARDWARE 7,,,,,3,
 8789,FALSE,Dog Tags,Dog Tags,Warming House,Other,,Unknown,,x,,,,
+8790,FALSE,Player Card,Player Card Titles,Liberty and Justice,,,Proud Independence (Store),,,x,,3,160
+8791,FALSE,Universal Soldier Customization,Uniform Patches,Crowd Control,,,Our Protection (Store),,,x,,3,273
